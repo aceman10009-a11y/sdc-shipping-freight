@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SDC Shipping Freight</title>
+
+<link rel="icon" type="image/png" href="favicon.png">
+
+<link rel="stylesheet" href="css/style.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+<script>
+emailjs.init("4x7TunwBjBhNSxbhu");
+</script>
+
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<header class="navbar">
+    <div class="logo">
+        <img src="images/logo.JPG" alt="SDC Logo">
+        <h1>SDC Shipping Freight</h1>
+    </div>
+
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#track">Track</a>
+        <a href="#why">Why Us</a>
+        <a href="#contact">Contact</a>
+        <a href="#donate">Donate</a>
+    </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-text">
+        <a href="#donate">Donate</a>
+        <h2>Global Shipping. Local Trust.</h2>
+        <p>Fast, secure and reliable freight solutions worldwide.</p>
+
+        <div class="hero-buttons">
+            <a href="#track">Track Shipment</a>
+            <a href="#contact">Get Quote</a>
+        </div>
+    </div>
+
+    <div class="hero-card">
+        <img src="images/logo.JPG" alt="logo">
+        <img src="images/truck.JPG" alt="truck">
+    </div>
+</section>
+
+<!-- SERVICES -->
+<section id="services" class="section">
+    <h2>Our Services</h2>
+
+    <div class="grid">
+
+        <div class="card">
+            <h3>Sea Freight</h3>
+            <p>
+                We provide reliable sea freight solutions for bulk cargo transportation across international ports,
+                ensuring safe handling and cost-effective global shipping.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Air Freight</h3>
+            <p>
+                Our air freight service delivers urgent shipments quickly and securely across global destinations,
+                with real-time tracking and priority handling.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Land Transport</h3>
+            <p>
+                We offer efficient road transport services for regional and cross-border deliveries,
+                ensuring timely and safe cargo movement.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>Warehousing</h3>
+            <p>
+                Our secure warehousing facilities provide storage, inventory control, and distribution support
+                for businesses of all sizes.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+<!-- TRACK -->
+<section id="track" class="section dark">
+    <h2>Track Shipment</h2>
+
+    <input id="trackingId" placeholder="Enter Tracking ID">
+    <button onclick="trackShipment()">Track</button>
+
+    <div id="trackResult"></div>
+</section>
+<section class="section">
+    <h2>Global Logistics Network</h2>
+
+    <div class="stats">
+
+        <div class="stat-box">
+            <h3>120+</h3>
+            <p>Ports Connected</p>
+        </div>
+
+        <div class="stat-box">
+            <h3>50+</h3>
+            <p>Countries Served</p>
+        </div>
+
+        <div class="stat-box">
+            <h3>24/7</h3>
+            <p>Shipment Monitoring</p>
+        </div>
+
+        <div class="stat-box">
+            <h3>99%</h3>
+            <p>Delivery Reliability</p>
+        </div>
+
+    </div>
+</section>
+
+<section id="why" class="section">
+    <h2>Why Choose Us</h2>
+
+    <div class="grid">
+
+    <div class="card">
+        <h3>Global Network</h3>
+        <p>We operate across international shipping routes, connecting major ports and logistics hubs worldwide.</p>
+    </div>
+
+    <div class="card">
+        <h3>On-Time Delivery</h3>
+        <p>We prioritize fast and reliable delivery schedules to ensure your shipments arrive as planned.</p>
+    </div>
+
+    <div class="card">
+        <h3>Secure Handling</h3>
+        <p>Every shipment is carefully managed with strict security standards to protect your goods.</p>
+    </div>
+
+    <div class="card">
+        <h3>Strategic Partnership</h3>
+        <p>We partner with Cainiao Global to enhance global logistics efficiency, tracking capabilities, and cross-border delivery performance.</p>
+    </div>
+
+</div>
+
+</section>
+
+
+<!-- CONTACT -->
+<section id="contact" class="section">
+    <h2>Contact Us</h2>
+
+    <p>Email: contact@sdcshippingfreight.com</p>
+
+    <div class="viber">
+        <a href="viber://chat?number=%2B17329168175">
+            <i class="fab fa-viber"></i>
+            Viber: +1 732 916 8175
+        </a>
+    </div>
+
+    <input id="name" placeholder="Full Name">
+    <input id="email" placeholder="Email">
+    <textarea id="message" placeholder="Message"></textarea>
+
+    <button onclick="sendEmail()">Send Request</button>
+
+    <p id="emailResult"></p>
+</section>
+
+<section id="donate" class="section">
+    <h2>Support Our Logistics Network</h2>
+
+    <p>
+        Your support helps us improve global shipping operations, tracking systems, and faster delivery infrastructure.
+    </p>
+
+    <button onclick="alert('Payment integration coming soon')">
+        Donate Now
+    </button>
+</section>
+<footer class="footer">
+    <p>© 2026 SDC Shipping Freight | Global Logistics Solutions | Partners with Cainiao Global</p>
+</footer>
+<!-- Firebase SDKs -->
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+
+<!-- Your script LAST -->
+<script src="js/script.js"></script>
+
+
+
+</body>
+</html>

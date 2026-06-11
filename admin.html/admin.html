@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin Panel</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="loginBox">
+  <h2>Admin Login</h2>
+  <input id="adminEmail" placeholder="Email">
+  <input id="adminPass" type="password" placeholder="Password">
+  <button onclick="login()">Login</button>
+</div>
+
+<div id="adminPanel" style="display:none;">
+  <h2>Shipment Control</h2>
+
+  <input id="shipId" placeholder="Tracking ID">
+  <input id="shipStatus" placeholder="Status">
+  <input id="shipLocation" placeholder="Location">
+
+  <button onclick="saveShipment()">Save</button>
+
+  <button onclick="logout()">Logout</button>
+
+  <p id="adminResult"></p>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+<script src="js/admin.js"></script>
+
+</body>
+</html>
