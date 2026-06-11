@@ -1,14 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SDC Shipping Freight</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<!-- Google Analytics (PUT HERE - FIRST THING IN HEAD IS FINE) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5E1W0598M3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5E1W0598M3');
+</script>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SDC Shipping Freight</title>
 
 <link rel="icon" type="image/png" href="favicon.png">
-
 <link rel="stylesheet" href="css/style.css">
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
@@ -40,7 +55,6 @@ emailjs.init("4x7TunwBjBhNSxbhu");
 <!-- HERO -->
 <section class="hero">
     <div class="hero-text">
-        <a href="#donate">Donate</a>
         <h2>Global Shipping. Local Trust.</h2>
         <p>Fast, secure and reliable freight solutions worldwide.</p>
 
@@ -61,39 +75,25 @@ emailjs.init("4x7TunwBjBhNSxbhu");
     <h2>Our Services</h2>
 
     <div class="grid">
-
         <div class="card">
             <h3>Sea Freight</h3>
-            <p>
-                We provide reliable sea freight solutions for bulk cargo transportation across international ports,
-                ensuring safe handling and cost-effective global shipping.
-            </p>
+            <p>We provide reliable sea freight solutions for bulk cargo transportation across international ports.</p>
         </div>
 
         <div class="card">
             <h3>Air Freight</h3>
-            <p>
-                Our air freight service delivers urgent shipments quickly and securely across global destinations,
-                with real-time tracking and priority handling.
-            </p>
+            <p>Fast and secure air freight with global tracking and priority handling.</p>
         </div>
 
         <div class="card">
             <h3>Land Transport</h3>
-            <p>
-                We offer efficient road transport services for regional and cross-border deliveries,
-                ensuring timely and safe cargo movement.
-            </p>
+            <p>Efficient road transport for regional and cross-border deliveries.</p>
         </div>
 
         <div class="card">
             <h3>Warehousing</h3>
-            <p>
-                Our secure warehousing facilities provide storage, inventory control, and distribution support
-                for businesses of all sizes.
-            </p>
+            <p>Secure storage, inventory control, and distribution services.</p>
         </div>
-
     </div>
 </section>
 
@@ -106,11 +106,12 @@ emailjs.init("4x7TunwBjBhNSxbhu");
 
     <div id="trackResult"></div>
 </section>
+
+<!-- GLOBAL STATS -->
 <section class="section">
     <h2>Global Logistics Network</h2>
 
     <div class="stats">
-
         <div class="stat-box">
             <h3>120+</h3>
             <p>Ports Connected</p>
@@ -130,39 +131,35 @@ emailjs.init("4x7TunwBjBhNSxbhu");
             <h3>99%</h3>
             <p>Delivery Reliability</p>
         </div>
-
     </div>
 </section>
 
+<!-- WHY US -->
 <section id="why" class="section">
     <h2>Why Choose Us</h2>
 
     <div class="grid">
+        <div class="card">
+            <h3>Global Network</h3>
+            <p>International logistics coverage across major shipping routes.</p>
+        </div>
 
-    <div class="card">
-        <h3>Global Network</h3>
-        <p>We operate across international shipping routes, connecting major ports and logistics hubs worldwide.</p>
+        <div class="card">
+            <h3>On-Time Delivery</h3>
+            <p>Reliable scheduling and fast delivery performance.</p>
+        </div>
+
+        <div class="card">
+            <h3>Secure Handling</h3>
+            <p>Strict safety standards for all cargo types.</p>
+        </div>
+
+        <div class="card">
+            <h3>Strategic Partnership</h3>
+            <p>We partner with Cainiao Global for enhanced logistics efficiency.</p>
+        </div>
     </div>
-
-    <div class="card">
-        <h3>On-Time Delivery</h3>
-        <p>We prioritize fast and reliable delivery schedules to ensure your shipments arrive as planned.</p>
-    </div>
-
-    <div class="card">
-        <h3>Secure Handling</h3>
-        <p>Every shipment is carefully managed with strict security standards to protect your goods.</p>
-    </div>
-
-    <div class="card">
-        <h3>Strategic Partnership</h3>
-        <p>We partner with Cainiao Global to enhance global logistics efficiency, tracking capabilities, and cross-border delivery performance.</p>
-    </div>
-
-</div>
-
 </section>
-
 
 <!-- CONTACT -->
 <section id="contact" class="section">
@@ -186,29 +183,69 @@ emailjs.init("4x7TunwBjBhNSxbhu");
     <p id="emailResult"></p>
 </section>
 
+<!-- DONATE -->
 <section id="donate" class="section">
     <h2>Support Our Logistics Network</h2>
 
     <p>
-        Your support helps us improve global shipping operations, tracking systems, and faster delivery infrastructure.
+        Your support helps improve global shipping infrastructure.
     </p>
 
     <button onclick="alert('Payment integration coming soon')">
         Donate Now
     </button>
 </section>
+
+<!-- FOOTER -->
 <footer class="footer">
-    <p>© 2026 SDC Shipping Freight | Global Logistics Solutions | Partners with Cainiao Global</p>
+  <div class="footer-container">
+
+    <div class="footer-brand">
+      <h3>SDC Shipping Freight</h3>
+      <p>
+        Global logistics, real-time tracking, and secure freight solutions across air, sea, and land.
+      </p>
+
+      <p class="footer-partner">
+        Trusted logistics partner of Cainiao Global
+      </p>
+    </div>
+
+    <div class="footer-links">
+      <h4>Quick Links</h4>
+      <a href="#services">Services</a>
+      <a href="#track">Track</a>
+      <a href="#why">Why Us</a>
+      <a href="#contact">Contact</a>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>© 2014–2026 SDC Shipping Freight. All rights reserved.</p>
+  </div>
 </footer>
+
 <!-- Firebase SDKs -->
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
 
-<!-- Your script LAST -->
+<!-- MAIN SCRIPT (ONLY ONCE) -->
 <script src="js/script.js"></script>
 
-
+<!-- TAWK LIVE CHAT -->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6a2ae0175bdfa41c2ccf68db/1jqrnmo64';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
 
 </body>
 </html>
