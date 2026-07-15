@@ -1,0 +1,78 @@
+/* ==================================================
+   HERO SECTION
+================================================== */
+
+.hero {
+    position: relative;
+    min-height: 650px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 80px 60px;
+
+    background-image: url("../images/container-ship.JPG");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    color: var(--color-text-light);
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(11, 27, 58, 0.35);
+    z-index: 1;
+}
+
+.hero-text,
+.hero-card {
+    position: relative;
+    z-index: 2;
+}
+
+.hero h2 {
+    font-size: 2.8rem;
+    line-height: 1.2;
+    max-width: 700px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    max-width: 650px;
+    margin-top: 10px;
+}
+
+.hero-buttons {
+    margin-top: 20px;
+}
+
+.hero-buttons a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 15px;
+
+    background: var(--color-secondary);
+    color: var(--color-text-light);
+
+    border-radius: var(--radius-small);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    transition: var(--transition);
+}
+
+.hero-buttons a:hover {
+    background: #e96d00;
+}
+
+.hero-card img {
+    width: 140px;
+    height: auto;
+    border-radius: 10px;
+    object-fit: cover;
+}

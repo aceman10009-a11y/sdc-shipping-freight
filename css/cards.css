@@ -1,0 +1,39 @@
+/* ==================================================
+   GRID LAYOUT
+================================================== */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 24px;
+}
+
+/* ==================================================
+   CARD COMPONENT
+================================================== */
+
+.card {
+    background: var(--color-bg);
+    padding: 25px;
+    border-radius: var(--radius-large);
+
+    border: 1px solid rgba(140, 150, 165, 0.2);
+    box-shadow: var(--shadow-medium);
+
+    transition: var(--transition);
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+.card h3 {
+    margin-bottom: 10px;
+    font-size: 1.3rem;
+}
+
+.card p {
+    line-height: 1.6;
+    color: var(--color-text-muted);
+}

@@ -1,0 +1,44 @@
+/* ==================================================
+   SECTIONS
+================================================== */
+
+.section {
+    padding: 100px 60px;
+}
+
+/* Alternate section backgrounds */
+
+.section:nth-of-type(odd) {
+    background: rgba(11, 27, 58, 0.05);
+}
+
+.section:nth-of-type(even) {
+    background: var(--color-bg);
+}
+
+/* ==================================================
+   GLOBAL STATS
+================================================== */
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    text-align: center;
+}
+
+.stat-box {
+    padding: 30px;
+    background: var(--color-bg);
+    border-radius: var(--radius-medium);
+    box-shadow: var(--shadow-small);
+}
+
+.stat-box h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.stat-box p {
+    color: var(--color-text-muted);
+}

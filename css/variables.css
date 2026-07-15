@@ -1,0 +1,41 @@
+/* =====================================================
+   CSS VARIABLES
+   SDC Shipping Freight Design System
+   ===================================================== */
+
+:root {
+
+  /* Brand Colors */
+  --color-primary: #0b1b3a;
+  --color-secondary: #ff7a00;
+  --color-accent: #ffd700;
+
+  /* Backgrounds */
+  --color-bg: #ffffff;
+  --color-bg-light: #eef3f8;
+  --color-bg-dark: #2f3947;
+
+  /* Text */
+  --color-text: #1f2937;
+  --color-text-light: #ffffff;
+  --color-text-muted: #555555;
+
+  /* Borders */
+  --color-border: #cccccc;
+
+  /* Border Radius */
+  --radius-small: 6px;
+  --radius-medium: 12px;
+  --radius-large: 16px;
+
+  /* Shadows */
+  --shadow-small: 0 4px 10px rgba(0,0,0,.08);
+  --shadow-medium: 0 8px 20px rgba(0,0,0,.10);
+
+  /* Container Width */
+  --container-width: 1200px;
+
+  /* Animation */
+  --transition: .25s ease;
+
+}

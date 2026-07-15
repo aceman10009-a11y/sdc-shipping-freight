@@ -1,0 +1,87 @@
+/* ==================================================
+   BASE RESET
+================================================== */
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: var(--color-text);
+    letter-spacing: 0.2px;
+    background: linear-gradient(
+        180deg,
+        #d9e6f2 0%,
+        var(--color-bg-light) 50%,
+        var(--color-bg) 100%
+    );
+}
+
+/* ==================================================
+   GLOBAL HEADINGS
+================================================== */
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+h2::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: var(--color-primary);
+    margin-top: 8px;
+}
+
+/* ==================================================
+   GLOBAL BUTTONS
+================================================== */
+
+button {
+    padding: 10px 14px;
+    border: none;
+    border-radius: var(--radius-small);
+    cursor: pointer;
+    background: var(--color-secondary);
+    color: var(--color-text-light);
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: var(--transition);
+}
+
+button:hover {
+    background: #e96d00;
+}
+
+/* ==================================================
+   GLOBAL INPUTS
+================================================== */
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-small);
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(11, 27, 58, 0.15);
+}

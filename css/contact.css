@@ -1,0 +1,47 @@
+/* ==================================================
+   CONTACT SECTION
+================================================== */
+
+#contact {
+    background: var(--color-bg-dark);
+    color: var(--color-text-light);
+    padding: 80px 60px;
+}
+
+#contact h2 {
+    color: var(--color-text-light);
+}
+
+#contact input,
+#contact textarea {
+    background: #3b4656;
+    color: var(--color-text-light);
+    border: 1px solid #566175;
+}
+
+#contact input::placeholder,
+#contact textarea::placeholder {
+    color: #cbd5e1;
+}
+
+/* ==================================================
+   VIBER
+================================================== */
+
+.viber a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    margin-top: 12px;
+
+    color: var(--color-accent);
+    text-decoration: none;
+    font-weight: bold;
+
+    transition: var(--transition);
+}
+
+.viber a:hover {
+    color: var(--color-text-light);
+}

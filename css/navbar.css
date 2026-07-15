@@ -1,0 +1,41 @@
+/* ==================================================
+   NAVBAR
+================================================== */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 40px;
+    background: var(--color-primary);
+    color: var(--color-text-light);
+}
+
+.navbar .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.navbar .logo img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.navbar nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar nav a {
+    color: var(--color-accent);
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: var(--transition);
+}
+
+.navbar nav a:hover {
+    color: var(--color-text-light);
+}
