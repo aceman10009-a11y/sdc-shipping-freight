@@ -136,33 +136,5 @@ function saveShipment() {
 
     document.getElementById("adminResult").innerText = "Saved ✔";
 }
-// ===============================
-// CONTACT FORM
-// ===============================
 
-function sendEmail() {
-
-    const name = document.getElementById("name").value;
-    const email = document.getElementById("email").value;
-    const message = document.getElementById("message").value;
-
-    emailjs.send(
-        "service_kvozp58",
-        "template_oyp0p6u",
-        {
-            from_name: name,
-            from_email: email,
-            message: message
-        }
-    )
-    .then(() => {
-        document.getElementById("emailResult").innerText =
-            "Message sent successfully!";
-    })
-    .catch((error) => {
-        console.log(error);
-        document.getElementById("emailResult").innerText =
-            "Failed to send message.";
-    });
-}
 console.log("SITE LOADED SUCCESSFULLY");
