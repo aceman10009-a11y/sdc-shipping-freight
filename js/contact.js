@@ -15,18 +15,18 @@ async function sendEmail() {
 
     result.innerText = "Sending message...";
 
-    try {
-        const response = await fetch("http://localhost:3000/contact", {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                name,
-                email,
-                message
-            })
-        });
+   try {
+    const response = await fetch("https://sdc-shipping-freight.onrender.com/contact", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            name,
+            email,
+            message
+        })
+    });
 
         const data = await response.json();
 
