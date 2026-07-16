@@ -13,9 +13,27 @@ const transporter = nodemailer.createTransport({
     }
 });
 
+// Verify SMTP connection when the server starts
+transporter.verify((error) => {
+    if (error) {
+        console.error("SMTP Error:", error);
+    } else {
+        console.log("✅ SMTP Ready");
+    }
+});
+
 router.post("/", async (req, res) => {
 
-    const { name, email, message } = req.body;
+    const name = req.body.name?.trim();
+    const email = req.body.email?.trim();
+    const message = req.body.message?.trim();
+
+    if (!name || !email || !message) {
+        return res.status(400).json({
+            success: false,
+            message: "All fields are required."
+        });
+    }
 
     try {
 
@@ -37,16 +55,16 @@ router.post("/", async (req, res) => {
             `
         });
 
-        res.json({
+        return res.status(200).json({
             success: true,
             message: "Email sent successfully."
         });
 
     } catch (err) {
 
-        console.error(err);
+        console.error("Email Error:", err);
 
-        res.status(500).json({
+        return res.status(500).json({
             success: false,
             message: "Failed to send email."
         });
