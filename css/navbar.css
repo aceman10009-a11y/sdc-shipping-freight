@@ -1,41 +1,299 @@
 /* ==================================================
-   NAVBAR
+   PREMIUM GLASS NAVBAR
 ================================================== */
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 18px 40px;
-    background: var(--color-primary);
-    color: var(--color-text-light);
+.navbar{
+
+    position:absolute;
+
+    top:18px;
+
+    left:50%;
+
+    transform:translateX(-50%);
+
+    z-index:1000;
+
+    width:95%;
+
+    max-width:1450px;
+
+    height:82px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:0 32px;
+
+    background:rgba(8,22,48,.45);
+
+    backdrop-filter:blur(18px);
+    -webkit-backdrop-filter:blur(18px);
+
+    border:1px solid rgba(255,255,255,.12);
+
+    border-radius:20px;
+
+    box-shadow:0 15px 45px rgba(0,0,0,.28);
+
+    transition:.35s;
+
 }
 
-.navbar .logo {
-    display: flex;
-    align-items: center;
-    gap: 10px;
+/* ==================================================
+   LOGO
+================================================== */
+
+.logo{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:14px;
+
 }
 
-.navbar .logo img {
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
+.logo img{
+
+    width:48px;
+
+    height:48px;
+
+    object-fit:contain;
+
 }
 
-.navbar nav {
-    display: flex;
-    align-items: center;
+.logo h1{
+
+    color:#fff;
+
+    font-size:2rem;
+
+    font-weight:700;
+
+    white-space:nowrap;
+
 }
 
-.navbar nav a {
-    color: var(--color-accent);
-    margin-left: 20px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: var(--transition);
+/* ==================================================
+   NAVIGATION
+================================================== */
+
+.navbar nav{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:34px;
+
 }
 
-.navbar nav a:hover {
-    color: var(--color-text-light);
+.navbar nav a{
+
+    color:#fff;
+
+    text-decoration:none;
+
+    font-weight:600;
+
+    position:relative;
+
+    transition:.3s;
+
+}
+
+.navbar nav a::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:0;
+
+    bottom:-8px;
+
+    width:0;
+
+    height:2px;
+
+    background:#ff9800;
+
+    transition:.3s;
+
+}
+
+.navbar nav a:hover{
+
+    color:#ff9800;
+
+}
+
+.navbar nav a:hover::after{
+
+    width:100%;
+
+}
+
+/* ==================================================
+   HAMBURGER
+================================================== */
+
+.menu-toggle{
+
+    display:none;
+
+    color:#fff;
+
+    font-size:30px;
+
+    cursor:pointer;
+
+}
+
+/* ==================================================
+   TABLET & MOBILE
+================================================== */
+
+@media (max-width:900px){
+
+.navbar{
+
+    position:absolute;
+
+    top:10px;
+
+    left:50%;
+
+    transform:translateX(-50%);
+
+    width:96%;
+
+    min-height:60px;
+
+    height:auto;
+
+    padding:10px 15px;
+
+    flex-wrap:wrap;
+
+    border-radius:18px;
+
+}
+
+.logo{
+
+    flex:1;
+
+}
+
+.logo img{
+
+    width:30px;
+
+    height:30px;
+
+}
+
+.logo h1{
+
+    font-size:1rem;
+
+    line-height:1.2;
+
+}
+
+.menu-toggle{
+
+    display:block;
+
+}
+
+.navbar nav{
+
+    display:none;
+
+    width:100%;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    gap:0;
+
+    margin-top:15px;
+
+    border-radius:16px;
+
+    overflow:hidden;
+
+    background:rgba(8,22,48,.95);
+
+    backdrop-filter:blur(18px);
+    -webkit-backdrop-filter:blur(18px);
+
+}
+
+.navbar nav.active{
+
+    display:flex;
+
+}
+
+.navbar nav a{
+
+    width:100%;
+
+    padding:16px;
+
+    text-align:center;
+
+}
+
+}
+
+/* ==================================================
+   SMALL PHONES
+================================================== */
+
+@media (max-width:600px){
+
+.navbar{
+
+    width:94%;
+
+    padding:12px 14px;
+
+}
+
+.logo{
+
+    gap:10px;
+
+}
+
+.logo img{
+
+    width:38px;
+
+    height:38px;
+
+}
+
+.logo h1{
+
+    font-size:1.05rem;
+
+}
+
+.menu-toggle{
+
+    font-size:28px;
+
+}
+
 }

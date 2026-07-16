@@ -10,23 +10,19 @@
     box-sizing: border-box;
 }
 
-html {
+html,
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
     scroll-behavior: smooth;
 }
 
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    color: var(--color-text);
-    letter-spacing: 0.2px;
-    background: linear-gradient(
-        180deg,
-        #d9e6f2 0%,
-        var(--color-bg-light) 50%,
-        var(--color-bg) 100%
-    );
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
 }
-
 /* ==================================================
    GLOBAL HEADINGS
 ================================================== */

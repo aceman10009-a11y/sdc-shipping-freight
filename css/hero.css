@@ -1,78 +1,279 @@
 /* ==================================================
-   HERO SECTION
+   PREMIUM HERO SECTION
 ================================================== */
 
-.hero {
-    position: relative;
-    min-height: 650px;
+.hero{
 
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    position:relative;
 
-    padding: 80px 60px;
+    min-height:760px;
 
-    background-image: url("../images/container-ship.JPG");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    overflow:hidden;
 
-    color: var(--color-text-light);
+    background:#071b45;
+
+    display:flex;
+
+    align-items:center;
+
+    padding-top:0px;
+
 }
 
-.hero::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: rgba(11, 27, 58, 0.35);
-    z-index: 1;
+/* FULL HERO IMAGE */
+
+.hero-bg{
+
+    position:absolute;
+
+    inset:0;
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:cover;
+
+    object-position:center;
+
+    z-index:1;
+
 }
 
-.hero-text,
-.hero-card {
-    position: relative;
-    z-index: 2;
+/* DARK OVERLAY */
+
+.hero::before{
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(5,20,45,.82) 0%,
+            rgba(5,20,45,.68) 30%,
+            rgba(5,20,45,.28) 60%,
+            rgba(5,20,45,.08) 100%
+        );
+
+    z-index:2;
+
 }
 
-.hero h2 {
-    font-size: 2.8rem;
-    line-height: 1.2;
-    max-width: 700px;
+/* CONTENT */
+
+.hero-content{
+
+    position:relative;
+
+    z-index:3;
+
+    width:min(1200px,92%);
+
+    margin:0 auto;
+
+    padding:0 20px;
+
+    max-width:620px;
+
 }
 
-.hero p {
-    font-size: 1.2rem;
-    max-width: 650px;
-    margin-top: 10px;
+/* HEADING */
+
+.hero-content h2{
+
+    font-size:4rem;
+
+    line-height:1.08;
+
+    margin-bottom:24px;
+
+    color:#fff;
+
+    text-shadow:0 3px 12px rgba(0,0,0,.35);
+
 }
 
-.hero-buttons {
-    margin-top: 20px;
+/* PARAGRAPH */
+
+.hero-content p{
+
+    font-size:1.18rem;
+
+    line-height:1.8;
+
+    color:rgba(255,255,255,.94);
+
+    margin-bottom:36px;
+
 }
 
-.hero-buttons a {
-    display: inline-block;
-    margin-right: 10px;
-    padding: 10px 15px;
+/* BUTTONS */
 
-    background: var(--color-secondary);
-    color: var(--color-text-light);
+.hero-buttons{
 
-    border-radius: var(--radius-small);
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: bold;
+    display:flex;
 
-    transition: var(--transition);
+    gap:18px;
+
+    flex-wrap:wrap;
+
 }
 
-.hero-buttons a:hover {
-    background: #e96d00;
+.hero-buttons a{
+
+    display:inline-block;
+
+    padding:16px 34px;
+
+    border-radius:10px;
+
+    background:linear-gradient(135deg,#ff9800,#ff7a00);
+
+    color:#fff;
+
+    text-decoration:none;
+
+    font-weight:700;
+
+    box-shadow:0 10px 24px rgba(255,122,0,.28);
+
+    transition:.28s ease;
+
 }
 
-.hero-card img {
-    width: 140px;
-    height: auto;
-    border-radius: 10px;
-    object-fit: cover;
+.hero-buttons a:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 16px 34px rgba(255,122,0,.38);
+
+}
+/* ==================================================
+   TABLET
+================================================== */
+
+@media (max-width:900px){
+
+.hero{
+
+    min-height:760px;
+
+    padding-top:40px;
+
+}
+
+.hero-content{
+
+    max-width:100%;
+
+    text-align:center;
+
+    padding:0 24px;
+
+}
+
+.hero-content h2{
+
+    font-size:2.8rem;
+
+}
+
+.hero-content p{
+
+    font-size:1.05rem;
+
+    margin-left:auto;
+
+    margin-right:auto;
+
+    max-width:600px;
+
+}
+
+.hero-buttons{
+
+    justify-content:center;
+
+}
+
+.hero::before{
+
+    background:
+        linear-gradient(
+            180deg,
+            rgba(5,20,45,.78) 0%,
+            rgba(5,20,45,.58) 45%,
+            rgba(5,20,45,.32) 100%
+        );
+
+}
+
+}
+
+/* ==================================================
+   MOBILE
+================================================== */
+
+@media (max-width:600px){
+
+.hero{
+
+    min-height:720px;
+
+    padding-top:30px;
+
+}
+
+.hero-bg{
+
+    object-position:center center;
+
+}
+
+.hero-content{
+
+    padding:0 20px;
+
+}
+
+.hero-content h2{
+
+    font-size:2.15rem;
+
+    line-height:1.18;
+
+}
+
+.hero-content p{
+
+    font-size:1rem;
+
+    line-height:1.7;
+
+}
+
+.hero-buttons{
+
+    flex-direction:column;
+
+    align-items:center;
+
+    gap:14px;
+
+}
+
+.hero-buttons a{
+
+    width:100%;
+
+    max-width:260px;
+
+    text-align:center;
+
+}
+
 }

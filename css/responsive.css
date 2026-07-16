@@ -2,60 +2,64 @@
    RESPONSIVE DESIGN
 ================================================== */
 
-@media (max-width: 900px) {
+@media (max-width:900px){
 
-    .navbar {
-        flex-direction: column;
-        gap: 20px;
-        text-align: center;
+    /* ==========================
+       NAVBAR
+    ========================== */
+
+    .navbar{
+        flex-direction:column;
+        gap:16px;
+        text-align:center;
     }
 
-    .navbar nav {
-        flex-wrap: wrap;
-        justify-content: center;
+    .navbar nav{
+        flex-wrap:wrap;
+        justify-content:center;
     }
 
-    .hero {
-        flex-direction: column;
-        text-align: center;
-        gap: 30px;
-        padding: 60px 30px;
+    /* ==========================
+       HERO
+       (Do NOT override hero.css)
+    ========================== */
+
+    .hero-content{
+        text-align:center;
     }
 
-    .hero h2 {
-        font-size: 2.2rem;
-    }
+    /* ==========================
+       SECTIONS
+    ========================== */
 
     .section,
     #track,
-    #contact {
-        padding: 60px 30px;
+    #contact{
+        padding:60px 30px;
     }
 
-    .stats {
-        grid-template-columns: repeat(2, 1fr);
+    .stats{
+        grid-template-columns:repeat(2,1fr);
     }
 
-    .footer-links {
-        flex-direction: column;
-        gap: 12px;
+    .footer-links{
+        flex-direction:column;
+        gap:12px;
     }
+
 }
 
-@media (max-width: 600px) {
+@media (max-width:600px){
 
-    .stats {
-        grid-template-columns: 1fr;
+    .stats{
+        grid-template-columns:1fr;
     }
 
-    .hero h2 {
-        font-size: 1.8rem;
+    .hero-buttons a{
+        display:block;
+        width:100%;
+        max-width:250px;
+        margin:10px auto;
     }
 
-    .hero-buttons a {
-        display: block;
-        margin: 10px auto;
-        width: 100%;
-        max-width: 250px;
-    }
 }
