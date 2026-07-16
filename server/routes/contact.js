@@ -5,12 +5,16 @@ const router = express.Router();
 
 const transporter = nodemailer.createTransport({
     host: "smtp.hostinger.com",
-    port: 465,
-    secure: true,
+    port: 587,
+    secure: false,
+    requireTLS: true,
     auth: {
         user: process.env.EMAIL_USER,
         pass: process.env.EMAIL_PASS
-    }
+    },
+    connectionTimeout: 30000,
+    greetingTimeout: 30000,
+    socketTimeout: 30000
 });
 
 // Verify SMTP connection when the server starts
