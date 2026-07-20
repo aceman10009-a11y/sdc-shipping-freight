@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Dienstleistungen",
+
+    "track": "Verfolgen",
+
+    "why": "Warum wir",
+
+    "contact": "Kontakt",
+
+    "donate": "Spenden"
+  },
+
+  "buttons": {
+    "accept": "Akzeptieren",
+
+    "decline": "Ablehnen",
+
+    "trackShipment": "Sendung verfolgen",
+
+    "getQuote": "Angebot erhalten",
+
+    "track": "Verfolgen",
+
+    "sendMessage": "Nachricht senden",
+
+    "donateNow": "Jetzt spenden"
+  },
+
+  "cookie": {
+    "title": "🍪 Cookie-Hinweis",
+
+    "description": "SDC Shipping Freight verwendet notwendige Cookies, um Ihr Browsing-Erlebnis zu verbessern und sicherzustellen, dass unsere Website ordnungsgemäß funktioniert. Durch Klicken auf Akzeptieren stimmen Sie der Verwendung von Cookies zu."
+  },
+
+  "forms": {
+    "fullName": "Vollständiger Name",
+
+    "emailAddress": "E-Mail-Adresse",
+
+    "trackingId": "Sendungsnummer eingeben",
+
+    "message": "Wie können wir Ihnen heute helfen?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight bietet sichere, zuverlässige und effiziente Logistiklösungen weltweit. Wir sind spezialisiert auf Seefracht, Luftfracht, Lagerhaltung, Zollabwicklung, Spedition und umfassendes Frachtmanagement.",
+
+    "explore": "Entdecken",
+
+    "services": "Dienstleistungen",
+
+    "service1": "Seefracht",
+
+    "service2": "Luftfracht",
+
+    "service3": "Lagerhaltung",
+
+    "service4": "Zollabwicklung",
+
+    "service5": "Spedition",
+
+    "support": "Support",
+
+    "website": "Website",
+
+    "emailSupport": "E-Mail-Support",
+
+    "viberSupport": "Viber-Support",
+
+    "liveChat": "Live-Chat-Support",
+
+    "contact": "Kontakt",
+
+    "viberCustomerSupport": "💬 Viber-Kundensupport",
+
+    "liveSupport": "🟢 24/7 Live-Support",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Alle Rechte vorbehalten."
+  }
+}

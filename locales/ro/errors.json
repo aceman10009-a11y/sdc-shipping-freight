@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "A apărut o eroare necunoscută. Vă rugăm să încercați din nou mai târziu.",
+
+    "network": "A apărut o eroare de rețea. Verificați conexiunea la internet și încercați din nou.",
+
+    "server": "A apărut o eroare de server. Vă rugăm să încercați din nou mai târziu."
+  },
+
+  "tracking": {
+    "empty": "Vă rugăm să introduceți numărul de urmărire.",
+
+    "notFound": "Nu au fost găsite informații despre expediere pentru acest număr de urmărire.",
+
+    "failed": "Nu s-au putut prelua informațiile despre expediere. Vă rugăm să încercați din nou mai târziu."
+  },
+
+  "form": {
+    "required": "Acest câmp este obligatoriu.",
+
+    "invalidEmail": "Vă rugăm să introduceți o adresă de e-mail validă.",
+
+    "submissionFailed": "Formularul nu a putut fi trimis. Vă rugăm să încercați din nou."
+  },
+
+  "donateComingSoon": "Funcționalitatea de plată va fi disponibilă în curând."
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Ralat tidak diketahui berlaku. Sila cuba lagi kemudian.",
+
+    "network": "Ralat rangkaian berlaku. Sila semak sambungan internet anda dan cuba lagi.",
+
+    "server": "Ralat pelayan berlaku. Sila cuba lagi kemudian."
+  },
+
+  "tracking": {
+    "empty": "Sila masukkan nombor penjejakan.",
+
+    "notFound": "Maklumat penghantaran tidak ditemui untuk nombor penjejakan ini.",
+
+    "failed": "Tidak dapat mendapatkan maklumat penghantaran. Sila cuba lagi kemudian."
+  },
+
+  "form": {
+    "required": "Ruangan ini diperlukan.",
+
+    "invalidEmail": "Sila masukkan alamat e-mel yang sah.",
+
+    "submissionFailed": "Penghantaran borang gagal. Sila cuba lagi."
+  },
+
+  "donateComingSoon": "Ciri pembayaran akan tersedia tidak lama lagi."
+}

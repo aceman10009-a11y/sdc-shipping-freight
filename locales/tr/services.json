@@ -1,0 +1,47 @@
+{
+  "title": "Hizmetler",
+
+  "tag": "LOJİSTİK HİZMETLERİ",
+
+  "hero": {
+    "title": "İhtiyaçlarınıza Özel Küresel Taşımacılık Çözümleri",
+
+    "description": "Deniz ve hava taşımacılığından tedarik zinciri yönetimine kadar SDC Shipping Freight, dünya genelindeki müşterilerine güvenilir lojistik çözümleri sunmaktadır."
+  },
+
+  "seaFreight": {
+    "title": "Deniz Taşımacılığı",
+
+    "description": "Dünyanın başlıca limanlarını güvenli ve verimli taşımacılık çözümleriyle birbirine bağlayan Tam Konteyner Yükü (FCL) ve Parsiyel Konteyner Yükü (LCL) dahil güvenilir deniz taşımacılığı hizmetleri sunuyoruz."
+  },
+
+  "airFreight": {
+    "title": "Hava Taşımacılığı",
+
+    "description": "Acil gönderiler için öncelikli işlem ve gümrük koordinasyonu sağlayan hızlı ve güvenli uluslararası hava kargo hizmetleri."
+  },
+
+  "landTransport": {
+    "title": "Kara Taşımacılığı",
+
+    "description": "Deneyimli lojistik uzmanları ve gelişmiş takip teknolojileriyle desteklenen verimli yurt içi ve uluslararası kara taşımacılığı hizmetleri."
+  },
+
+  "warehousing": {
+    "title": "Depolama",
+
+    "description": "Tedarik zincirinizin verimliliğini artırmak için tasarlanmış güvenli depolama, stok yönetimi, dağıtım ve sipariş karşılama hizmetleri."
+  },
+
+  "customs": {
+    "title": "Gümrük İşlemleri",
+
+    "description": "Gönderilerinizin uluslararası düzenlemelere uygun olmasını ve sınır geçişlerinin sorunsuz gerçekleşmesini sağlayan profesyonel gümrük işlemleri hizmetleri."
+  },
+
+  "forwarding": {
+    "title": "Yük Taşımacılığı Organizasyonu",
+
+    "description": "Küresel güvenilir lojistik ortaklarımız ağı sayesinde, yüklerinizin çıkış noktasından varış noktasına kadar uçtan uca taşımacılık yönetimi sağlıyoruz."
+  }
+}

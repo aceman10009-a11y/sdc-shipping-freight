@@ -1,0 +1,47 @@
+{
+  "title": "Hubungi kami",
+
+  "hero": {
+    "tag": "HUBUNGI KAMI",
+
+    "title": "Kami menggerakkan kargo anda dengan keyakinan",
+
+    "description": "Sama ada anda memerlukan penghantaran antarabangsa atau sokongan logistik, pasukan berpengalaman kami menyediakan penyelesaian yang boleh dipercayai mengikut keperluan anda."
+  },
+
+  "information": {
+    "title": "Berhubung dengan kami",
+
+    "description": "Kami komited untuk menyediakan sokongan logistik profesional dan bantuan pantas bagi semua pertanyaan penghantaran.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "Sokongan pelanggan 24/7",
+
+    "worldwide": "Melayan pelanggan di seluruh dunia"
+  },
+
+  "form": {
+    "name": "Nama penuh",
+
+    "email": "Alamat e-mel",
+
+    "message": "Bagaimana kami boleh membantu anda hari ini?",
+
+    "button": "Hantar mesej"
+  },
+
+  "success": {
+    "message": "Mesej anda telah berjaya dihantar. Pasukan kami akan menghubungi anda tidak lama lagi."
+  },
+
+  "errors": {
+    "required": "Sila lengkapkan semua ruangan yang diperlukan.",
+
+    "email": "Sila masukkan alamat e-mel yang sah.",
+
+    "failed": "Mesej gagal dihantar. Sila cuba lagi kemudian."
+  }
+}

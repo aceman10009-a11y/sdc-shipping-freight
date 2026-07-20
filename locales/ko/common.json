@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "언어 선택"
+  },
+
+  "loading": "로딩 중...",
+
+  "buttons": {
+    "accept": "동의",
+
+    "decline": "거부",
+
+    "trackShipment": "배송 추적",
+
+    "getQuote": "견적 요청",
+
+    "track": "추적",
+
+    "sendMessage": "메시지 보내기",
+
+    "donateNow": "지금 기부하기"
+  },
+
+  "actions": {
+    "learnMore": "자세히 알아보기",
+
+    "viewDetails": "세부 정보 보기",
+
+    "close": "닫기",
+
+    "submit": "제출",
+
+    "cancel": "취소"
+  },
+
+  "status": {
+    "active": "활성",
+
+    "inactive": "비활성",
+
+    "success": "성공",
+
+    "failed": "실패",
+
+    "pending": "대기 중"
+  },
+
+  "navigation": {
+    "home": "홈",
+
+    "about": "회사 소개",
+
+    "services": "서비스",
+
+    "contact": "문의하기",
+
+    "tracking": "배송 추적"
+  },
+
+  "messages": {
+    "welcome": "SDC Shipping Freight에 오신 것을 환영합니다",
+
+    "thankYou": "문의해 주셔서 감사합니다.",
+
+    "tryAgain": "잠시 후 다시 시도해 주세요."
+  }
+}

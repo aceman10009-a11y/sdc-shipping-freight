@@ -1,0 +1,63 @@
+{
+  "title": "Về SDC Shipping Freight",
+
+  "hero": {
+    "tag": "VỀ CHÚNG TÔI",
+
+    "title": "Kết nối thương mại toàn cầu bằng giải pháp logistics đáng tin cậy",
+
+    "description": "SDC Shipping Freight cung cấp các giải pháp logistics quốc tế đáng tin cậy trong lĩnh vực vận tải đường biển, đường hàng không, đường bộ, lưu kho và quản lý hàng hóa chuyên nghiệp."
+  },
+
+  "company": {
+    "title": "Về công ty",
+
+    "description": "SDC Shipping Freight là công ty logistics toàn cầu cung cấp các giải pháp vận chuyển an toàn, hiệu quả và minh bạch cho doanh nghiệp cũng như khách hàng cá nhân trên toàn thế giới."
+  },
+
+  "mission": {
+    "title": "Sứ mệnh của chúng tôi",
+
+    "description": "Sứ mệnh của chúng tôi là đơn giản hóa vận chuyển toàn cầu bằng cách kết hợp công nghệ logistics hiện đại, quan hệ đối tác đáng tin cậy và dịch vụ khách hàng xuất sắc."
+  },
+
+  "vision": {
+    "title": "Tầm nhìn của chúng tôi",
+
+    "description": "Chúng tôi hướng tới trở thành đối tác logistics toàn cầu được tin cậy, nổi bật nhờ sự đáng tin cậy, đổi mới và sự xuất sắc trong chuỗi cung ứng quốc tế."
+  },
+
+  "values": {
+    "title": "Giá trị cốt lõi của chúng tôi",
+
+    "reliability": {
+      "title": "Độ tin cậy",
+
+      "description": "Chúng tôi cung cấp chất lượng dịch vụ ổn định, giao hàng đúng thời hạn và quy trình logistics đáng tin cậy để đáp ứng kỳ vọng của khách hàng."
+    },
+
+    "security": {
+      "title": "An toàn",
+
+      "description": "Chúng tôi bảo vệ mọi lô hàng thông qua quy trình xử lý hàng hóa cẩn thận, giám sát liên tục và tuân thủ các tiêu chuẩn ngành tốt nhất."
+    },
+
+    "innovation": {
+      "title": "Đổi mới",
+
+      "description": "Chúng tôi áp dụng công nghệ hiện đại và hệ thống theo dõi thời gian thực để nâng cao hiệu quả logistics toàn cầu."
+    },
+
+    "partnership": {
+      "title": "Đối tác",
+
+      "description": "Chúng tôi xây dựng mối quan hệ bền vững và lâu dài với khách hàng, nhà vận chuyển và các đối tác logistics trên toàn thế giới."
+    }
+  },
+
+  "global": {
+    "title": "Mạng lưới logistics toàn cầu",
+
+    "description": "Thông qua các quan hệ đối tác chiến lược và mạng lưới vận tải quốc tế, chúng tôi giúp doanh nghiệp kết nối với thị trường toàn cầu và xây dựng chuỗi cung ứng hiệu quả."
+  }
+}

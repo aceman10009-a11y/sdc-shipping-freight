@@ -1,0 +1,47 @@
+{
+  "title": "Contactez-nous",
+
+  "hero": {
+    "tag": "PRENEZ CONTACT",
+
+    "title": "Déplaçons votre marchandise en toute confiance",
+
+    "description": "Que vous expédiiez à l'international ou que vous ayez besoin d'un soutien logistique, notre équipe expérimentée est prête à fournir des solutions fiables adaptées à vos besoins."
+  },
+
+  "information": {
+    "title": "Contactez-nous",
+
+    "description": "Nous nous engageons à fournir un soutien logistique professionnel et une assistance rapide pour toutes vos demandes d'expédition.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "Assistance client 24/7",
+
+    "worldwide": "Nous servons des clients dans le monde entier"
+  },
+
+  "form": {
+    "name": "Nom complet",
+
+    "email": "Adresse e-mail",
+
+    "message": "Comment pouvons-nous vous aider aujourd'hui ?",
+
+    "button": "Envoyer le message"
+  },
+
+  "success": {
+    "message": "Votre message a été envoyé avec succès. Notre équipe vous contactera prochainement."
+  },
+
+  "errors": {
+    "required": "Veuillez remplir tous les champs obligatoires.",
+
+    "email": "Veuillez saisir une adresse e-mail valide.",
+
+    "failed": "Impossible d'envoyer votre message. Veuillez réessayer plus tard."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Tietoa SDC Shipping Freightista",
+
+  "hero": {
+    "tag": "TIETOA MEISTÄ",
+
+    "title": "Yhdistämme maailmanlaajuisen kaupankäynnin luotettavalla logistiikalla",
+
+    "description": "SDC Shipping Freight tarjoaa luotettavia kansainvälisiä kuljetusratkaisuja merirahdin, lentorahdin, maantiekuljetusten, varastoinnin ja ammattimaisen lastinhallinnan kautta."
+  },
+
+  "company": {
+    "title": "Keitä olemme",
+
+    "description": "SDC Shipping Freight on maailmanlaajuinen logistiikkapalvelujen tarjoaja, joka tarjoaa turvallisia, tehokkaita ja läpinäkyviä kuljetusratkaisuja yrityksille ja yksityishenkilöille ympäri maailmaa."
+  },
+
+  "mission": {
+    "title": "Missiomme",
+
+    "description": "Tehtävämme on tehdä maailmanlaajuisesta kuljetuksesta helpompaa yhdistämällä moderni logistiikkateknologia, luotettavat kumppanuudet ja erinomainen asiakaspalvelu."
+  },
+
+  "vision": {
+    "title": "Visiomme",
+
+    "description": "Tavoitteemme on olla luotettu maailmanlaajuinen logistiikkakumppani, joka tunnetaan luotettavuudesta, innovaatioista ja erinomaisuudesta kansainvälisissä toimitusketjuissa."
+  },
+
+  "values": {
+    "title": "Arvomme",
+
+    "reliability": {
+      "title": "Luotettavuus",
+
+      "description": "Keskitymme tasaiseen palveluun, täsmällisiin toimituksiin ja luotettaviin logistiikkatoimintoihin."
+    },
+
+    "security": {
+      "title": "Turvallisuus",
+
+      "description": "Suojaamme jokaisen lähetyksen huolellisella käsittelyllä, seurannalla ja alan parhailla käytännöillä."
+    },
+
+    "innovation": {
+      "title": "Innovaatio",
+
+      "description": "Hyödynnämme modernia teknologiaa ja reaaliaikaisia näkyvyysratkaisuja maailmanlaajuisen kuljetustehokkuuden parantamiseksi."
+    },
+
+    "partnership": {
+      "title": "Kumppanuus",
+
+      "description": "Rakennamme vahvoja suhteita asiakkaisiin, kuljetusyhtiöihin ja logistiikkakumppaneihin ympäri maailmaa."
+    }
+  },
+
+  "global": {
+    "title": "Maailmanlaajuinen logistiikkaverkosto",
+
+    "description": "Strategisten kumppanuuksien ja kansainvälisten kuljetusverkostojen avulla yhdistämme yritykset maailmanlaajuisille markkinoille."
+  }
+}

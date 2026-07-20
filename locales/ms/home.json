@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "title": "Penghantaran global.<br>Dihantar dengan ketepatan.",
+
+    "description": "Penyelesaian pengangkutan kargo yang selamat melalui laut, udara dan darat dengan penjejakan penghantaran masa nyata."
+  },
+
+  "services": {
+    "tag": "KEPAKARAN KAMI",
+
+    "title": "Penyelesaian logistik global bersepadu",
+
+    "description": "Kami menyediakan penyelesaian kargo dan rantaian bekalan yang boleh dipercayai melalui pengangkutan laut, udara, darat serta penyimpanan gudang, disokong oleh kepakaran logistik global dan keterlihatan masa nyata.",
+
+    "seaFreight": {
+      "title": "Pengangkutan laut",
+
+      "description": "Perkhidmatan penghantaran Full Container Load (FCL) dan Less than Container Load (LCL) yang menjimatkan kos, menghubungkan pelabuhan utama dunia dengan jadual yang boleh dipercayai dan keterlihatan kargo."
+    },
+
+    "airFreight": {
+      "title": "Pengangkutan udara",
+
+      "description": "Perkhidmatan kargo udara antarabangsa pantas dengan pengendalian keutamaan, penyelarasan kastam dan pengangkutan selamat untuk penghantaran segera di seluruh dunia."
+    },
+
+    "landTransport": {
+      "title": "Pengangkutan darat",
+
+      "description": "Pengangkutan jalan raya domestik dan rentas sempadan yang boleh dipercayai dengan pengurusan armada moden, penjejakan masa nyata dan profesional logistik berpengalaman."
+    },
+
+    "warehousing": {
+      "title": "Penyimpanan gudang",
+
+      "description": "Penyimpanan selamat, pengurusan inventori, pengedaran dan penyelesaian pemenuhan pesanan yang direka untuk melancarkan rantaian bekalan anda."
+    }
+  },
+
+  "tracking": {
+    "title": "Jejak penghantaran",
+
+    "placeholder": "Masukkan nombor penghantaran"
+  },
+
+  "stats": {
+    "title": "Rangkaian logistik global",
+
+    "ports": {
+      "value": "120+",
+
+      "label": "Pelabuhan dihubungkan"
+    },
+
+    "countries": {
+      "value": "50+",
+
+      "label": "Negara dilayan"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+
+      "label": "Pemantauan penghantaran"
+    },
+
+    "reliability": {
+      "value": "99%",
+
+      "label": "Kebolehpercayaan penghantaran"
+    }
+  },
+
+  "why": {
+    "tag": "KENAPA PILIH KAMI",
+
+    "title": "Penyelesaian logistik global yang dipercayai",
+
+    "description": "SDC Shipping Freight menyediakan perkhidmatan kargo dan logistik antarabangsa yang boleh dipercayai dengan pengalaman industri, pemantauan penghantaran moden dan komitmen untuk penghantaran selamat serta tepat pada masa kepada pelanggan perniagaan dan individu di seluruh dunia.",
+
+    "network": {
+      "title": "Rangkaian logistik global",
+
+      "description": "Rangkaian logistik seluruh dunia kami menghubungkan pelabuhan utama, lapangan terbang dan pusat pengangkutan, membolehkan pergerakan barangan yang cekap di pasaran antarabangsa."
+    },
+
+    "delivery": {
+      "title": "Penghantaran tepat pada masa yang boleh dipercayai",
+
+      "description": "Setiap penghantaran diselaraskan dengan teliti untuk memenuhi jadual penghantaran sambil memastikan operasi cekap dan komunikasi berterusan sepanjang proses pengangkutan."
+    },
+
+    "security": {
+      "title": "Pengendalian kargo yang selamat",
+
+      "description": "Kami mengikuti prosedur pengendalian kargo yang ketat dan piawaian industri terbaik untuk melindungi penghantaran dari pengambilan hingga penghantaran akhir."
+    },
+
+    "partnerships": {
+      "title": "Kerjasama industri yang dipercayai",
+
+      "description": "Melalui kerjasama dengan rakan logistik yang dipercayai dan syarikat pengangkutan global, kami menyediakan penyelesaian penghantaran yang boleh berkembang mengikut keperluan pelanggan. Kami juga bekerjasama dengan Cainiao Global untuk meningkatkan kecekapan logistik."
+    }
+  },
+
+  "contact": {
+    "tag": "HUBUNGI KAMI",
+
+    "title": "Kami menggerakkan kargo anda dengan keyakinan",
+
+    "description": "Sama ada penghantaran antarabangsa atau sokongan logistik, pasukan berpengalaman kami menyediakan penyelesaian yang boleh dipercayai mengikut keperluan anda.",
+
+    "info": {
+      "title": "Hubungi kami",
+
+      "description": "Kami menyediakan sokongan logistik profesional dan bantuan pantas untuk semua pertanyaan penghantaran.",
+
+      "viber": "Viber",
+
+      "support": "Sokongan pelanggan 24/7",
+
+      "worldwide": "Melayan pelanggan di seluruh dunia"
+    }
+  },
+
+  "donate": {
+    "title": "Sokong rangkaian logistik kami",
+
+    "description": "Sokongan anda membantu meningkatkan infrastruktur penghantaran global."
+  },
+
+  "gallery": {
+    "tag": "PENGHANTARAN GLOBAL",
+
+    "title": "Kami menggerakkan kargo merentasi semua lautan",
+
+    "description": "Setiap penghantaran mewakili komitmen kami terhadap kebolehpercayaan, ketepatan dan penyelesaian logistik bertaraf dunia."
+  }
+}

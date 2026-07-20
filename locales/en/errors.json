@@ -1,0 +1,34 @@
+{
+  "general": {
+    "unknown": "Something went wrong. Please try again later.",
+    "network": "Unable to connect. Please check your internet connection.",
+    "server": "Server error. Please try again later."
+  },
+
+  "tracking": {
+    "empty": "Please enter a tracking ID.",
+    "invalid": "Invalid tracking information.",
+    "notFound": "No shipment was found with this tracking ID.",
+    "failed": "Unable to retrieve shipment details. Please try again later."
+  },
+
+  "contact": {
+    "required": "Please complete all required fields.",
+    "email": "Please enter a valid email address.",
+    "failed": "Unable to send your message. Please try again later."
+  },
+
+  "donate": {
+    "comingSoon": "Payment integration coming soon."
+  },
+
+  "authentication": {
+    "required": "Authentication is required.",
+    "unauthorized": "You are not authorized to access this page."
+  },
+
+  "page": {
+    "notFound": "The page you are looking for could not be found.",
+    "loading": "Loading..."
+  }
+}

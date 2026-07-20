@@ -1,0 +1,83 @@
+{
+  "title": "Sendung verfolgen",
+
+  "hero": {
+    "tag": "SENDUNGSVERFOLGUNG",
+
+    "title": "Überwachen Sie Ihre Fracht in Echtzeit",
+
+    "description": "Verfolgen Sie den Weg Ihrer Sendung mit Echtzeit-Transparenz, voraussichtlichen Ankunftsinformationen und detaillierten Logistikaktualisierungen."
+  },
+
+  "form": {
+    "placeholder": "Sendungsnummer eingeben",
+
+    "button": "Sendung verfolgen"
+  },
+
+  "status": {
+    "searching": "Suche nach Sendungsinformationen...",
+
+    "found": "Sendung gefunden",
+
+    "notFound": "Keine Sendung mit dieser Sendungsnummer gefunden."
+  },
+
+  "details": {
+    "trackingId": "Sendungsnummer",
+
+    "status": "Sendungsstatus",
+
+    "location": "Aktueller Standort",
+
+    "origin": "Ursprungsort",
+
+    "destination": "Zielort",
+
+    "departure": "Abfahrtsdatum",
+
+    "arrival": "Voraussichtliche Ankunft",
+
+    "carrier": "Transporteur",
+
+    "vessel": "Schiffsinformationen"
+  },
+
+  "shipmentStatus": {
+    "pending": "Ausstehend",
+
+    "processing": "In Bearbeitung",
+
+    "inTransit": "Unterwegs",
+
+    "arrived": "Angekommen",
+
+    "delivered": "Geliefert",
+
+    "delayed": "Verspätet"
+  },
+
+  "timeline": {
+    "title": "Sendungsverlauf",
+
+    "created": "Sendung erstellt",
+
+    "pickedUp": "Fracht abgeholt",
+
+    "departed": "Ursprungshafen verlassen",
+
+    "transit": "Internationaler Transport",
+
+    "destination": "Am Zielort angekommen",
+
+    "completed": "Lieferung abgeschlossen"
+  },
+
+  "errors": {
+    "empty": "Bitte geben Sie eine Sendungsnummer ein.",
+
+    "invalid": "Ungültige Sendungsinformationen.",
+
+    "system": "Sendungsdetails konnten nicht abgerufen werden. Bitte versuchen Sie es später erneut."
+  }
+}

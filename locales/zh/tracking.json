@@ -1,0 +1,83 @@
+{
+  "title": "货件追踪",
+
+  "hero": {
+    "tag": "货件追踪",
+
+    "title": "实时追踪您的货物",
+
+    "description": "通过实时追踪、预计到达时间以及详细物流更新，随时掌握您的货物运输进程。"
+  },
+
+  "form": {
+    "placeholder": "输入追踪号码",
+
+    "button": "追踪货件"
+  },
+
+  "status": {
+    "searching": "正在搜索货件信息...",
+
+    "found": "已找到货件信息",
+
+    "notFound": "未找到该追踪号码对应的信息。"
+  },
+
+  "details": {
+    "trackingId": "追踪号码",
+
+    "status": "货件状态",
+
+    "location": "当前位置",
+
+    "origin": "起运地",
+
+    "destination": "目的地",
+
+    "departure": "出发日期",
+
+    "arrival": "预计到达",
+
+    "carrier": "承运商",
+
+    "vessel": "船舶信息"
+  },
+
+  "shipmentStatus": {
+    "pending": "待处理",
+
+    "processing": "处理中",
+
+    "inTransit": "运输中",
+
+    "arrived": "已到达",
+
+    "delivered": "已交付",
+
+    "delayed": "延迟"
+  },
+
+  "timeline": {
+    "title": "货件运输进度",
+
+    "created": "已创建货件",
+
+    "pickedUp": "已提取货物",
+
+    "departed": "已离开起运港",
+
+    "transit": "国际运输中",
+
+    "destination": "已抵达目的地",
+
+    "completed": "货件已完成"
+  },
+
+  "errors": {
+    "empty": "请输入追踪号码。",
+
+    "invalid": "无效的追踪信息。",
+
+    "system": "无法加载货件信息，请稍后再试。"
+  }
+}

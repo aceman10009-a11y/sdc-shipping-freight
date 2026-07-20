@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Si è verificato un errore sconosciuto. Riprova più tardi.",
+
+    "network": "Errore di rete. Controlla la tua connessione Internet e riprova.",
+
+    "server": "Errore del server. Riprova più tardi."
+  },
+
+  "tracking": {
+    "empty": "Inserisci un numero di tracciamento.",
+
+    "notFound": "Nessuna spedizione trovata con questo numero di tracciamento.",
+
+    "failed": "Impossibile recuperare le informazioni della spedizione. Riprova più tardi."
+  },
+
+  "form": {
+    "required": "Questo campo è obbligatorio.",
+
+    "invalidEmail": "Inserisci un indirizzo email valido.",
+
+    "submissionFailed": "Invio del modulo non riuscito. Riprova."
+  },
+
+  "donateComingSoon": "L'integrazione dei pagamenti sarà disponibile prossimamente."
+}

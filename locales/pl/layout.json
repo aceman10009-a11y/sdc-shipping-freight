@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Usługi",
+
+    "track": "Śledź",
+
+    "why": "Dlaczego my",
+
+    "contact": "Kontakt",
+
+    "donate": "Wesprzyj"
+  },
+
+  "buttons": {
+    "accept": "Akceptuj",
+
+    "decline": "Odrzuć",
+
+    "trackShipment": "Śledź przesyłkę",
+
+    "getQuote": "Poproś o wycenę",
+
+    "track": "Śledź",
+
+    "sendMessage": "Wyślij wiadomość",
+
+    "donateNow": "Przekaż darowiznę"
+  },
+
+  "cookie": {
+    "title": "🍪 Informacja o plikach cookie",
+
+    "description": "SDC Shipping Freight używa niezbędnych plików cookie, aby zapewnić prawidłowe działanie strony internetowej oraz poprawić komfort korzystania z serwisu. Klikając „Akceptuj”, wyrażasz zgodę na używanie przez nas plików cookie."
+  },
+
+  "forms": {
+    "fullName": "Imię i nazwisko",
+
+    "emailAddress": "Adres e-mail",
+
+    "trackingId": "Wprowadź numer przesyłki",
+
+    "message": "Jak możemy Ci dzisiaj pomóc?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight zapewnia bezpieczne, niezawodne i wydajne rozwiązania logistyczne na całym świecie. Specjalizujemy się w transporcie morskim, lotniczym, magazynowaniu, odprawach celnych, spedycji oraz kompleksowej obsłudze ładunków.",
+
+    "explore": "Odkrywaj",
+
+    "services": "Usługi",
+
+    "service1": "Transport morski",
+
+    "service2": "Transport lotniczy",
+
+    "service3": "Magazynowanie",
+
+    "service4": "Odprawa celna",
+
+    "service5": "Spedycja",
+
+    "support": "Wsparcie",
+
+    "website": "Strona internetowa",
+
+    "emailSupport": "Wsparcie e-mail",
+
+    "viberSupport": "Wsparcie Viber",
+
+    "liveChat": "Czat na żywo",
+
+    "contact": "Kontakt",
+
+    "viberCustomerSupport": "💬 Obsługa klienta Viber",
+
+    "liveSupport": "🟢 Wsparcie na żywo 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Wszelkie prawa zastrzeżone."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Global sjöfart.<br>Levererad med precision.",
+
+    "description": "Säkra transportlösningar till sjöss, i luften och på land med spårning av försändelser i realtid."
+  },
+
+  "services": {
+    "tag": "VÅR EXPERTIS",
+
+    "title": "Integrerade globala logistiklösningar",
+
+    "description": "Vi erbjuder tillförlitliga transport- och leveranskedjelösningar genom sjöfrakt, flygfrakt, landtransporter och lagerhållning, med stöd av global logistisk expertis och realtidsövervakning.",
+
+    "seaFreight": {
+      "title": "Sjöfrakt",
+
+      "description": "Kostnadseffektiva lösningar för Full Container Load (FCL) och Less than Container Load (LCL), som förbinder världens största hamnar med tillförlitliga tidtabeller och full insyn i godset."
+    },
+
+    "airFreight": {
+      "title": "Flygfrakt",
+
+      "description": "Snabba internationella flygfrakttjänster med prioriterad hantering, tullsamordning och säker transport för brådskande försändelser världen över."
+    },
+
+    "landTransport": {
+      "title": "Landtransporter",
+
+      "description": "Tillförlitliga nationella och internationella vägtransporter med modern fordonsflottshantering, spårning i realtid och erfarna logistikspecialister."
+    },
+
+    "warehousing": {
+      "title": "Lagerhållning",
+
+      "description": "Säkra tjänster för lagerhållning, lagerhantering, distribution och orderuppfyllelse, utformade för att effektivisera din leveranskedja."
+    }
+  },
+
+  "tracking": {
+    "title": "Spåra försändelse",
+
+    "placeholder": "Ange spårningsnummer"
+  },
+
+  "stats": {
+    "title": "Globalt logistiknätverk",
+
+    "ports": {
+      "value": "120+",
+      "label": "Anslutna hamnar"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Länder vi betjänar"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Övervakning av försändelser"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Leveranssäkerhet"
+    }
+  },
+
+  "why": {
+    "tag": "VARFÖR VÄLJA OSS",
+
+    "title": "Tillförlitliga globala logistiklösningar",
+
+    "description": "SDC Shipping Freight levererar pålitliga internationella transport- och logistiktjänster med stöd av branscherfarenhet, modern spårningsteknik och ett starkt engagemang för säkra leveranser i rätt tid till företag och privatkunder världen över.",
+
+    "network": {
+      "title": "Globalt logistiknätverk",
+
+      "description": "Vårt globala logistiknätverk förbinder stora hamnar, flygplatser och transportnav för att säkerställa ett effektivt godsflöde på internationella marknader."
+    },
+
+    "delivery": {
+      "title": "Pålitliga leveranser i tid",
+
+      "description": "Varje försändelse samordnas noggrant för att uppfylla leveranstiderna samtidigt som effektiva processer och kontinuerlig kommunikation säkerställs under hela transporten."
+    },
+
+    "security": {
+      "title": "Säker godshantering",
+
+      "description": "Vi följer strikta rutiner för godshantering och erkända branschstandarder för att skydda varje försändelse från upphämtning till slutleverans."
+    },
+
+    "partnerships": {
+      "title": "Betrodda partnerskap",
+
+      "description": "Genom samarbete med betrodda logistikpartners och globala transportföretag erbjuder vi skalbara fraktlösningar som möter våra kunders ständigt föränderliga behov. Vi samarbetar även med Cainiao Global för att förbättra den logistiska effektiviteten."
+    }
+  },
+
+  "contact": {
+    "tag": "KONTAKT",
+
+    "title": "Vi transporterar ditt gods med trygghet",
+
+    "description": "Oavsett om du behöver internationell frakt eller logistiksupport erbjuder vårt erfarna team pålitliga lösningar anpassade efter dina behov.",
+
+    "info": {
+      "title": "Kontakta oss",
+
+      "description": "Vi erbjuder professionell logistiksupport och snabb hjälp med alla frågor som rör transporter.",
+
+      "viber": "Viber",
+
+      "support": "Kundsupport dygnet runt",
+
+      "worldwide": "Vi betjänar kunder över hela världen"
+    }
+  },
+
+  "donate": {
+    "title": "Stöd vårt logistiknätverk",
+
+    "description": "Ditt stöd hjälper oss att utveckla den globala transportinfrastrukturen."
+  },
+
+  "gallery": {
+    "tag": "GLOBAL SJÖFART",
+
+    "title": "Vi transporterar gods över världens alla hav",
+
+    "description": "Varje försändelse speglar vårt engagemang för tillförlitlighet, precision och logistiska lösningar i världsklass."
+  }
+}

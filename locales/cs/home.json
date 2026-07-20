@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "title": "Globální přeprava.<br>Doručeno s přesností.",
+    "description": "Bezpečná přepravní řešení po moři, vzduchem i po zemi s možností sledování zásilek v reálném čase."
+  },
+
+  "services": {
+    "tag": "NAŠE ODBORNOST",
+
+    "title": "Integrovaná globální logistická řešení",
+
+    "description": "Poskytujeme spolehlivá přepravní a dodavatelská řešení prostřednictvím námořní, letecké a pozemní dopravy a skladovacích služeb podporovaných globální logistickou odborností a sledováním zásilek v reálném čase.",
+
+    "sea": {
+      "title": "Námořní přeprava",
+      "description": "Cenově efektivní přeprava celých kontejnerů (FCL) a částečných zásilek (LCL) spojující hlavní světové přístavy s pravidelným plánováním a viditelností nákladu."
+    },
+
+    "air": {
+      "title": "Letecká přeprava",
+      "description": "Rychlá mezinárodní letecká přeprava s prioritním zpracováním, celní koordinací a bezpečnou přepravou urgentních zásilek po celém světě."
+    },
+
+    "land": {
+      "title": "Pozemní doprava",
+      "description": "Spolehlivá domácí i přeshraniční silniční doprava podporovaná moderním řízením vozového parku, sledováním v reálném čase a zkušenými logistickými odborníky."
+    },
+
+    "warehouse": {
+      "title": "Skladování",
+      "description": "Bezpečné skladování, řízení zásob, distribuce a plnění objednávek navržené pro zefektivnění vašeho dodavatelského řetězce."
+    }
+  },
+
+  "tracking": {
+    "title": "Sledovat zásilku",
+    "placeholder": "Zadejte číslo zásilky"
+  },
+
+  "statistics": {
+    "title": "Globální logistická síť",
+
+    "ports": "Propojené přístavy",
+
+    "countries": "Obsluhované země",
+
+    "monitoring": "Sledování zásilek",
+
+    "reliability": "Spolehlivost doručení"
+  },
+
+  "why": {
+    "tag": "PROČ SI VYBRAT NÁS",
+
+    "title": "Důvěryhodná globální logistická řešení",
+
+    "description": "SDC Shipping Freight poskytuje spolehlivé mezinárodní přepravní a logistické služby založené na odborných znalostech, pokročilém monitorování zásilek a závazku k bezpečnému a včasnému doručení pro firmy i jednotlivce po celém světě.",
+
+    "network": {
+      "title": "Globální logistická síť",
+
+      "description": "Naše celosvětová logistická síť propojuje hlavní přístavy, letiště a dopravní uzly a zajišťuje efektivní pohyb nákladu mezi mezinárodními trhy."
+    },
+
+    "delivery": {
+      "title": "Spolehlivé doručení včas",
+
+      "description": "Každá zásilka je pečlivě koordinována tak, aby byly dodrženy termíny doručení při zachování provozní efektivity a průběžné komunikace během celé přepravy."
+    },
+
+    "security": {
+      "title": "Bezpečná manipulace s nákladem",
+
+      "description": "Dodržujeme přísné postupy manipulace s nákladem a nejlepší průmyslové standardy pro ochranu zásilek od převzetí až po konečné doručení."
+    },
+
+    "partnerships": {
+      "title": "Důvěryhodná průmyslová partnerství",
+
+      "description": "Spoluprací s respektovanými logistickými partnery a globálními dopravci poskytujeme škálovatelná přepravní řešení, která odpovídají vyvíjejícím se potřebám našich klientů. Spolupracujeme také s Cainiao Global pro zvýšení logistické efektivity."
+    }
+  },
+
+  "contact": {
+    "tag": "KONTAKTUJTE NÁS",
+
+    "title": "Přepravíme váš náklad s důvěrou",
+
+    "description": "Ať už přepravujete mezinárodně nebo potřebujete logistickou podporu, náš zkušený tým je připraven nabídnout spolehlivá řešení přizpůsobená vašim požadavkům.",
+
+    "info": {
+      "title": "Kontaktujte nás",
+
+      "description": "Zajišťujeme profesionální logistickou podporu a rychlou pomoc při všech přepravních požadavcích.",
+
+      "viber": "Viber",
+
+      "support": "Zákaznická podpora 24/7",
+
+      "worldwide": "Obsluhujeme klienty po celém světě"
+    },
+
+    "form": {
+      "name": "Celé jméno",
+
+      "email": "E-mailová adresa",
+
+      "message": "Jak vám můžeme dnes pomoci?"
+    }
+  },
+
+  "donate": {
+    "title": "Podpořte naši logistickou síť",
+
+    "description": "Vaše podpora pomáhá zlepšovat globální přepravní infrastrukturu."
+  },
+
+  "gallery": {
+    "tag": "GLOBÁLNÍ PŘEPRAVA",
+
+    "title": "Přepravujeme náklad přes všechny oceány",
+
+    "description": "Každá zásilka odráží náš závazek ke spolehlivosti, přesnosti a špičkovým globálním logistickým řešením."
+  }
+}

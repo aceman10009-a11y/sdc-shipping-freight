@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "服务",
+
+    "track": "追踪",
+
+    "why": "为什么选择我们",
+
+    "contact": "联系我们",
+
+    "donate": "捐赠"
+  },
+
+  "buttons": {
+    "accept": "接受",
+
+    "decline": "拒绝",
+
+    "trackShipment": "追踪货件",
+
+    "getQuote": "获取报价",
+
+    "track": "追踪",
+
+    "sendMessage": "发送消息",
+
+    "donateNow": "立即捐赠"
+  },
+
+  "cookie": {
+    "title": "🍪 Cookie 使用通知",
+
+    "description": "SDC Shipping Freight 使用必要的 Cookie，以确保网站正常运行并改善您的使用体验。点击“接受”即表示您同意我们使用 Cookie。"
+  },
+
+  "forms": {
+    "fullName": "姓名",
+
+    "emailAddress": "电子邮箱地址",
+
+    "trackingId": "输入追踪号码",
+
+    "message": "今天我们可以如何帮助您？"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight 为全球客户提供安全、可靠、高效的物流解决方案。我们专注于海洋运输、航空运输、仓储服务、海关处理、货运代理以及综合运输管理。",
+
+    "explore": "探索",
+
+    "services": "服务",
+
+    "service1": "海洋运输",
+
+    "service2": "航空运输",
+
+    "service3": "仓储服务",
+
+    "service4": "海关处理",
+
+    "service5": "货运代理服务",
+
+    "support": "支持",
+
+    "website": "网站",
+
+    "emailSupport": "电子邮件支持",
+
+    "viberSupport": "Viber 支持",
+
+    "liveChat": "在线聊天",
+
+    "contact": "联系我们",
+
+    "viberCustomerSupport": "💬 Viber 客户支持",
+
+    "liveSupport": "🟢 全天候在线支持",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight。版权所有。"
+  }
+}

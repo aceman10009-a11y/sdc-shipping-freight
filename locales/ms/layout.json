@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Perkhidmatan",
+
+    "track": "Jejak",
+
+    "why": "Kenapa Kami",
+
+    "contact": "Hubungi",
+
+    "donate": "Derma"
+  },
+
+  "buttons": {
+    "accept": "Terima",
+
+    "decline": "Tolak",
+
+    "trackShipment": "Jejak penghantaran",
+
+    "getQuote": "Dapatkan sebut harga",
+
+    "track": "Jejak",
+
+    "sendMessage": "Hantar mesej",
+
+    "donateNow": "Derma sekarang"
+  },
+
+  "cookie": {
+    "title": "🍪 Notis Kuki",
+
+    "description": "SDC Shipping Freight menggunakan kuki yang diperlukan untuk memastikan laman web berfungsi dengan baik dan meningkatkan pengalaman pelayaran anda. Dengan mengklik 'Terima', anda bersetuju dengan penggunaan kuki kami."
+  },
+
+  "forms": {
+    "fullName": "Nama penuh",
+
+    "emailAddress": "Alamat e-mel",
+
+    "trackingId": "Masukkan nombor penghantaran",
+
+    "message": "Bagaimana kami boleh membantu anda hari ini?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight menyediakan penyelesaian logistik yang selamat, boleh dipercayai dan cekap di seluruh dunia. Kami pakar dalam pengangkutan laut, pengangkutan udara, penyimpanan gudang, pelepasan kastam, penghantaran kargo dan pengurusan kargo menyeluruh.",
+
+    "explore": "Terokai",
+
+    "services": "Perkhidmatan",
+
+    "service1": "Pengangkutan laut",
+
+    "service2": "Pengangkutan udara",
+
+    "service3": "Penyimpanan gudang",
+
+    "service4": "Pelepasan kastam",
+
+    "service5": "Penghantaran kargo",
+
+    "support": "Sokongan",
+
+    "website": "Laman web",
+
+    "emailSupport": "Sokongan e-mel",
+
+    "viberSupport": "Sokongan Viber",
+
+    "liveChat": "Sokongan sembang langsung",
+
+    "contact": "Hubungi",
+
+    "viberCustomerSupport": "💬 Sokongan pelanggan Viber",
+
+    "liveSupport": "🟢 Sokongan langsung 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Hak cipta terpelihara."
+  }
+}

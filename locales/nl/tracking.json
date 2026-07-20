@@ -1,0 +1,83 @@
+{
+  "title": "Zending volgen",
+
+  "hero": {
+    "tag": "ZENDING VOLGEN",
+
+    "title": "Volg uw vracht in realtime",
+
+    "description": "Volg de voortgang van uw zending met realtime inzicht, geschatte aankomstinformatie en gedetailleerde logistieke updates."
+  },
+
+  "form": {
+    "placeholder": "Voer trackingnummer in",
+
+    "button": "Zending volgen"
+  },
+
+  "status": {
+    "searching": "Zendinginformatie zoeken...",
+
+    "found": "Zendinginformatie gevonden",
+
+    "notFound": "Er is geen verzendinformatie gevonden voor dit trackingnummer."
+  },
+
+  "details": {
+    "trackingId": "Trackingnummer",
+
+    "status": "Verzendstatus",
+
+    "location": "Huidige locatie",
+
+    "origin": "Vertrekpunt",
+
+    "destination": "Bestemming",
+
+    "departure": "Vertrekdatum",
+
+    "arrival": "Geschatte aankomst",
+
+    "carrier": "Vervoerder",
+
+    "vessel": "Scheepsinformatie"
+  },
+
+  "shipmentStatus": {
+    "pending": "In behandeling",
+
+    "processing": "Wordt verwerkt",
+
+    "inTransit": "Onderweg",
+
+    "arrived": "Aangekomen",
+
+    "delivered": "Afgeleverd",
+
+    "delayed": "Vertraagd"
+  },
+
+  "timeline": {
+    "title": "Voortgang van de zending",
+
+    "created": "Zending aangemaakt",
+
+    "pickedUp": "Vracht opgehaald",
+
+    "departed": "Vertrokken uit vertrekhaven",
+
+    "transit": "Internationaal transport onderweg",
+
+    "destination": "Aangekomen op bestemming",
+
+    "completed": "Zending voltooid"
+  },
+
+  "errors": {
+    "empty": "Voer een trackingnummer in.",
+
+    "invalid": "Ongeldige trackinginformatie.",
+
+    "system": "De verzendgegevens konden niet worden geladen. Probeer het later opnieuw."
+  }
+}

@@ -2,86 +2,202 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>SDC Shipping Freight</title>
+    <title data-i18n="layout.meta.title">
+        SDC Shipping Freight
+    </title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="images/favicon.png">
 
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5E1W0598M3"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-        gtag("config", "G-5E1W0598M3");
+    <script async
+        src="https://www.googletagmanager.com/gtag/js?id=G-5E1W0598M3">
     </script>
+
+    <script>
+
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag(){
+
+            dataLayer.push(arguments);
+
+        }
+
+        gtag("js", new Date());
+
+        gtag("config", "G-5E1W0598M3");
+
+    </script>
+
 </head>
 
-<!-- Cookie Consent -->
-<div id="cookie-banner" class="cookie-banner">
+<body>
+
+<!-- ==========================================================
+     COOKIE CONSENT
+========================================================== -->
+
+<div id="cookie-banner"
+     class="cookie-banner">
 
     <div class="cookie-content">
 
         <div class="cookie-text">
-            <h4>🍪 Cookie Notice</h4>
+<h4 data-i18n="common.cookie.title">
+    🍪 Cookie Notice
+</h4>
 
-            <p>
-                SDC Shipping Freight uses essential cookies to improve your browsing
-                experience and ensure our website functions properly. By clicking
-                <strong>Accept</strong>, you agree to our use of cookies.
-            </p>
+    <p data-i18n="common.cookie.message">
+    SDC Shipping Freight uses essential cookies to improve your browsing
+    experience and ensure our website functions properly. By clicking
+    <strong>Accept</strong>, you agree to our use of cookies.
+</p>
+
         </div>
 
         <div class="cookie-buttons">
-            <button id="acceptCookies" class="cookie-btn primary">
-                Accept
-            </button>
+<button 
+    id="acceptCookies" 
+    class="cookie-btn primary"
+    data-i18n="common.buttons.accept">
+    Accept
+</button>
+<button 
+    id="declineCookies" 
+    class="cookie-btn secondary"
+    data-i18n="common.buttons.decline">
+    Decline
+</button>
 
-            <button id="declineCookies" class="cookie-btn secondary">
-                Decline
-            </button>
         </div>
 
     </div>
 
 </div>
 
-<body>
+<!-- ==========================================================
+     NAVIGATION
+========================================================== -->
 
-<!-- NAVBAR -->
 <header class="navbar">
+
     <div class="logo">
-        <img src="images/logo.JPG" alt="SDC Logo">
-        <h1>SDC Shipping Freight</h1>
+
+        <img src="images/logo.JPG"
+             alt="SDC Shipping Freight Logo">
+
+        <h1 data-i18n="layout.navbar.brand">
+
+            SDC Shipping Freight
+
+        </h1>
+
     </div>
-<div class="menu-toggle" id="menuToggle">
 
-    ☰
 
-</div>
+    <div class="menu-toggle"
+         id="menuToggle">
 
-<nav id="navbarMenu">
+        ☰
 
-    <a href="#services">Services</a>
+    </div>
 
-    <a href="#track">Track</a>
 
-    <a href="#why">Why Us</a>
+    <nav id="navbarMenu">
 
-    <a href="#contact">Contact</a>
+        <a href="#services"
+           data-i18n="layout.navbar.services">
 
-    <a href="#donate">Donate</a>
+            Services
 
-</nav>
+        </a>
+
+
+        <a href="#track"
+           data-i18n="layout.navbar.track">
+
+            Track
+
+        </a>
+
+
+        <a href="#why"
+           data-i18n="layout.navbar.why">
+
+            Why Us
+
+        </a>
+
+
+        <a href="#contact"
+           data-i18n="layout.navbar.contact">
+
+            Contact
+
+        </a>
+
+
+        <a href="#donate"
+           data-i18n="layout.navbar.donate">
+
+            Donate
+
+        </a>
+
+
+        <!-- LANGUAGE SELECTOR -->
+
+        <li class="language-switcher">
+
+            <select id="languageSelect"
+                    onchange="changeLanguage(this.value)">
+
+                <option value="en">English</option>
+                <option value="de">Deutsch</option>
+                <option value="fr">Français</option>
+                <option value="es">Español</option>
+                <option value="it">Italiano</option>
+                <option value="pt">Português</option>
+                <option value="nl">Nederlands</option>
+                <option value="pl">Polski</option>
+                <option value="cs">Čeština</option>
+                <option value="da">Dansk</option>
+                <option value="sv">Svenska</option>
+                <option value="no">Norsk</option>
+                <option value="fi">Suomi</option>
+                <option value="ro">Română</option>
+                <option value="uk">Українська</option>
+                <option value="ru">Русский</option>
+                <option value="tr">Türkçe</option>
+                <option value="ar">العربية</option>
+                <option value="zh">中文</option>
+                <option value="ja">日本語</option>
+                <option value="ko">한국어</option>
+                <option value="th">ไทย</option>
+                <option value="vi">Tiếng Việt</option>
+                <option value="ms">Bahasa Melayu</option>
+
+            </select>
+
+        </li>
+
+
+    </nav>
+
+
 </header>
 
-<!-- HERO -->
+<!-- ==========================================================
+     HERO
+========================================================== -->
+
 <section class="hero">
 
     <img
@@ -89,451 +205,1173 @@
         alt="SDC Shipping Freight Hero"
         class="hero-bg">
 
+
     <div class="hero-content">
 
-        <h2>
+
+        <h2 data-i18n="home.hero.title">
+
             Global Shipping.<br>
             Delivered With Precision.
+
         </h2>
 
-        <p>
-            Secure freight solutions across sea, air and land with real-time shipment tracking.
+
+        <p data-i18n="home.hero.description">
+
+            Secure freight solutions across sea,
+            air and land with real-time shipment tracking.
+
         </p>
 
+
         <div class="hero-buttons">
-            <a href="#track">Track Shipment</a>
-            <a href="#contact">Get Quote</a>
+
+
+            <a href="#track"
+               data-i18n="common.buttons.trackShipment">
+
+                Track Shipment
+
+            </a>
+
+
+            <a href="#contact"
+               data-i18n="common.buttons.getQuote">
+
+                Get Quote
+
+            </a>
+
+
         </div>
+
 
     </div>
 
-</section>
-<!-- ==================================================
-     SERVICES
-================================================== -->
 
-<section id="services" class="section services">
+</section>
+<!-- ==========================================================
+     SERVICES
+========================================================== -->
+
+<section id="services"
+         class="section services">
+
 
     <div class="section-title">
 
-        <span class="section-tag">
+
+        <span class="section-tag"
+              data-i18n="home.services.tag">
+
             OUR EXPERTISE
+
         </span>
 
-        <h2>
+
+        <h2 data-i18n="home.services.title">
+
             Integrated Global Logistics Solutions
+
         </h2>
 
-        <p>
+
+        <p data-i18n="home.services.description">
+
             Delivering dependable freight and supply chain solutions through
             sea, air, road, and warehousing services backed by global
             logistics expertise and real-time shipment visibility.
+
         </p>
 
+
     </div>
+
 
     <div class="services-grid">
 
+
         <article class="card service-card">
 
+
             <div class="service-icon">
+
                 <i class="fas fa-ship"></i>
+
             </div>
 
-            <h3>Sea Freight</h3>
 
-            <p>
+            <h3 data-i18n="home.services.sea.title">
+
+                Sea Freight
+
+            </h3>
+
+
+            <p data-i18n="home.services.sea.description">
+
                 Cost-effective Full Container Load (FCL) and Less than
-                Container Load (LCL) shipping connecting major ports worldwide
-                with reliable scheduling and cargo visibility.
+                Container Load (LCL) shipping connecting major ports
+                worldwide with reliable scheduling and cargo visibility.
+
             </p>
+
 
         </article>
 
+
+
         <article class="card service-card">
 
+
             <div class="service-icon">
+
                 <i class="fas fa-plane"></i>
+
             </div>
 
-            <h3>Air Freight</h3>
 
-            <p>
+            <h3 data-i18n="home.services.air.title">
+
+                Air Freight
+
+            </h3>
+
+
+            <p data-i18n="home.services.air.description">
+
                 Fast international air cargo services with priority handling,
                 customs coordination, and secure transportation for urgent
                 shipments worldwide.
+
             </p>
+
 
         </article>
 
+
+
         <article class="card service-card">
 
+
             <div class="service-icon">
+
                 <i class="fas fa-truck"></i>
+
             </div>
 
-            <h3>Land Transport</h3>
 
-            <p>
-                Reliable domestic and cross-border road transport supported by
-                modern fleet management, real-time tracking, and experienced
-                logistics professionals.
+            <h3 data-i18n="home.services.land.title">
+
+                Land Transport
+
+            </h3>
+
+
+            <p data-i18n="home.services.land.description">
+
+                Reliable domestic and cross-border road transport supported
+                by modern fleet management, real-time tracking, and
+                experienced logistics professionals.
+
             </p>
 
+
         </article>
+
+
 
         <article class="card service-card">
 
+
             <div class="service-icon">
+
                 <i class="fas fa-warehouse"></i>
+
             </div>
 
-            <h3>Warehousing</h3>
 
-            <p>
-                Secure warehousing, inventory management, distribution, and
-                fulfillment services designed to streamline your supply chain.
+            <h3 data-i18n="home.services.warehouse.title">
+
+                Warehousing
+
+            </h3>
+
+
+            <p data-i18n="home.services.warehouse.description">
+
+                Secure warehousing, inventory management, distribution,
+                and fulfillment services designed to streamline your
+                supply chain.
+
             </p>
 
+
         </article>
+
 
     </div>
 
-</section>
-<!-- TRACK -->
-<section id="track" class="section dark">
-    <h2>Track Shipment</h2>
 
-    <input id="trackingId" placeholder="Enter Tracking ID">
-    <button onclick="trackShipment()">Track</button>
+</section>
+
+
+
+
+<!-- ==================================================
+     TRACK SHIPMENT
+================================================== -->
+
+
+<section id="track"
+         class="section dark">
+
+
+    <h2 data-i18n="home.tracking.title">
+
+        Track Shipment
+
+    </h2>
+
+
+
+    <input
+        id="trackingId"
+        data-i18n-placeholder="home.tracking.placeholder"
+        placeholder="Enter Tracking ID">
+
+
+
+    <button
+        onclick="trackShipment()"
+        data-i18n="common.buttons.track">
+
+        Track
+
+    </button>
+
+
 
     <div id="trackResult"></div>
+
+
+
 </section>
 
-<!-- GLOBAL STATS -->
+<!-- ==================================================
+     GLOBAL STATISTICS
+================================================== -->
+
 <section class="section">
-    <h2>Global Logistics Network</h2>
+
+
+    <h2 data-i18n="home.stats.title">
+        Global Logistics Network
+    </h2>
+
 
     <div class="stats">
+
+
         <div class="stat-box">
+
             <h3>120+</h3>
-            <p>Ports Connected</p>
+
+            <p data-i18n="home.stats.ports.label">
+                Ports Connected
+            </p>
+
         </div>
 
+
+
         <div class="stat-box">
+
             <h3>50+</h3>
-            <p>Countries Served</p>
+
+            <p data-i18n="home.stats.countries.label">
+                Countries Served
+            </p>
+
         </div>
 
+
+
         <div class="stat-box">
+
             <h3>24/7</h3>
-            <p>Shipment Monitoring</p>
+
+            <p data-i18n="home.stats.monitoring.label">
+                Shipment Monitoring
+            </p>
+
         </div>
 
+
+
         <div class="stat-box">
+
             <h3>99%</h3>
-            <p>Delivery Reliability</p>
+
+            <p data-i18n="home.stats.reliability.label">
+                Delivery Reliability
+            </p>
+
         </div>
+
+
     </div>
+
+
 </section>
 
-<!-- WHY CHOOSE US -->
+<!-- ==================================================
+     WHY CHOOSE US
+================================================== -->
+
+
 <section id="why" class="section why-section">
+
 
     <div class="why-header">
 
-        <span class="why-tag">WHY CHOOSE US</span>
 
-        <h2>Trusted Global Logistics Solutions</h2>
+        <span
+            class="why-tag"
+            data-i18n="home.why.tag">
 
-        <p>
-            SDC Shipping Freight delivers dependable international freight and
-            logistics services backed by industry expertise, advanced shipment
-            monitoring, and a commitment to secure, on-time delivery for
-            businesses and individuals worldwide.
+            WHY CHOOSE US
+
+        </span>
+
+
+
+        <h2 data-i18n="home.why.title">
+
+            Trusted Global Logistics Solutions
+
+        </h2>
+
+
+
+        <p data-i18n="home.why.description">
+
+            SDC Shipping Freight delivers dependable international freight
+            and logistics services backed by industry expertise, advanced
+            shipment monitoring, and a commitment to secure, on-time delivery
+            for businesses and individuals worldwide.
+
         </p>
 
+
     </div>
+
+
+
 
     <div class="why-grid">
 
-        <div class="why-card">
-            <i class="fas fa-globe-americas why-icon"></i>
-            <h3>Global Logistics Network</h3>
-            <p>
-                Our worldwide logistics network connects major ports, airports,
-                and transportation hubs, ensuring efficient freight movement
-                across international markets.
-            </p>
-        </div>
 
         <div class="why-card">
+
+
+            <i class="fas fa-globe-americas why-icon"></i>
+
+
+            <h3 data-i18n="home.why.network.title">
+
+                Global Logistics Network
+
+            </h3>
+
+
+
+            <p data-i18n="home.why.network.description">
+
+                Our worldwide logistics network connects major ports,
+                airports, and transportation hubs, ensuring efficient
+                freight movement across international markets.
+
+            </p>
+
+
+        </div>
+
+
+
+
+
+        <div class="why-card">
+
+
             <i class="fas fa-clock why-icon"></i>
-            <h3>Reliable On-Time Delivery</h3>
-            <p>
+
+
+            <h3 data-i18n="home.why.delivery.title">
+
+                Reliable On-Time Delivery
+
+            </h3>
+
+
+
+            <p data-i18n="home.why.delivery.description">
+
                 Every shipment is carefully coordinated to meet delivery
                 schedules while maintaining operational efficiency and
                 consistent communication throughout the journey.
+
             </p>
+
+
         </div>
 
+
+
+
+
         <div class="why-card">
+
+
             <i class="fas fa-shield-alt why-icon"></i>
-            <h3>Safe & Secure Cargo Handling</h3>
-            <p>
-                We follow strict cargo handling procedures and industry best
-                practices to protect shipments from collection through final
-                delivery.
+
+
+            <h3 data-i18n="home.why.security.title">
+
+                Safe & Secure Cargo Handling
+
+            </h3>
+
+
+
+            <p data-i18n="home.why.security.description">
+
+                We follow strict cargo handling procedures and industry
+                best practices to protect shipments from collection
+                through final delivery.
+
             </p>
+
+
         </div>
 
+
+
+
+
         <div class="why-card">
+
+
             <i class="fas fa-handshake why-icon"></i>
-            <h3>Trusted Industry Partnerships</h3>
-            <p>
-                By collaborating with respected logistics partners and global
-                carriers, we provide scalable shipping solutions that meet the
-                evolving needs of our clients. We also partner with Cainiao Global for enhanced logistics efficiency
+
+
+            <h3 data-i18n="home.why.partnerships.title">
+
+                Trusted Industry Partnerships
+
+            </h3>
+
+
+
+            <p data-i18n="home.why.partnerships.description">
+
+                By collaborating with respected logistics partners and
+                global carriers, we provide scalable shipping solutions
+                that meet the evolving needs of our clients. We also
+                partner with Cainiao Global for enhanced logistics
+                efficiency.
+
             </p>
+
+
         </div>
+
 
     </div>
+
 
 </section>
 
-<!-- CONTACT -->
+
+
+
+
+
+<!-- ==================================================
+     CONTACT
+================================================== -->
+
+
 <section id="contact" class="contact-section">
+
 
     <div class="contact-header">
 
-        <span class="contact-tag">CONTACT US</span>
 
-        <h2>Let's Move Your Cargo with Confidence</h2>
+        <span
+            class="contact-tag"
+            data-i18n="home.contact.tag">
 
-        <p>
-            Whether you're shipping internationally or need logistics support,
-            our experienced team is ready to provide reliable solutions tailored
-            to your requirements.
+            CONTACT US
+
+        </span>
+
+
+
+        <h2 data-i18n="home.contact.title">
+
+            Let's Move Your Cargo with Confidence
+
+        </h2>
+
+
+
+        <p data-i18n="home.contact.description">
+
+            Whether you're shipping internationally or need logistics
+            support, our experienced team is ready to provide reliable
+            solutions tailored to your requirements.
+
         </p>
+
 
     </div>
 
+
+
+
+
     <div class="contact-wrapper">
+
 
         <div class="contact-info">
 
-            <h3>Get In Touch</h3>
 
-            <p>
-                We are committed to providing professional logistics support and
-                prompt assistance for all shipping enquiries.
+            <h3 data-i18n="home.contact.info.title">
+
+                Get In Touch
+
+            </h3>
+
+
+
+            <p data-i18n="home.contact.info.description">
+
+                We are committed to providing professional logistics
+                support and prompt assistance for all shipping enquiries.
+
             </p>
 
+
+
+
             <div class="contact-item">
+
                 <i class="fas fa-envelope"></i>
-                <span>contact@sdcshippingfreight.com</span>
+
+                <span>
+                    contact@sdcshippingfreight.com
+                </span>
+
             </div>
 
+
+
+
+
             <div class="contact-item">
+
+
                 <i class="fab fa-viber"></i>
-                <span>+1 732 916 8175</span>
-                viber
+
+
+                <span>
+                    +1 732 916 8175
+                </span>
+
+
+                <span data-i18n="home.contact.info.viber">
+
+                    Viber
+
+                </span>
+
+
             </div>
 
+
+
+
+
             <div class="contact-item">
+
+
                 <i class="fas fa-clock"></i>
-                <span>24/7 Customer Support</span>
+
+
+                <span data-i18n="home.contact.info.support">
+
+                    24/7 Customer Support
+
+                </span>
+
+
             </div>
 
+
+
+
+
             <div class="contact-item">
+
+
                 <i class="fas fa-globe"></i>
-                <span>Serving Clients Worldwide</span>
+
+
+                <span data-i18n="home.contact.info.worldwide">
+
+                    Serving Clients Worldwide
+
+                </span>
+
+
             </div>
+
+
 
         </div>
 
+
+
+
+
         <div class="contact-form-card">
 
-            <input id="name" placeholder="Full Name">
 
-            <input id="email" placeholder="Email Address">
+            <input
+                id="name"
+                data-i18n-placeholder="home.contact.form.name"
+                placeholder="Full Name">
+
+
+
+            <input
+                id="email"
+                data-i18n-placeholder="home.contact.form.email"
+                placeholder="Email Address">
+
+
 
             <textarea
                 id="message"
                 rows="6"
-                placeholder="How can we assist you today?"
-            ></textarea>
+                data-i18n-placeholder="home.contact.form.message"
+                placeholder="How can we assist you today?"></textarea>
 
-            <button onclick="sendEmail()">
+
+
+
+            <button
+                onclick="sendEmail()"
+                data-i18n="common.buttons.sendMessage">
+
                 Send Message
+
             </button>
+
+
 
             <p id="emailResult"></p>
 
+
+
         </div>
 
+
+
     </div>
 
+
 </section>
+<!-- ==================================================
+     DONATE
+================================================== -->
 
-<!-- DONATE -->
 <section id="donate" class="section">
-    <h2>Support Our Logistics Network</h2>
 
-    <p>
+
+    <h2 data-i18n="home.donate.title">
+
+        Support Our Logistics Network
+
+    </h2>
+
+
+
+    <p data-i18n="home.donate.description">
+
         Your support helps improve global shipping infrastructure.
+
     </p>
 
-    <button onclick="alert('Payment integration coming soon')">
+
+
+    <button
+        onclick="alert(window.translator.get('errors.donateComingSoon'))"
+        data-i18n="common.buttons.donateNow">
+
         Donate Now
+
     </button>
+
+
 </section>
 
-<!-- Fleet Gallery -->
+
+
+
+
+<!-- ==================================================
+     FLEET GALLERY
+================================================== -->
+
+
 <section class="fleet-gallery">
 
+
     <div class="fleet-heading">
-        <span>GLOBAL SHIPPING</span>
-        <h2>Moving Cargo Across Every Ocean</h2>
-        <p>
+
+
+        <span data-i18n="home.gallery.tag">
+
+            GLOBAL SHIPPING
+
+        </span>
+
+
+
+        <h2 data-i18n="home.gallery.title">
+
+            Moving Cargo Across Every Ocean
+
+        </h2>
+
+
+
+        <p data-i18n="home.gallery.description">
+
             Every shipment reflects our commitment to reliability,
             precision, and world-class logistics solutions.
+
         </p>
+
+
     </div>
+
+
+
+
 
     <div class="fleet-grid">
 
-        <div class="fleet-item">
-            <img src="images/sdcship1.png" alt="Container Ship">
-        </div>
 
         <div class="fleet-item">
-            <img src="images/sdcship2.png" alt="Cargo Operations">
+
+
+            <img
+                src="images/sdcship1.png"
+                alt="Container Ship">
+
+
         </div>
 
+
+
         <div class="fleet-item">
-            <img src="images/sdcship3.png" alt="Shipping Fleet">
+
+
+            <img
+                src="images/sdcship2.png"
+                alt="Cargo Operations">
+
+
         </div>
+
+
+
+        <div class="fleet-item">
+
+
+            <img
+                src="images/sdcship3.png"
+                alt="Shipping Fleet">
+
+
+        </div>
+
 
     </div>
+
 
 </section>
-<!-- FOOTER -->
+
+
+
+
+
+
+<!-- ==================================================
+     FOOTER
+================================================== -->
+
+
 <footer class="footer">
 
-  <div class="footer-container">
 
-    <!-- Company -->
-    <div class="footer-brand">
-      <h3>SDC Shipping Freight</h3>
+    <div class="footer-container">
 
-   <p>
-  SDC Shipping Freight delivers secure, reliable, and efficient logistics
-  solutions worldwide. We specialize in ocean freight, air freight,
-  warehousing, customs clearance, and end-to-end cargo management, providing
-  businesses and individuals with dependable shipping services across global
-  trade routes.
-</p>>
 
-    </div>
+        <!-- Company -->
 
-    <!-- Company -->
-    <div class="footer-column">
 
-      <h4>Explore</h4>
+        <div class="footer-brand">
 
-      <a href="#services">Services</a>
-      <a href="#contact">Contact</a>
 
-    </div>
+            <h3 data-i18n="layout.footer.company">
 
-    <!-- Services -->
-    <div class="footer-column">
+                SDC Shipping Freight
 
-  <h4>Services</h4>
+            </h3>
 
-  <p>Ocean Freight</p>
-  <p>Air Freight</p>
-  <p>Warehousing</p>
-  <p>Customs Clearance</p>
-  <p>Freight Forwarding</p>
+
+
+            <p data-i18n="layout.footer.description">
+
+                SDC Shipping Freight delivers secure, reliable,
+                and efficient logistics solutions worldwide.
+                We specialize in ocean freight, air freight,
+                warehousing, customs clearance, freight forwarding
+                and end-to-end cargo management, providing
+                businesses and individuals with dependable
+                shipping services across global trade routes.
+
+            </p>
+
+
+        </div>
+
+
+
+
+
+
+        <!-- Explore -->
+
+
+        <div class="footer-column">
+
+
+            <h4 data-i18n="layout.footer.explore">
+
+                Explore
+
+            </h4>
+
+
+
+            <a href="#services"
+               data-i18n="layout.navbar.services">
+
+                Services
+
+            </a>
+
+
+
+            <a href="#contact"
+               data-i18n="layout.navbar.contact">
+
+                Contact
+
+            </a>
+
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Services -->
+
+
+        <div class="footer-column">
+
+
+            <h4 data-i18n="layout.footer.services">
+
+                Services
+
+            </h4>
+
+
+
+
+            <p data-i18n="layout.footer.service1">
+
+                Ocean Freight
+
+            </p>
+
+
+
+            <p data-i18n="layout.footer.service2">
+
+                Air Freight
+
+            </p>
+
+
+
+            <p data-i18n="layout.footer.service3">
+
+                Warehousing
+
+            </p>
+
+
+
+            <p data-i18n="layout.footer.service4">
+
+                Customs Clearance
+
+            </p>
+
+
+
+            <p data-i18n="layout.footer.service5">
+
+                Freight Forwarding
+
+            </p>
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Support -->
+
+
+        <div class="footer-column">
+
+
+            <h4 data-i18n="layout.footer.support">
+
+                Support
+
+            </h4>
+
+
+
+
+            <a href="https://sdcshippingfreight.com"
+               target="_blank"
+               data-i18n="layout.footer.website">
+
+                Website
+
+            </a>
+
+
+
+            <a href="mailto:contact@sdcshippingfreight.com"
+               data-i18n="layout.footer.emailSupport">
+
+                Email Support
+
+            </a>
+
+
+
+            <a href="https://invite.viber.com/?g2=AQB..."
+               target="_blank"
+               data-i18n="layout.footer.viberSupport">
+
+                Viber Support
+
+            </a>
+
+
+
+            <a href="#"
+               data-i18n="layout.footer.liveChat">
+
+                Live Chat Support
+
+            </a>
+
+
+
+        </div>
+
+       <!-- Contact -->
+
+<div class="footer-column">
+
+
+    <h4 data-i18n="layout.footer.contact">
+
+        Contact
+
+    </h4>
+
+
+
+    <p>
+
+        📧 contact@sdcshippingfreight.com
+
+    </p>
+
+
+
+    <p>
+
+        🌐 www.sdcshippingfreight.com
+
+    </p>
+
+
+
+    <p data-i18n="layout.footer.viberCustomerSupport">
+
+        💬 Viber Customer Support
+
+    </p>
+
+
+
+    <p data-i18n="layout.footer.liveSupport">
+
+        🟢 24/7 Live Support
+
+    </p>
+
 
 </div>
 
-    <!-- Support -->
-    <div class="footer-column">
 
-      <h4>Support</h4>
+</div>
 
-      <a href="https://sdcshippingfreight.com" target="_blank">
-        Website
-      </a>
 
-      <a href="mailto:contact@sdcshippingfreight.com">
-        Email Support
-      </a>
+<p data-i18n="layout.footer.copyright">
 
-      <a href="https://invite.viber.com/?g2=AQB..." target="_blank">
-        Viber Support
-      </a>
+    © 2014–2026 SDC Shipping Freight.
+    All Rights Reserved.
 
-      <a href="#">
-        Live Chat Support
-      </a>
+</p>
 
-    </div>
-
-    <!-- Contact -->
-    <div class="footer-column">
-
-      <h4>Contact</h4>
-
-      <p>📧 contact@sdcshippingfreight.com</p>
-
-      <p>🌐 www.sdcshippingfreight.com</p>
-
-      <p>💬 Viber Customer Support</p>
-
-      <p>🟢 24/7 Live Support</p>
-
-    </div>
-
-  </div>
-
-    <p>
-      © 2014–2026 SDC Shipping Freight. All Rights Reserved.
-    </p>
-
-  </div>
 
 </footer>
 
-<!-- Firebase SDKs -->
+
+
+
+
+<!-- ==================================================
+     FIREBASE
+================================================== -->
+
+
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
 
-<!-- MAIN SCRIPT (ONLY ONCE) -->
+
+
+
+
+<!-- ==================================================
+     INTERNATIONALIZATION
+================================================== -->
+
+
+<script src="js/i18n.js"></script>
+
+<script src="js/language-switcher.js"></script>
+
+
+
+
+
+<!-- ==================================================
+     APPLICATION SCRIPTS
+================================================== -->
+
+
 <script src="js/contact.js"></script>
+
 <script src="js/script.js"></script>
 
-<!-- TAWK LIVE CHAT -->
-<!--Start of Tawk.to Script-->
-<!--Start of Tawk.to Script-->
+
+
+
+
+<!-- ==================================================
+     TAWK LIVE CHAT
+================================================== -->
+
+
 <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+
+
 (function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/6a2ae0175bdfa41c2ccf68db/1jqrnmo64';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+
+
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+
+
+    s1.async = true;
+
+
+    s1.src =
+    "https://embed.tawk.to/6a2ae0175bdfa41c2ccf68db/1jqrnmo64";
+
+
+    s1.charset = "UTF-8";
+
+
+    s1.setAttribute("crossorigin","*");
+
+
+    s0.parentNode.insertBefore(s1,s0);
+
+
 })();
+
+
 </script>
-<!--End of Tawk.to Script-->
+
+
 
 <script src="js/cookies.js"></script>
 
+
 </body>
+
 </html>

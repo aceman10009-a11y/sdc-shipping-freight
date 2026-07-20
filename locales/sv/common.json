@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Välj språk"
+  },
+
+  "loading": "Laddar...",
+
+  "buttons": {
+    "accept": "Acceptera",
+
+    "decline": "Avvisa",
+
+    "trackShipment": "Spåra försändelse",
+
+    "getQuote": "Begär offert",
+
+    "track": "Spåra",
+
+    "sendMessage": "Skicka meddelande",
+
+    "donateNow": "Donera nu"
+  },
+
+  "actions": {
+    "learnMore": "Läs mer",
+
+    "viewDetails": "Visa detaljer",
+
+    "close": "Stäng",
+
+    "submit": "Skicka",
+
+    "cancel": "Avbryt"
+  },
+
+  "status": {
+    "active": "Aktiv",
+
+    "inactive": "Inaktiv",
+
+    "success": "Lyckades",
+
+    "failed": "Misslyckades",
+
+    "pending": "Väntar"
+  },
+
+  "navigation": {
+    "home": "Hem",
+
+    "about": "Om oss",
+
+    "services": "Tjänster",
+
+    "contact": "Kontakt",
+
+    "tracking": "Spåra försändelse"
+  },
+
+  "messages": {
+    "welcome": "Välkommen till SDC Shipping Freight",
+
+    "thankYou": "Tack för att du kontaktade oss.",
+
+    "tryAgain": "Försök igen senare."
+  }
+}

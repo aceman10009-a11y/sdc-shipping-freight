@@ -1,0 +1,83 @@
+{
+  "title": "Spor forsendelse",
+
+  "hero": {
+    "tag": "SPOR FORSENDELSE",
+
+    "title": "Følg lasten din i sanntid",
+
+    "description": "Spor reisen til forsendelsen din med sanntidssynlighet, estimert ankomstinformasjon og detaljerte logistikkoppdateringer."
+  },
+
+  "form": {
+    "placeholder": "Skriv inn sporingsnummer",
+
+    "button": "Spor forsendelse"
+  },
+
+  "status": {
+    "searching": "Søker etter forsendelsesinformasjon...",
+
+    "found": "Forsendelsesinformasjon funnet",
+
+    "notFound": "Ingen forsendelsesinformasjon ble funnet for dette sporingsnummeret."
+  },
+
+  "details": {
+    "trackingId": "Sporingsnummer",
+
+    "status": "Forsendelsesstatus",
+
+    "location": "Nåværende plassering",
+
+    "origin": "Opprinnelse",
+
+    "destination": "Destinasjon",
+
+    "departure": "Avreisedato",
+
+    "arrival": "Estimert ankomst",
+
+    "carrier": "Transportør",
+
+    "vessel": "Fartøysinformasjon"
+  },
+
+  "shipmentStatus": {
+    "pending": "Venter",
+
+    "processing": "Behandles",
+
+    "inTransit": "Under transport",
+
+    "arrived": "Ankommet",
+
+    "delivered": "Levert",
+
+    "delayed": "Forsinket"
+  },
+
+  "timeline": {
+    "title": "Forsendelsesfremdrift",
+
+    "created": "Forsendelse opprettet",
+
+    "pickedUp": "Last hentet",
+
+    "departed": "Forlatt avgangshavn",
+
+    "transit": "Under internasjonal transport",
+
+    "destination": "Ankommet destinasjon",
+
+    "completed": "Forsendelse fullført"
+  },
+
+  "errors": {
+    "empty": "Vennligst skriv inn sporingsnummer.",
+
+    "invalid": "Ugyldig sporingsinformasjon.",
+
+    "system": "Kunne ikke laste forsendelsesdetaljer. Vennligst prøv igjen senere."
+  }
+}

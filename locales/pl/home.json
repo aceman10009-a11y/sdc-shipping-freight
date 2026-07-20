@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "title": "Globalna wysyłka.<br>Dostarczana z precyzją.",
+
+    "description": "Bezpieczne rozwiązania transportu morskiego, lotniczego i lądowego z monitorowaniem przesyłek w czasie rzeczywistym."
+  },
+
+  "services": {
+    "tag": "NASZA EKSPERTYZA",
+
+    "title": "Zintegrowane globalne rozwiązania logistyczne",
+
+    "description": "Oferujemy niezawodne rozwiązania transportowe i zarządzania łańcuchem dostaw poprzez transport morski, lotniczy, lądowy oraz magazynowanie, wspierane globalną wiedzą logistyczną i pełną widocznością przesyłek.",
+
+    "seaFreight": {
+      "title": "Transport morski",
+
+      "description": "Ekonomiczne rozwiązania Full Container Load (FCL) oraz Less than Container Load (LCL), łączące najważniejsze porty świata z niezawodnym harmonogramowaniem i widocznością ładunku."
+    },
+
+    "airFreight": {
+      "title": "Transport lotniczy",
+
+      "description": "Szybkie międzynarodowe usługi cargo lotniczego z priorytetową obsługą, koordynacją odpraw celnych i bezpiecznym transportem pilnych przesyłek na całym świecie."
+    },
+
+    "landTransport": {
+      "title": "Transport lądowy",
+
+      "description": "Niezawodny krajowy i międzynarodowy transport drogowy wspierany nowoczesnym zarządzaniem flotą, śledzeniem w czasie rzeczywistym oraz doświadczonymi specjalistami logistyki."
+    },
+
+    "warehousing": {
+      "title": "Magazynowanie",
+
+      "description": "Bezpieczne magazynowanie, zarządzanie zapasami, dystrybucja oraz usługi realizacji zamówień zaprojektowane w celu usprawnienia Twojego łańcucha dostaw."
+    }
+  },
+
+  "tracking": {
+    "title": "Śledź przesyłkę",
+
+    "placeholder": "Wprowadź numer przesyłki"
+  },
+
+  "stats": {
+    "title": "Globalna sieć logistyczna",
+
+    "ports": {
+      "value": "120+",
+
+      "label": "Połączone porty"
+    },
+
+    "countries": {
+      "value": "50+",
+
+      "label": "Obsługiwane kraje"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+
+      "label": "Monitorowanie przesyłek"
+    },
+
+    "reliability": {
+      "value": "99%",
+
+      "label": "Niezawodność dostaw"
+    }
+  },
+
+  "why": {
+    "tag": "DLACZEGO MY",
+
+    "title": "Zaufane globalne rozwiązania logistyczne",
+
+    "description": "SDC Shipping Freight zapewnia niezawodne międzynarodowe usługi transportowe i logistyczne dzięki doświadczeniu branżowemu, nowoczesnemu monitorowaniu przesyłek oraz zaangażowaniu w bezpieczne i terminowe dostawy dla firm i klientów indywidualnych na całym świecie.",
+
+    "network": {
+      "title": "Globalna sieć logistyczna",
+
+      "description": "Nasza globalna sieć logistyczna łączy główne porty, lotniska i centra transportowe, umożliwiając sprawny przepływ towarów na rynkach międzynarodowych."
+    },
+
+    "delivery": {
+      "title": "Niezawodne dostawy na czas",
+
+      "description": "Każda przesyłka jest dokładnie koordynowana, aby dotrzymywać terminów dostaw oraz zapewnić sprawne procesy i stałą komunikację podczas całego transportu."
+    },
+
+    "security": {
+      "title": "Bezpieczna obsługa ładunków",
+
+      "description": "Przestrzegamy rygorystycznych procedur obsługi ładunków oraz sprawdzonych standardów branżowych, aby chronić przesyłki od odbioru aż do końcowej dostawy."
+    },
+
+    "partnerships": {
+      "title": "Zaufane partnerstwa branżowe",
+
+      "description": "Współpracując z renomowanymi partnerami logistycznymi i globalnymi firmami transportowymi, oferujemy skalowalne rozwiązania wysyłkowe odpowiadające zmieniającym się potrzebom naszych klientów. Współpracujemy również z Cainiao Global w celu zwiększenia efektywności logistycznej."
+    }
+  },
+
+  "contact": {
+    "tag": "KONTAKT",
+
+    "title": "Przemieszczamy Twój ładunek z pełnym zaufaniem",
+
+    "description": "Niezależnie od tego, czy chodzi o międzynarodową wysyłkę, czy wsparcie logistyczne, nasz doświadczony zespół oferuje niezawodne rozwiązania dopasowane do Twoich potrzeb.",
+
+    "info": {
+      "title": "Skontaktuj się z nami",
+
+      "description": "Zapewniamy profesjonalne wsparcie logistyczne i szybką pomoc przy wszystkich zapytaniach dotyczących wysyłki.",
+
+      "viber": "Viber",
+
+      "support": "Całodobowa obsługa klienta 24/7",
+
+      "worldwide": "Obsługujemy klientów na całym świecie"
+    }
+  },
+
+  "donate": {
+    "title": "Wspieraj naszą sieć logistyczną",
+
+    "description": "Twoje wsparcie pomaga rozwijać globalną infrastrukturę transportową."
+  },
+
+  "gallery": {
+    "tag": "GLOBALNA WYSYŁKA",
+
+    "title": "Przemieszczamy ładunki przez wszystkie oceany",
+
+    "description": "Każda przesyłka reprezentuje nasze zaangażowanie w niezawodność, precyzję i najwyższej jakości rozwiązania logistyczne."
+  }
+}

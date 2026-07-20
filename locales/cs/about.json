@@ -1,0 +1,53 @@
+{
+  "title": "O společnosti SDC Shipping Freight",
+
+  "hero": {
+    "tag": "O NÁS",
+    "title": "Propojujeme globální obchod prostřednictvím spolehlivé logistiky",
+    "description": "SDC Shipping Freight poskytuje spolehlivá mezinárodní přepravní řešení prostřednictvím námořní přepravy, letecké přepravy, pozemní dopravy, skladování a profesionální správy nákladu."
+  },
+
+  "company": {
+    "title": "Kdo jsme",
+    "description": "SDC Shipping Freight je globální poskytovatel logistických služeb zaměřený na bezpečná, efektivní a transparentní přepravní řešení pro firmy i jednotlivce po celém světě."
+  },
+
+  "mission": {
+    "title": "Naše mise",
+    "description": "Naším posláním je zjednodušit globální přepravu kombinací moderních logistických technologií, důvěryhodných partnerství a výjimečného zákaznického servisu."
+  },
+
+  "vision": {
+    "title": "Naše vize",
+    "description": "Naší vizí je stát se důvěryhodným globálním logistickým partnerem známým pro spolehlivost, inovace a vynikající služby v mezinárodních dodavatelských řetězcích."
+  },
+
+  "values": {
+    "title": "Naše základní hodnoty",
+
+    "reliability": {
+      "title": "Spolehlivost",
+      "description": "Zaměřujeme se na konzistentní služby, přesné dodací termíny a spolehlivý provoz logistických procesů."
+    },
+
+    "security": {
+      "title": "Bezpečnost",
+      "description": "Chráníme každou zásilku prostřednictvím pečlivé manipulace, monitorování a osvědčených postupů v oboru."
+    },
+
+    "innovation": {
+      "title": "Inovace",
+      "description": "Využíváme moderní technologie a řešení pro sledování v reálném čase ke zvýšení efektivity globální přepravy."
+    },
+
+    "partnership": {
+      "title": "Partnerství",
+      "description": "Budujeme silné vztahy s klienty, dopravci a logistickými partnery po celém světě."
+    }
+  },
+
+  "global": {
+    "title": "Globální logistická síť",
+    "description": "Díky strategickým partnerstvím a celosvětovým přepravním sítím propojujeme firmy s mezinárodními trhy."
+  }
+}

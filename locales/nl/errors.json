@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Er is een onbekende fout opgetreden. Probeer het later opnieuw.",
+
+    "network": "Er is een netwerkfout opgetreden. Controleer uw internetverbinding en probeer het opnieuw.",
+
+    "server": "Er is een serverfout opgetreden. Probeer het later opnieuw."
+  },
+
+  "tracking": {
+    "empty": "Voer een trackingnummer in.",
+
+    "notFound": "Er is geen verzendinformatie gevonden voor dit trackingnummer.",
+
+    "failed": "De verzendinformatie kon niet worden opgehaald. Probeer het later opnieuw."
+  },
+
+  "form": {
+    "required": "Dit veld is verplicht.",
+
+    "invalidEmail": "Voer een geldig e-mailadres in.",
+
+    "submissionFailed": "Het formulier kon niet worden verzonden. Probeer het opnieuw."
+  },
+
+  "donateComingSoon": "De betaalfunctie is binnenkort beschikbaar."
+}

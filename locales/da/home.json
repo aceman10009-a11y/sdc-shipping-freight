@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "title": "Global transport.<br>Leveret med præcision.",
+
+    "description": "Sikre fragtløsninger via sø, luft og land med sporing af forsendelser i realtid."
+  },
+
+  "services": {
+    "tag": "VORES EKSPERTISE",
+
+    "title": "Integrerede globale logistikløsninger",
+
+    "description": "Vi leverer pålidelige fragt- og forsyningskædeløsninger gennem søfragt, luftfragt, vejtransport og lagerføring understøttet af global logistisk ekspertise og synlighed i realtid.",
+
+    "seaFreight": {
+      "title": "Søfragt",
+
+      "description": "Omkostningseffektive Full Container Load (FCL) og Less than Container Load (LCL) løsninger, der forbinder større havne verden over med pålidelig planlægning og synlighed for lasten."
+    },
+
+    "airFreight": {
+      "title": "Luftfragt",
+
+      "description": "Hurtige internationale luftfragtstjenester med prioriteret håndtering, toldkoordinering og sikker transport af hastende forsendelser verden over."
+    },
+
+    "landTransport": {
+      "title": "Landtransport",
+
+      "description": "Pålidelig national og grænseoverskridende vejtransport understøttet af moderne flådestyring, sporing i realtid og erfarne logistikprofessionelle."
+    },
+
+    "warehousing": {
+      "title": "Lagerføring",
+
+      "description": "Sikker lagerføring, lagerstyring, distribution og opfyldelsesløsninger designet til at optimere din forsyningskæde."
+    }
+  },
+
+  "tracking": {
+    "title": "Spor forsendelse",
+
+    "placeholder": "Indtast sporingsnummer"
+  },
+
+  "statistics": {
+    "title": "Globalt logistiknetværk",
+
+    "ports": "Forbundne havne",
+
+    "countries": "Betjente lande",
+
+    "monitoring": "Overvågning af forsendelser",
+
+    "reliability": "Leveringssikkerhed"
+  },
+
+  "stats": {
+    "title": "Globalt logistiknetværk",
+
+    "ports": {
+      "value": "120+",
+      "label": "Forbundne havne"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Betjente lande"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Overvågning af forsendelser"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Leveringssikkerhed"
+    }
+  },
+
+  "why": {
+    "tag": "HVORFOR VÆLGE OS",
+
+    "title": "Betroede globale logistikløsninger",
+
+    "description": "SDC Shipping Freight leverer pålidelige internationale fragt- og logistikydelser baseret på brancheekspertise, avanceret overvågning af forsendelser og en forpligtelse til sikker levering til tiden for virksomheder og privatpersoner verden over.",
+
+    "network": {
+      "title": "Globalt logistiknetværk",
+
+      "description": "Vores verdensomspændende logistiknetværk forbinder større havne, lufthavne og transportknudepunkter og sikrer effektiv godstransport på internationale markeder."
+    },
+
+    "delivery": {
+      "title": "Pålidelig levering til tiden",
+
+      "description": "Alle forsendelser koordineres omhyggeligt for at overholde leveringstider og samtidig sikre effektiv drift og løbende kommunikation gennem hele rejsen."
+    },
+
+    "security": {
+      "title": "Sikker og beskyttet lasthåndtering",
+
+      "description": "Vi følger strenge procedurer for lasthåndtering og branchens bedste praksis for at beskytte forsendelser fra afhentning til endelig levering."
+    },
+
+    "partnerships": {
+      "title": "Betroede industripartnerskaber",
+
+      "description": "Gennem samarbejde med respekterede logistikpartnere og globale transportører leverer vi skalerbare fragtløsninger, der opfylder vores kunders skiftende behov. Vi samarbejder også med Cainiao Global for forbedret logistisk effektivitet."
+    }
+  },
+
+  "contact": {
+    "tag": "KONTAKT OS",
+
+    "title": "Lad os flytte din last med sikkerhed",
+
+    "description": "Uanset om du sender internationalt eller har brug for logistisk support, står vores erfarne team klar til at levere pålidelige løsninger tilpasset dine krav.",
+
+    "infoTitle": "Kom i kontakt",
+
+    "infoDescription": "Vi er dedikerede til at levere professionel logistisk support og hurtig hjælp til alle forespørgsler om forsendelser."
+  },
+
+  "donate": {
+    "title": "Støt vores logistiknetværk",
+
+    "description": "Din støtte hjælper med at forbedre den globale shippinginfrastruktur."
+  },
+
+  "gallery": {
+    "tag": "GLOBAL SHIPPING",
+
+    "title": "Flytter gods over alle verdenshave",
+
+    "description": "Hver forsendelse afspejler vores engagement i pålidelighed, præcision og førsteklasses logistikløsninger."
+  }
+}

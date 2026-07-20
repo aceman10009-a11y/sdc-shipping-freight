@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Bilinmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+
+    "network": "Bir ağ hatası oluştu. Lütfen internet bağlantınızı kontrol edip tekrar deneyin.",
+
+    "server": "Bir sunucu hatası oluştu. Lütfen daha sonra tekrar deneyin."
+  },
+
+  "tracking": {
+    "empty": "Lütfen bir takip numarası girin.",
+
+    "notFound": "Bu takip numarası için gönderi bilgisi bulunamadı.",
+
+    "failed": "Gönderi bilgileri alınamadı. Lütfen daha sonra tekrar deneyin."
+  },
+
+  "form": {
+    "required": "Bu alanın doldurulması zorunludur.",
+
+    "invalidEmail": "Lütfen geçerli bir e-posta adresi girin.",
+
+    "submissionFailed": "Form gönderilemedi. Lütfen tekrar deneyin."
+  },
+
+  "donateComingSoon": "Ödeme özelliği yakında kullanıma sunulacaktır."
+}

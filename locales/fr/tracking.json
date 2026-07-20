@@ -1,0 +1,83 @@
+{
+  "title": "Suivi des expéditions",
+
+  "hero": {
+    "tag": "SUIVI DES EXPÉDITIONS",
+
+    "title": "Surveillez votre cargaison en temps réel",
+
+    "description": "Suivez le parcours de votre expédition grâce à une visibilité en temps réel, des informations d'arrivée estimées et des mises à jour logistiques détaillées."
+  },
+
+  "form": {
+    "placeholder": "Entrez votre numéro de suivi",
+
+    "button": "Suivre l'expédition"
+  },
+
+  "status": {
+    "searching": "Recherche des informations d'expédition...",
+
+    "found": "Expédition trouvée",
+
+    "notFound": "Aucune expédition trouvée avec ce numéro de suivi."
+  },
+
+  "details": {
+    "trackingId": "Numéro de suivi",
+
+    "status": "Statut de l'expédition",
+
+    "location": "Emplacement actuel",
+
+    "origin": "Origine",
+
+    "destination": "Destination",
+
+    "departure": "Date de départ",
+
+    "arrival": "Arrivée estimée",
+
+    "carrier": "Transporteur",
+
+    "vessel": "Informations sur le navire"
+  },
+
+  "shipmentStatus": {
+    "pending": "En attente",
+
+    "processing": "En traitement",
+
+    "inTransit": "En transit",
+
+    "arrived": "Arrivée",
+
+    "delivered": "Livrée",
+
+    "delayed": "Retardée"
+  },
+
+  "timeline": {
+    "title": "Parcours de l'expédition",
+
+    "created": "Expédition créée",
+
+    "pickedUp": "Marchandise récupérée",
+
+    "departed": "Départ du port d'origine",
+
+    "transit": "Transit international",
+
+    "destination": "Arrivée à destination",
+
+    "completed": "Livraison terminée"
+  },
+
+  "errors": {
+    "empty": "Veuillez entrer un numéro de suivi.",
+
+    "invalid": "Informations de suivi invalides.",
+
+    "system": "Impossible de récupérer les détails de l'expédition. Veuillez réessayer plus tard."
+  }
+}

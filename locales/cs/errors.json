@@ -1,0 +1,22 @@
+{
+  "general": {
+    "unknown": "Došlo k neočekávané chybě. Zkuste to prosím později.",
+    "network": "Nelze se připojit k serveru. Zkontrolujte prosím své internetové připojení a zkuste to znovu.",
+    "loading": "Načítání dat..."
+  },
+
+  "tracking": {
+    "empty": "Zadejte prosím číslo zásilky.",
+    "invalid": "Neplatné informace o sledování zásilky.",
+    "notFound": "Pro toto číslo zásilky nebyla nalezena žádná zásilka.",
+    "failed": "Nelze načíst informace o zásilce. Zkuste to prosím později."
+  },
+
+  "contact": {
+    "required": "Vyplňte prosím všechna povinná pole.",
+    "invalidEmail": "Zadejte prosím platnou e-mailovou adresu.",
+    "sendFailed": "Zprávu se nepodařilo odeslat. Zkuste to prosím později."
+  },
+
+  "donateComingSoon": "Platební a darovací služba bude brzy dostupná."
+}

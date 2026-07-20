@@ -1,0 +1,47 @@
+{
+  "title": "Unsere Dienstleistungen",
+
+  "tag": "LOGISTIKDIENSTLEISTUNGEN",
+
+  "hero": {
+    "title": "Globale Frachtlösungen, die auf Ihre Bedürfnisse zugeschnitten sind",
+
+    "description": "Von Seetransport über Luftfracht bis hin zum Lieferkettenmanagement bietet SDC Shipping Freight zuverlässige Logistiklösungen weltweit."
+  },
+
+  "seaFreight": {
+    "title": "Seefracht",
+
+    "description": "Zuverlässige Seefrachtlösungen einschließlich Full Container Load (FCL) und Less than Container Load (LCL), die globale Häfen miteinander verbinden."
+  },
+
+  "airFreight": {
+    "title": "Luftfracht",
+
+    "description": "Schneller und sicherer internationaler Lufttransport mit bevorzugter Abwicklung und Zollkoordination."
+  },
+
+  "landTransport": {
+    "title": "Landtransport",
+
+    "description": "Effizienter nationaler und grenzüberschreitender Transport unterstützt durch erfahrene Logistikexperten und moderne Tracking-Lösungen."
+  },
+
+  "warehousing": {
+    "title": "Lagerhaltung",
+
+    "description": "Sichere Lagerung, Bestandsverwaltung, Distribution und Fulfillment-Lösungen für effiziente Lieferketten."
+  },
+
+  "customs": {
+    "title": "Zollabwicklung",
+
+    "description": "Professionelle Koordination von Zollprozessen, damit Sendungen reibungslos durch internationale Vorschriften bewegt werden können."
+  },
+
+  "forwarding": {
+    "title": "Spedition",
+
+    "description": "Vollständige Koordination von Sendungen vom Ursprung bis zum Ziel durch zuverlässige globale Logistikpartnerschaften."
+  }
+}

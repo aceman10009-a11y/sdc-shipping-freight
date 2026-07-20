@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Envíos globales.<br>Entregados con precisión.",
+
+    "description": "Soluciones de transporte seguras por mar, aire y tierra con seguimiento de envíos en tiempo real."
+  },
+
+  "services": {
+    "tag": "NUESTRA EXPERIENCIA",
+
+    "title": "Soluciones logísticas globales integradas",
+
+    "description": "Ofrecemos soluciones confiables de transporte y cadena de suministro mediante servicios marítimos, aéreos, terrestres y de almacenamiento respaldados por experiencia logística global y visibilidad en tiempo real.",
+
+    "sea": {
+      "title": "Transporte marítimo",
+
+      "description": "Servicios rentables de carga completa (FCL) y carga parcial (LCL) que conectan importantes puertos internacionales con planificación confiable y visibilidad de la mercancía."
+    },
+
+    "air": {
+      "title": "Transporte aéreo",
+
+      "description": "Servicios internacionales de carga aérea rápida con manejo prioritario, coordinación aduanera y transporte seguro para envíos urgentes."
+    },
+
+    "land": {
+      "title": "Transporte terrestre",
+
+      "description": "Transporte nacional e internacional confiable mediante carretera, respaldado por gestión moderna de flotas, seguimiento en tiempo real y profesionales logísticos experimentados."
+    },
+
+    "warehouse": {
+      "title": "Almacenamiento",
+
+      "description": "Servicios seguros de almacenamiento, gestión de inventario, distribución y preparación de pedidos diseñados para optimizar su cadena de suministro."
+    }
+  },
+
+  "tracking": {
+    "title": "Seguimiento de envío",
+
+    "placeholder": "Introduzca el número de seguimiento"
+  },
+
+  "stats": {
+    "title": "Red logística global",
+
+    "ports": {
+      "value": "120+",
+      "label": "Puertos conectados"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Países atendidos"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Monitoreo de envíos"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Fiabilidad de entrega"
+    }
+  },
+
+  "why": {
+    "tag": "POR QUÉ ELEGIRNOS",
+
+    "title": "Soluciones logísticas globales de confianza",
+
+    "description": "SDC Shipping Freight ofrece servicios internacionales de transporte y logística respaldados por experiencia del sector, monitoreo avanzado de envíos y un compromiso con entregas seguras y puntuales para empresas y particulares en todo el mundo.",
+
+    "network": {
+      "title": "Red logística global",
+
+      "description": "Nuestra red logística mundial conecta puertos, aeropuertos y centros de transporte importantes, garantizando un movimiento eficiente de mercancías en mercados internacionales."
+    },
+
+    "delivery": {
+      "title": "Entrega puntual y confiable",
+
+      "description": "Cada envío se coordina cuidadosamente para cumplir los plazos de entrega manteniendo eficiencia operativa y comunicación constante durante todo el proceso."
+    },
+
+    "security": {
+      "title": "Gestión segura de mercancías",
+
+      "description": "Seguimos estrictos procedimientos de manejo de carga y mejores prácticas del sector para proteger los envíos desde la recogida hasta la entrega final."
+    },
+
+    "partnerships": {
+      "title": "Alianzas estratégicas confiables",
+
+      "description": "Mediante la colaboración con socios logísticos y transportistas globales ofrecemos soluciones escalables que satisfacen las necesidades cambiantes de nuestros clientes. También colaboramos con Cainiao Global para mejorar la eficiencia logística."
+    }
+  },
+
+  "contact": {
+    "tag": "CONTÁCTENOS",
+
+    "title": "Movemos su carga con confianza",
+
+    "description": "Ya sea que necesite transporte internacional o apoyo logístico, nuestro equipo experimentado está preparado para ofrecer soluciones confiables adaptadas a sus necesidades.",
+
+    "info": {
+      "title": "Póngase en contacto",
+
+      "description": "Estamos comprometidos a brindar soporte logístico profesional y asistencia rápida para todas sus consultas de envío.",
+
+      "viber": "Viber",
+
+      "support": "Atención al cliente 24/7",
+
+      "worldwide": "Atendemos clientes en todo el mundo"
+    }
+  },
+
+  "donate": {
+    "title": "Apoye nuestra red logística",
+
+    "description": "Su apoyo ayuda a mejorar la infraestructura global de transporte."
+  },
+
+  "gallery": {
+    "tag": "TRANSPORTE GLOBAL",
+
+    "title": "Moviendo mercancías por todos los océanos",
+
+    "description": "Cada envío refleja nuestro compromiso con la fiabilidad, precisión y soluciones logísticas de clase mundial."
+  }
+}

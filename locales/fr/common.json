@@ -1,0 +1,51 @@
+{
+  "language": {
+    "select": "Sélectionner la langue"
+  },
+
+  "loading": "Chargement...",
+
+  "actions": {
+    "learnMore": "En savoir plus",
+
+    "viewDetails": "Voir les détails",
+
+    "close": "Fermer",
+
+    "submit": "Envoyer",
+
+    "cancel": "Annuler"
+  },
+
+  "status": {
+    "active": "Actif",
+
+    "inactive": "Inactif",
+
+    "success": "Réussi",
+
+    "failed": "Échoué",
+
+    "pending": "En attente"
+  },
+
+  "navigation": {
+    "home": "Accueil",
+
+    "about": "À propos",
+
+    "services": "Services",
+
+    "contact": "Contact",
+
+    "tracking": "Suivi des expéditions"
+  },
+
+  "messages": {
+    "welcome": "Bienvenue chez SDC Shipping Freight",
+
+    "thankYou": "Merci pour votre demande.",
+
+    "tryAgain": "Veuillez réessayer plus tard."
+  }
+}

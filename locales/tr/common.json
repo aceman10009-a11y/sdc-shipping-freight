@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Dil Seçin"
+  },
+
+  "loading": "Yükleniyor...",
+
+  "buttons": {
+    "accept": "Kabul Et",
+
+    "decline": "Reddet",
+
+    "trackShipment": "Gönderiyi Takip Et",
+
+    "getQuote": "Teklif Al",
+
+    "track": "Takip Et",
+
+    "sendMessage": "Mesaj Gönder",
+
+    "donateNow": "Şimdi Bağış Yap"
+  },
+
+  "actions": {
+    "learnMore": "Daha Fazla Bilgi",
+
+    "viewDetails": "Detayları Görüntüle",
+
+    "close": "Kapat",
+
+    "submit": "Gönder",
+
+    "cancel": "İptal"
+  },
+
+  "status": {
+    "active": "Aktif",
+
+    "inactive": "Pasif",
+
+    "success": "Başarılı",
+
+    "failed": "Başarısız",
+
+    "pending": "Beklemede"
+  },
+
+  "navigation": {
+    "home": "Ana Sayfa",
+
+    "about": "Hakkımızda",
+
+    "services": "Hizmetler",
+
+    "contact": "İletişim",
+
+    "tracking": "Gönderi Takibi"
+  },
+
+  "messages": {
+    "welcome": "SDC Shipping Freight'e Hoş Geldiniz",
+
+    "thankYou": "Bizimle iletişime geçtiğiniz için teşekkür ederiz.",
+
+    "tryAgain": "Lütfen daha sonra tekrar deneyin."
+  }
+}

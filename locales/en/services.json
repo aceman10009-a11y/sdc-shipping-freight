@@ -1,0 +1,40 @@
+{
+  "title": "Our Services",
+
+  "tag": "LOGISTICS SERVICES",
+
+  "hero": {
+    "title": "Global Freight Solutions Built Around Your Needs",
+    "description": "From ocean transportation to air cargo and supply chain management, SDC Shipping Freight provides reliable logistics solutions worldwide."
+  },
+
+  "sea": {
+    "title": "Sea Freight",
+    "description": "Reliable ocean freight solutions including Full Container Load (FCL) and Less than Container Load (LCL) services connecting global ports."
+  },
+
+  "air": {
+    "title": "Air Freight",
+    "description": "Fast and secure international air cargo transportation with priority handling and customs coordination."
+  },
+
+  "land": {
+    "title": "Land Transport",
+    "description": "Efficient domestic and cross-border transportation supported by experienced logistics professionals and modern tracking solutions."
+  },
+
+  "warehouse": {
+    "title": "Warehousing",
+    "description": "Secure storage, inventory management, distribution, and fulfillment solutions designed for efficient supply chains."
+  },
+
+  "customs": {
+    "title": "Customs Clearance",
+    "description": "Professional customs coordination helping shipments move smoothly through international regulations."
+  },
+
+  "forwarding": {
+    "title": "Freight Forwarding",
+    "description": "Complete shipment coordination from origin to destination with reliable global logistics partnerships."
+  }
+}

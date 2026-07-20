@@ -1,0 +1,63 @@
+{
+  "title": "Sobre SDC Shipping Freight",
+
+  "hero": {
+    "tag": "SOBRE NOSOTROS",
+
+    "title": "Conectando el comercio global mediante una logística confiable",
+
+    "description": "SDC Shipping Freight proporciona soluciones de transporte internacional confiables mediante transporte marítimo, transporte aéreo, transporte terrestre, almacenamiento y gestión profesional de carga."
+  },
+
+  "company": {
+    "title": "Quiénes somos",
+
+    "description": "SDC Shipping Freight es un proveedor global de logística dedicado a ofrecer soluciones de transporte seguras, eficientes y transparentes para empresas y particulares en todo el mundo."
+  },
+
+  "mission": {
+    "title": "Nuestra misión",
+
+    "description": "Nuestra misión es simplificar el transporte global combinando tecnología logística moderna, asociaciones confiables y un servicio al cliente excepcional."
+  },
+
+  "vision": {
+    "title": "Nuestra visión",
+
+    "description": "Convertirnos en un socio logístico global de confianza reconocido por nuestra fiabilidad, innovación y excelencia en las cadenas de suministro internacionales."
+  },
+
+  "values": {
+    "title": "Nuestros valores fundamentales",
+
+    "reliability": {
+      "title": "Fiabilidad",
+
+      "description": "Nos enfocamos en ofrecer un servicio constante, entregas precisas y operaciones logísticas confiables."
+    },
+
+    "security": {
+      "title": "Seguridad",
+
+      "description": "Protegemos cada envío mediante una gestión cuidadosa, monitoreo continuo y las mejores prácticas de la industria."
+    },
+
+    "innovation": {
+      "title": "Innovación",
+
+      "description": "Utilizamos tecnología moderna y soluciones de visibilidad en tiempo real para mejorar la eficiencia del transporte global."
+    },
+
+    "partnership": {
+      "title": "Asociaciones",
+
+      "description": "Construimos relaciones sólidas con clientes, transportistas y socios logísticos alrededor del mundo."
+    }
+  },
+
+  "global": {
+    "title": "Red logística global",
+
+    "description": "A través de asociaciones estratégicas y redes de transporte internacionales, conectamos empresas con mercados globales."
+  }
+}

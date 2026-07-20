@@ -1,0 +1,47 @@
+{
+  "title": "Servicii",
+
+  "tag": "SERVICII LOGISTICE",
+
+  "hero": {
+    "title": "Soluții globale de transport adaptate nevoilor dumneavoastră",
+
+    "description": "De la transport maritim și aerian până la gestionarea lanțului de aprovizionare, SDC Shipping Freight oferă soluții logistice fiabile pentru clienți din întreaga lume."
+  },
+
+  "seaFreight": {
+    "title": "Transport maritim",
+
+    "description": "Oferim servicii fiabile de transport maritim, inclusiv Full Container Load (FCL) și Less than Container Load (LCL), conectând principalele porturi ale lumii prin soluții eficiente și sigure."
+  },
+
+  "airFreight": {
+    "title": "Transport aerian",
+
+    "description": "Servicii rapide și sigure de transport aerian internațional, cu manipulare prioritară și coordonarea formalităților vamale pentru expedierile urgente."
+  },
+
+  "landTransport": {
+    "title": "Transport rutier",
+
+    "description": "Servicii eficiente de transport rutier național și internațional, susținute de profesioniști experimentați în logistică și tehnologii moderne de monitorizare."
+  },
+
+  "warehousing": {
+    "title": "Depozitare",
+
+    "description": "Servicii sigure de depozitare, gestionare a stocurilor, distribuție și pregătire a comenzilor, concepute pentru a îmbunătăți eficiența lanțului dumneavoastră de aprovizionare."
+  },
+
+  "customs": {
+    "title": "Servicii vamale",
+
+    "description": "Servicii profesionale de vămuire care asigură conformitatea mărfurilor cu reglementările internaționale și trecerea eficientă a frontierelor."
+  },
+
+  "forwarding": {
+    "title": "Expediții de mărfuri",
+
+    "description": "Gestionare completă a transportului de la punctul de origine până la destinația finală prin intermediul unei rețele globale de parteneri logistici de încredere."
+  }
+}

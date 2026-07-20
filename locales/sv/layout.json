@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Tjänster",
+
+    "track": "Spåra",
+
+    "why": "Varför oss",
+
+    "contact": "Kontakt",
+
+    "donate": "Donera"
+  },
+
+  "buttons": {
+    "accept": "Acceptera",
+
+    "decline": "Avvisa",
+
+    "trackShipment": "Spåra försändelse",
+
+    "getQuote": "Begär offert",
+
+    "track": "Spåra",
+
+    "sendMessage": "Skicka meddelande",
+
+    "donateNow": "Donera nu"
+  },
+
+  "cookie": {
+    "title": "🍪 Cookie-meddelande",
+
+    "description": "SDC Shipping Freight använder nödvändiga cookies för att säkerställa att webbplatsen fungerar korrekt och för att förbättra din användarupplevelse. Genom att klicka på \"Acceptera\" samtycker du till vår användning av cookies."
+  },
+
+  "forms": {
+    "fullName": "Fullständigt namn",
+
+    "emailAddress": "E-postadress",
+
+    "trackingId": "Ange spårningsnummer",
+
+    "message": "Hur kan vi hjälpa dig idag?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight erbjuder säkra, tillförlitliga och effektiva logistiklösningar över hela världen. Vi är specialiserade på sjöfrakt, flygfrakt, lagerhållning, tullklarering, speditionsservice och komplett godshantering.",
+
+    "explore": "Utforska",
+
+    "services": "Tjänster",
+
+    "service1": "Sjöfrakt",
+
+    "service2": "Flygfrakt",
+
+    "service3": "Lagerhållning",
+
+    "service4": "Tullklarering",
+
+    "service5": "Speditionsservice",
+
+    "support": "Support",
+
+    "website": "Webbplats",
+
+    "emailSupport": "E-postsupport",
+
+    "viberSupport": "Viber-support",
+
+    "liveChat": "Livechatt",
+
+    "contact": "Kontakt",
+
+    "viberCustomerSupport": "💬 Kundsupport via Viber",
+
+    "liveSupport": "🟢 Live-support dygnet runt",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Alla rättigheter förbehållna."
+  }
+}

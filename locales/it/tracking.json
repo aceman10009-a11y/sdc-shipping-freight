@@ -1,0 +1,83 @@
+{
+  "title": "Tracciamento spedizione",
+
+  "hero": {
+    "tag": "TRACCIAMENTO SPEDIZIONI",
+
+    "title": "Monitora le tue merci in tempo reale",
+
+    "description": "Segui il viaggio della tua spedizione con visibilità in tempo reale, informazioni sull'arrivo stimato e aggiornamenti logistici dettagliati."
+  },
+
+  "form": {
+    "placeholder": "Inserisci ID spedizione",
+
+    "button": "Traccia spedizione"
+  },
+
+  "status": {
+    "searching": "Ricerca informazioni sulla spedizione...",
+
+    "found": "Spedizione trovata",
+
+    "notFound": "Nessuna spedizione trovata con questo ID di tracciamento."
+  },
+
+  "details": {
+    "trackingId": "ID spedizione",
+
+    "status": "Stato della spedizione",
+
+    "location": "Posizione attuale",
+
+    "origin": "Origine",
+
+    "destination": "Destinazione",
+
+    "departure": "Data di partenza",
+
+    "arrival": "Arrivo stimato",
+
+    "carrier": "Vettore",
+
+    "vessel": "Informazioni sulla nave"
+  },
+
+  "shipmentStatus": {
+    "pending": "In attesa",
+
+    "processing": "In elaborazione",
+
+    "inTransit": "In transito",
+
+    "arrived": "Arrivata",
+
+    "delivered": "Consegnata",
+
+    "delayed": "In ritardo"
+  },
+
+  "timeline": {
+    "title": "Percorso della spedizione",
+
+    "created": "Spedizione creata",
+
+    "pickedUp": "Merce ritirata",
+
+    "departed": "Partita dal porto di origine",
+
+    "transit": "Transito internazionale",
+
+    "destination": "Arrivata a destinazione",
+
+    "completed": "Consegna completata"
+  },
+
+  "errors": {
+    "empty": "Inserisci un ID di spedizione.",
+
+    "invalid": "Informazioni di tracciamento non valide.",
+
+    "system": "Impossibile recuperare i dettagli della spedizione. Riprova più tardi."
+  }
+}

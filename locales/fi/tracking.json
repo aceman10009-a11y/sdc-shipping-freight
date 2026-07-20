@@ -1,0 +1,83 @@
+{
+  "title": "Lähetyksen seuranta",
+
+  "hero": {
+    "tag": "LÄHETYSTEN SEURANTA",
+
+    "title": "Seuraa lastiasi reaaliajassa",
+
+    "description": "Seuraa lähetyksesi matkaa reaaliaikaisen näkyvyyden, arvioitujen saapumistietojen ja yksityiskohtaisten logistiikkapäivitysten avulla."
+  },
+
+  "form": {
+    "placeholder": "Syötä seurantanumero",
+
+    "button": "Seuraa lähetystä"
+  },
+
+  "status": {
+    "searching": "Haetaan lähetyksen tietoja...",
+
+    "found": "Lähetys löytyi",
+
+    "notFound": "Tällä seurantanumerolla ei löytynyt lähetystä."
+  },
+
+  "details": {
+    "trackingId": "Seurantanumero",
+
+    "status": "Lähetyksen tila",
+
+    "location": "Nykyinen sijainti",
+
+    "origin": "Lähtöpaikka",
+
+    "destination": "Määränpää",
+
+    "departure": "Lähtöpäivä",
+
+    "arrival": "Arvioitu saapuminen",
+
+    "carrier": "Kuljetusyhtiö",
+
+    "vessel": "Aluksen tiedot"
+  },
+
+  "shipmentStatus": {
+    "pending": "Odottaa",
+
+    "processing": "Käsitellään",
+
+    "inTransit": "Kuljetuksessa",
+
+    "arrived": "Saapunut",
+
+    "delivered": "Toimitettu",
+
+    "delayed": "Viivästynyt"
+  },
+
+  "timeline": {
+    "title": "Lähetyksen eteneminen",
+
+    "created": "Lähetys luotu",
+
+    "pickedUp": "Rahti noudettu",
+
+    "departed": "Lähtenyt lähtösatamasta",
+
+    "transit": "Kansainvälinen kuljetus",
+
+    "destination": "Saapunut määränpäähän",
+
+    "completed": "Toimitus valmis"
+  },
+
+  "errors": {
+    "empty": "Anna seurantanumero.",
+
+    "invalid": "Virheelliset seurantatiedot.",
+
+    "system": "Lähetyksen tietoja ei voitu hakea. Yritä myöhemmin uudelleen."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Spedizioni globali.<br>Consegnate con precisione.",
+
+    "description": "Soluzioni di trasporto sicure via mare, aria e terra con monitoraggio delle spedizioni in tempo reale."
+  },
+
+  "services": {
+    "tag": "LA NOSTRA ESPERIENZA",
+
+    "title": "Soluzioni logistiche globali integrate",
+
+    "description": "Offriamo soluzioni affidabili per il trasporto merci e la gestione della catena di approvvigionamento attraverso servizi marittimi, aerei, terrestri e di magazzinaggio, supportati da competenze logistiche globali e visibilità in tempo reale.",
+
+    "sea": {
+      "title": "Trasporto marittimo",
+
+      "description": "Servizi di trasporto marittimo Full Container Load (FCL) e Less than Container Load (LCL) che collegano i principali porti mondiali con pianificazione affidabile e visibilità delle merci."
+    },
+
+    "air": {
+      "title": "Trasporto aereo",
+
+      "description": "Servizi internazionali di trasporto aereo rapido con gestione prioritaria, coordinamento doganale e trasporto sicuro per spedizioni urgenti."
+    },
+
+    "land": {
+      "title": "Trasporto terrestre",
+
+      "description": "Trasporto stradale nazionale e internazionale affidabile supportato da moderna gestione della flotta, monitoraggio in tempo reale e professionisti logistici esperti."
+    },
+
+    "warehouse": {
+      "title": "Magazzinaggio",
+
+      "description": "Soluzioni sicure di stoccaggio, gestione inventario, distribuzione e fulfillment progettate per ottimizzare la catena di approvvigionamento."
+    }
+  },
+
+  "tracking": {
+    "title": "Monitora spedizione",
+
+    "placeholder": "Inserisci ID spedizione"
+  },
+
+  "stats": {
+    "title": "Rete logistica globale",
+
+    "ports": {
+      "value": "120+",
+      "label": "Porti collegati"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Paesi serviti"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Monitoraggio spedizioni"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Affidabilità delle consegne"
+    }
+  },
+
+  "why": {
+    "tag": "PERCHÉ SCEGLIERCI",
+
+    "title": "Soluzioni logistiche globali affidabili",
+
+    "description": "SDC Shipping Freight offre servizi internazionali di trasporto e logistica affidabili grazie alla competenza del settore, al monitoraggio avanzato delle spedizioni e all'impegno per consegne sicure e puntuali per aziende e privati in tutto il mondo.",
+
+    "network": {
+      "title": "Rete logistica globale",
+
+      "description": "La nostra rete logistica mondiale collega porti, aeroporti e centri di trasporto principali, garantendo un movimento efficiente delle merci nei mercati internazionali."
+    },
+
+    "delivery": {
+      "title": "Consegne puntuali e affidabili",
+
+      "description": "Ogni spedizione viene coordinata con attenzione per rispettare le tempistiche mantenendo efficienza operativa e comunicazione costante durante tutto il viaggio."
+    },
+
+    "security": {
+      "title": "Gestione sicura delle merci",
+
+      "description": "Seguiamo procedure rigorose di movimentazione delle merci e le migliori pratiche del settore per proteggere ogni spedizione dal ritiro alla consegna finale."
+    },
+
+    "partnerships": {
+      "title": "Partnership industriali affidabili",
+
+      "description": "Collaborando con partner logistici e vettori globali riconosciuti, offriamo soluzioni di spedizione scalabili che soddisfano le esigenze in continua evoluzione dei nostri clienti. Collaboriamo inoltre con Cainiao Global per migliorare l'efficienza logistica."
+    }
+  },
+
+  "contact": {
+    "tag": "CONTATTACI",
+
+    "title": "Trasportiamo le tue merci con fiducia",
+
+    "description": "Che tu debba spedire a livello internazionale o necessiti di supporto logistico, il nostro team esperto è pronto a fornire soluzioni affidabili personalizzate.",
+
+    "info": {
+      "title": "Mettiti in contatto",
+
+      "description": "Siamo impegnati a fornire supporto logistico professionale e assistenza rapida per tutte le richieste di spedizione.",
+
+      "viber": "Viber",
+
+      "support": "Assistenza clienti 24/7",
+
+      "worldwide": "Serviamo clienti in tutto il mondo"
+    }
+  },
+
+  "donate": {
+    "title": "Supporta la nostra rete logistica",
+
+    "description": "Il tuo supporto aiuta a migliorare l'infrastruttura globale delle spedizioni."
+  },
+
+  "gallery": {
+    "tag": "SPEDIZIONI GLOBALI",
+
+    "title": "Trasportiamo merci attraverso ogni oceano",
+
+    "description": "Ogni spedizione rappresenta il nostro impegno per affidabilità, precisione e soluzioni logistiche di livello mondiale."
+  }
+}

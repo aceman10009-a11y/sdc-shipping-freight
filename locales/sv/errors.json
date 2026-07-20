@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Ett okänt fel inträffade. Försök igen senare.",
+
+    "network": "Ett nätverksfel uppstod. Kontrollera din internetanslutning och försök igen.",
+
+    "server": "Ett serverfel uppstod. Försök igen senare."
+  },
+
+  "tracking": {
+    "empty": "Ange ett spårningsnummer.",
+
+    "notFound": "Ingen försändelseinformation hittades för detta spårningsnummer.",
+
+    "failed": "Det gick inte att hämta information om försändelsen. Försök igen senare."
+  },
+
+  "form": {
+    "required": "Detta fält är obligatoriskt.",
+
+    "invalidEmail": "Ange en giltig e-postadress.",
+
+    "submissionFailed": "Formuläret kunde inte skickas. Försök igen."
+  },
+
+  "donateComingSoon": "Betalfunktionen kommer snart att vara tillgänglig."
+}

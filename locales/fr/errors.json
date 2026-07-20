@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Une erreur inconnue s'est produite. Veuillez réessayer plus tard.",
+
+    "network": "Erreur réseau. Vérifiez votre connexion Internet et réessayez.",
+
+    "server": "Erreur du serveur. Veuillez réessayer plus tard."
+  },
+
+  "tracking": {
+    "empty": "Veuillez saisir un numéro de suivi.",
+
+    "notFound": "Aucune expédition trouvée avec ce numéro de suivi.",
+
+    "failed": "Impossible de récupérer les informations de l'expédition. Veuillez réessayer plus tard."
+  },
+
+  "form": {
+    "required": "Ce champ est obligatoire.",
+
+    "invalidEmail": "Veuillez saisir une adresse e-mail valide.",
+
+    "submissionFailed": "Impossible d'envoyer le formulaire. Veuillez réessayer."
+  },
+
+  "donateComingSoon": "L'intégration des paiements sera disponible prochainement."
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Kontakt os",
+
+  "hero": {
+    "tag": "KONTAKT OS",
+
+    "title": "Lad os flytte din last med sikkerhed",
+
+    "description": "Uanset om du sender internationalt eller har brug for logistisk support, står vores erfarne team klar til at levere pålidelige løsninger tilpasset dine behov."
+  },
+
+  "information": {
+    "title": "Kom i kontakt",
+
+    "description": "Vi er dedikerede til at levere professionel logistisk support og hurtig hjælp til alle forespørgsler om forsendelser.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "Kundesupport 24/7",
+
+    "worldwide": "Betjener kunder over hele verden"
+  },
+
+  "form": {
+    "name": "Fulde navn",
+
+    "email": "E-mailadresse",
+
+    "message": "Hvordan kan vi hjælpe dig i dag?",
+
+    "button": "Send besked"
+  },
+
+  "success": {
+    "message": "Din besked er sendt. Vores team kontakter dig snarest."
+  },
+
+  "errors": {
+    "required": "Udfyld venligst alle obligatoriske felter.",
+
+    "email": "Indtast venligst en gyldig e-mailadresse.",
+
+    "failed": "Kunne ikke sende din besked. Prøv venligst igen senere."
+  }
+}

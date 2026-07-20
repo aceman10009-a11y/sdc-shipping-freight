@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Wybierz język"
+  },
+
+  "loading": "Ładowanie...",
+
+  "buttons": {
+    "accept": "Akceptuj",
+
+    "decline": "Odrzuć",
+
+    "trackShipment": "Śledź przesyłkę",
+
+    "getQuote": "Poproś o wycenę",
+
+    "track": "Śledź",
+
+    "sendMessage": "Wyślij wiadomość",
+
+    "donateNow": "Przekaż darowiznę"
+  },
+
+  "actions": {
+    "learnMore": "Dowiedz się więcej",
+
+    "viewDetails": "Zobacz szczegóły",
+
+    "close": "Zamknij",
+
+    "submit": "Wyślij",
+
+    "cancel": "Anuluj"
+  },
+
+  "status": {
+    "active": "Aktywny",
+
+    "inactive": "Nieaktywny",
+
+    "success": "Sukces",
+
+    "failed": "Niepowodzenie",
+
+    "pending": "Oczekuje"
+  },
+
+  "navigation": {
+    "home": "Strona główna",
+
+    "about": "O nas",
+
+    "services": "Usługi",
+
+    "contact": "Kontakt",
+
+    "tracking": "Śledzenie przesyłki"
+  },
+
+  "messages": {
+    "welcome": "Witamy w SDC Shipping Freight",
+
+    "thankYou": "Dziękujemy za kontakt.",
+
+    "tryAgain": "Spróbuj ponownie później."
+  }
+}

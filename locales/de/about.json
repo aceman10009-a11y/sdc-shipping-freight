@@ -1,0 +1,63 @@
+{
+  "title": "Über SDC Shipping Freight",
+
+  "hero": {
+    "tag": "ÜBER UNS",
+
+    "title": "Wir verbinden den globalen Handel durch zuverlässige Logistik",
+
+    "description": "SDC Shipping Freight bietet zuverlässige internationale Transportlösungen durch Seefracht, Luftfracht, Landtransport, Lagerhaltung und professionelles Frachtmanagement."
+  },
+
+  "company": {
+    "title": "Wer wir sind",
+
+    "description": "SDC Shipping Freight ist ein globaler Logistikanbieter, der sichere, effiziente und transparente Transportlösungen für Unternehmen und Privatpersonen weltweit bereitstellt."
+  },
+
+  "mission": {
+    "title": "Unsere Mission",
+
+    "description": "Unsere Mission ist es, den globalen Versand durch die Kombination moderner Logistiktechnologie, vertrauensvoller Partnerschaften und exzellentem Kundenservice zu vereinfachen."
+  },
+
+  "vision": {
+    "title": "Unsere Vision",
+
+    "description": "Wir möchten ein vertrauenswürdiger globaler Logistikpartner werden, der für Zuverlässigkeit, Innovation und hervorragende Leistungen in internationalen Lieferketten bekannt ist."
+  },
+
+  "values": {
+    "title": "Unsere Kernwerte",
+
+    "reliability": {
+      "title": "Zuverlässigkeit",
+
+      "description": "Wir konzentrieren uns auf gleichbleibenden Service, genaue Lieferzeiten und zuverlässige Logistikabläufe."
+    },
+
+    "security": {
+      "title": "Sicherheit",
+
+      "description": "Wir schützen jede Sendung durch sorgfältige Handhabung, Überwachung und bewährte Verfahren der Branche."
+    },
+
+    "innovation": {
+      "title": "Innovation",
+
+      "description": "Wir nutzen moderne Technologie und Echtzeit-Transparenzlösungen, um die Effizienz globaler Transporte zu verbessern."
+    },
+
+    "partnership": {
+      "title": "Partnerschaft",
+
+      "description": "Wir bauen starke Beziehungen zu Kunden, Transportdienstleistern und Logistikpartnern auf der ganzen Welt auf."
+    }
+  },
+
+  "global": {
+    "title": "Globales Logistiknetzwerk",
+
+    "description": "Durch strategische Partnerschaften und weltweite Transportnetzwerke verbinden wir Unternehmen mit internationalen Märkten."
+  }
+}

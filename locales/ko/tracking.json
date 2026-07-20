@@ -1,0 +1,83 @@
+{
+  "title": "배송 추적",
+
+  "hero": {
+    "tag": "배송 추적",
+
+    "title": "화물을 실시간으로 확인하세요",
+
+    "description": "실시간 가시성, 예상 도착 정보 및 상세한 물류 업데이트를 통해 배송 여정을 추적할 수 있습니다."
+  },
+
+  "form": {
+    "placeholder": "배송 추적 번호 입력",
+
+    "button": "배송 추적"
+  },
+
+  "status": {
+    "searching": "배송 정보를 검색하는 중입니다...",
+
+    "found": "배송 정보를 찾았습니다",
+
+    "notFound": "입력한 추적 번호에 해당하는 배송 정보를 찾을 수 없습니다."
+  },
+
+  "details": {
+    "trackingId": "추적 번호",
+
+    "status": "배송 상태",
+
+    "location": "현재 위치",
+
+    "origin": "출발지",
+
+    "destination": "목적지",
+
+    "departure": "출발 날짜",
+
+    "arrival": "예상 도착",
+
+    "carrier": "운송 업체",
+
+    "vessel": "선박 정보"
+  },
+
+  "shipmentStatus": {
+    "pending": "대기 중",
+
+    "processing": "처리 중",
+
+    "inTransit": "운송 중",
+
+    "arrived": "도착",
+
+    "delivered": "배송 완료",
+
+    "delayed": "지연"
+  },
+
+  "timeline": {
+    "title": "배송 진행 과정",
+
+    "created": "배송 생성",
+
+    "pickedUp": "화물 수거 완료",
+
+    "departed": "출발 항구 출발",
+
+    "transit": "국제 운송 중",
+
+    "destination": "목적지 도착",
+
+    "completed": "배송 완료"
+  },
+
+  "errors": {
+    "empty": "추적 번호를 입력해 주세요.",
+
+    "invalid": "유효하지 않은 추적 정보입니다.",
+
+    "system": "배송 정보를 불러올 수 없습니다. 잠시 후 다시 시도해 주세요."
+  }
+}

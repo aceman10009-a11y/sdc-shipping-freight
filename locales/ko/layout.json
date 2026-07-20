@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "서비스",
+
+    "track": "배송 추적",
+
+    "why": "선택하는 이유",
+
+    "contact": "문의하기",
+
+    "donate": "기부"
+  },
+
+  "buttons": {
+    "accept": "동의",
+
+    "decline": "거부",
+
+    "trackShipment": "배송 추적",
+
+    "getQuote": "견적 요청",
+
+    "track": "추적",
+
+    "sendMessage": "메시지 보내기",
+
+    "donateNow": "지금 기부하기"
+  },
+
+  "cookie": {
+    "title": "🍪 쿠키 알림",
+
+    "description": "SDC Shipping Freight는 웹사이트의 정상적인 작동과 더 나은 사용자 경험을 제공하기 위해 필수 쿠키를 사용합니다. '동의'를 클릭하면 쿠키 사용에 동의하는 것으로 간주됩니다."
+  },
+
+  "forms": {
+    "fullName": "성명",
+
+    "emailAddress": "이메일 주소",
+
+    "trackingId": "배송 번호 입력",
+
+    "message": "어떻게 도와드릴까요?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight는 전 세계 고객에게 안전하고 신뢰할 수 있으며 효율적인 물류 솔루션을 제공합니다. 해상 운송, 항공 운송, 창고 관리, 통관, 화물 운송 및 종합적인 화물 관리 서비스를 전문으로 합니다.",
+
+    "explore": "둘러보기",
+
+    "services": "서비스",
+
+    "service1": "해상 운송",
+
+    "service2": "항공 운송",
+
+    "service3": "창고 관리",
+
+    "service4": "통관",
+
+    "service5": "화물 운송",
+
+    "support": "지원",
+
+    "website": "웹사이트",
+
+    "emailSupport": "이메일 지원",
+
+    "viberSupport": "Viber 지원",
+
+    "liveChat": "실시간 채팅 지원",
+
+    "contact": "문의",
+
+    "viberCustomerSupport": "💬 Viber 고객 지원",
+
+    "liveSupport": "🟢 24/7 실시간 지원",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. 모든 권리 보유."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Pilih bahasa"
+  },
+
+  "loading": "Memuatkan...",
+
+  "buttons": {
+    "accept": "Terima",
+
+    "decline": "Tolak",
+
+    "trackShipment": "Jejak penghantaran",
+
+    "getQuote": "Dapatkan sebut harga",
+
+    "track": "Jejak",
+
+    "sendMessage": "Hantar mesej",
+
+    "donateNow": "Derma sekarang"
+  },
+
+  "actions": {
+    "learnMore": "Ketahui lebih lanjut",
+
+    "viewDetails": "Lihat butiran",
+
+    "close": "Tutup",
+
+    "submit": "Hantar",
+
+    "cancel": "Batal"
+  },
+
+  "status": {
+    "active": "Aktif",
+
+    "inactive": "Tidak aktif",
+
+    "success": "Berjaya",
+
+    "failed": "Gagal",
+
+    "pending": "Menunggu"
+  },
+
+  "navigation": {
+    "home": "Laman utama",
+
+    "about": "Tentang kami",
+
+    "services": "Perkhidmatan",
+
+    "contact": "Hubungi kami",
+
+    "tracking": "Jejak penghantaran"
+  },
+
+  "messages": {
+    "welcome": "Selamat datang ke SDC Shipping Freight",
+
+    "thankYou": "Terima kasih atas pertanyaan anda.",
+
+    "tryAgain": "Sila cuba lagi kemudian."
+  }
+}

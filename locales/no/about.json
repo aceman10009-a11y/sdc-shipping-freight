@@ -1,0 +1,63 @@
+{
+  "title": "Om SDC Shipping Freight",
+
+  "hero": {
+    "tag": "OM OSS",
+
+    "title": "Kobler global handel med pålitelig logistikk",
+
+    "description": "SDC Shipping Freight tilbyr pålitelige internasjonale logistikkløsninger gjennom sjøfrakt, luftfrakt, landtransport, lager og profesjonell godshåndtering."
+  },
+
+  "company": {
+    "title": "Om oss",
+
+    "description": "SDC Shipping Freight er en global logistikkleverandør som tilbyr sikre, effektive og transparente transportløsninger til bedrifter og privatkunder over hele verden."
+  },
+
+  "mission": {
+    "title": "Vårt oppdrag",
+
+    "description": "Vårt oppdrag er å forenkle global transport ved å kombinere moderne logistikkteknologi, pålitelige partnerskap og fremragende kundeservice."
+  },
+
+  "vision": {
+    "title": "Vår visjon",
+
+    "description": "Vi ønsker å bli en betrodd global logistikkpartner kjent for pålitelighet, innovasjon og fremragende løsninger innen internasjonale forsyningskjeder."
+  },
+
+  "values": {
+    "title": "Våre kjerneverdier",
+
+    "reliability": {
+      "title": "Pålitelighet",
+
+      "description": "Vi leverer konsekvent service, presise leveringstider og pålitelige logistikkprosesser for å møte kundenes forventninger."
+    },
+
+    "security": {
+      "title": "Sikkerhet",
+
+      "description": "Vi beskytter alle forsendelser gjennom grundig håndtering, kontinuerlig overvåking og bruk av beste praksis i bransjen."
+    },
+
+    "innovation": {
+      "title": "Innovasjon",
+
+      "description": "Vi bruker moderne teknologi og løsninger for sanntidssynlighet for å forbedre effektiviteten i global logistikk."
+    },
+
+    "partnership": {
+      "title": "Partnerskap",
+
+      "description": "Vi bygger sterke og langsiktige relasjoner med kunder, transportører og logistikkpartnere over hele verden."
+    }
+  },
+
+  "global": {
+    "title": "Globalt logistikknettverk",
+
+    "description": "Gjennom strategiske partnerskap og internasjonale transportnettverk hjelper vi bedrifter med å koble seg til globale markeder og bygge effektive forsyningskjeder."
+  }
+}

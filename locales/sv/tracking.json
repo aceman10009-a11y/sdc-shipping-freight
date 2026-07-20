@@ -1,0 +1,83 @@
+{
+  "title": "Spåra försändelse",
+
+  "hero": {
+    "tag": "SPÅRA FÖRSÄNDELSE",
+
+    "title": "Följ ditt gods i realtid",
+
+    "description": "Övervaka din försändelses resa med spårning i realtid, beräknad ankomsttid och detaljerade logistikuppdateringar."
+  },
+
+  "form": {
+    "placeholder": "Ange spårningsnummer",
+
+    "button": "Spåra försändelse"
+  },
+
+  "status": {
+    "searching": "Söker efter försändelseinformation...",
+
+    "found": "Försändelseinformation hittades",
+
+    "notFound": "Ingen information hittades för detta spårningsnummer."
+  },
+
+  "details": {
+    "trackingId": "Spårningsnummer",
+
+    "status": "Försändelsestatus",
+
+    "location": "Nuvarande plats",
+
+    "origin": "Ursprung",
+
+    "destination": "Destination",
+
+    "departure": "Avresedatum",
+
+    "arrival": "Beräknad ankomst",
+
+    "carrier": "Transportör",
+
+    "vessel": "Fartygsinformation"
+  },
+
+  "shipmentStatus": {
+    "pending": "Väntar",
+
+    "processing": "Bearbetas",
+
+    "inTransit": "Under transport",
+
+    "arrived": "Anlänt",
+
+    "delivered": "Levererat",
+
+    "delayed": "Försenat"
+  },
+
+  "timeline": {
+    "title": "Försändelsens förlopp",
+
+    "created": "Försändelsen skapades",
+
+    "pickedUp": "Godset hämtades",
+
+    "departed": "Avgick från ursprungshamnen",
+
+    "transit": "Internationell transport",
+
+    "destination": "Anlände till destinationen",
+
+    "completed": "Försändelsen slutförd"
+  },
+
+  "errors": {
+    "empty": "Ange ett spårningsnummer.",
+
+    "invalid": "Ogiltig spårningsinformation.",
+
+    "system": "Det gick inte att läsa in försändelseinformationen. Försök igen senare."
+  }
+}

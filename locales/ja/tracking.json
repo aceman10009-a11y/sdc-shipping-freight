@@ -1,0 +1,83 @@
+{
+  "title": "配送追跡",
+
+  "hero": {
+    "tag": "配送追跡",
+
+    "title": "貨物をリアルタイムで監視",
+
+    "description": "リアルタイムの可視化、到着予定情報、詳細な物流更新により、お客様の貨物の輸送状況を追跡できます。"
+  },
+
+  "form": {
+    "placeholder": "追跡番号を入力",
+
+    "button": "配送を追跡"
+  },
+
+  "status": {
+    "searching": "配送情報を検索しています...",
+
+    "found": "配送情報が見つかりました",
+
+    "notFound": "この追跡番号の配送情報は見つかりませんでした。"
+  },
+
+  "details": {
+    "trackingId": "追跡番号",
+
+    "status": "配送状況",
+
+    "location": "現在地",
+
+    "origin": "出発地",
+
+    "destination": "配送先",
+
+    "departure": "出発日",
+
+    "arrival": "到着予定日",
+
+    "carrier": "輸送会社",
+
+    "vessel": "船舶情報"
+  },
+
+  "shipmentStatus": {
+    "pending": "保留中",
+
+    "processing": "処理中",
+
+    "inTransit": "輸送中",
+
+    "arrived": "到着済み",
+
+    "delivered": "配達完了",
+
+    "delayed": "遅延"
+  },
+
+  "timeline": {
+    "title": "配送の進行状況",
+
+    "created": "配送登録完了",
+
+    "pickedUp": "貨物集荷完了",
+
+    "departed": "出発港を出発",
+
+    "transit": "国際輸送中",
+
+    "destination": "目的地へ到着",
+
+    "completed": "配送完了"
+  },
+
+  "errors": {
+    "empty": "追跡番号を入力してください。",
+
+    "invalid": "無効な追跡情報です。",
+
+    "system": "配送詳細を取得できませんでした。後でもう一度お試しください。"
+  }
+}

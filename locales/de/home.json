@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "title": "Globaler Versand.<br>Mit Präzision geliefert.",
+    "description": "Sichere Transportlösungen auf See, in der Luft und an Land mit Echtzeit-Sendungsverfolgung."
+  },
+
+  "services": {
+    "tag": "UNSERE KOMPETENZ",
+
+    "title": "Integrierte globale Logistiklösungen",
+
+    "description": "Wir bieten zuverlässige Fracht- und Lieferkettenlösungen durch See-, Luft- und Landtransport sowie Lagerhaltung, unterstützt durch globale Logistikexpertise und Echtzeit-Transparenz.",
+
+    "sea": {
+      "title": "Seefracht",
+      "description": "Kosteneffiziente Full Container Load (FCL)- und Less than Container Load (LCL)-Transporte, die wichtige Häfen weltweit verbinden und zuverlässige Planung sowie Frachtsichtbarkeit gewährleisten."
+    },
+
+    "air": {
+      "title": "Luftfracht",
+      "description": "Schnelle internationale Luftfrachtservices mit bevorzugter Abwicklung, Zollkoordination und sicherem Transport für dringende Sendungen weltweit."
+    },
+
+    "land": {
+      "title": "Landtransport",
+      "description": "Zuverlässiger nationaler und grenzüberschreitender Straßentransport mit moderner Flottenverwaltung, Echtzeit-Tracking und erfahrenen Logistikfachkräften."
+    },
+
+    "warehouse": {
+      "title": "Lagerhaltung",
+      "description": "Sichere Lagerung, Bestandsverwaltung, Distribution und Fulfillment-Lösungen zur Optimierung Ihrer Lieferkette."
+    }
+  },
+
+  "tracking": {
+    "title": "Sendung verfolgen",
+    "placeholder": "Sendungsnummer eingeben"
+  },
+
+  "statistics": {
+    "title": "Globales Logistiknetzwerk",
+    "ports": "Verbundene Häfen",
+    "countries": "Bediente Länder",
+    "monitoring": "Sendungsüberwachung",
+    "reliability": "Zuverlässigkeit der Lieferung"
+  },
+
+  "stats": {
+    "title": "Globales Logistiknetzwerk",
+
+    "ports": {
+      "value": "120+",
+      "label": "Verbundene Häfen"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Bediente Länder"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Sendungsüberwachung"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Zuverlässigkeit der Lieferung"
+    }
+  },
+
+  "why": {
+    "tag": "WARUM UNS WÄHLEN",
+
+    "title": "Vertrauenswürdige globale Logistiklösungen",
+
+    "description": "SDC Shipping Freight bietet zuverlässige internationale Fracht- und Logistikdienstleistungen mit Branchenkenntnis, moderner Sendungsüberwachung und dem Anspruch, sichere und pünktliche Lieferungen für Unternehmen und Privatkunden weltweit zu gewährleisten.",
+
+    "network": {
+      "title": "Globales Logistiknetzwerk",
+      "description": "Unser weltweites Logistiknetzwerk verbindet wichtige Häfen, Flughäfen und Verkehrsknotenpunkte und ermöglicht effiziente Warenbewegungen auf internationalen Märkten."
+    },
+
+    "delivery": {
+      "title": "Zuverlässige pünktliche Lieferung",
+      "description": "Jede Sendung wird sorgfältig koordiniert, um Lieferzeiten einzuhalten und gleichzeitig effiziente Abläufe sowie kontinuierliche Kommunikation während des gesamten Transports sicherzustellen."
+    },
+
+    "security": {
+      "title": "Sichere Frachtabwicklung",
+      "description": "Wir befolgen strenge Verfahren für die Frachtabwicklung und bewährte Branchenstandards, um Sendungen von der Abholung bis zur endgültigen Lieferung zu schützen."
+    },
+
+    "partnerships": {
+      "title": "Vertrauensvolle Branchenpartnerschaften",
+      "description": "Durch die Zusammenarbeit mit angesehenen Logistikpartnern und globalen Transportunternehmen bieten wir skalierbare Versandlösungen, die den sich entwickelnden Anforderungen unserer Kunden entsprechen. Außerdem arbeiten wir mit Cainiao Global zusammen, um die Logistikeffizienz zu verbessern."
+    }
+  },
+
+  "contact": {
+    "tag": "KONTAKT",
+
+    "title": "Wir bewegen Ihre Fracht mit Vertrauen",
+
+    "description": "Ob internationaler Versand oder Logistikunterstützung – unser erfahrenes Team bietet zuverlässige Lösungen, die auf Ihre Anforderungen zugeschnitten sind.",
+
+    "info": {
+      "title": "Kontakt aufnehmen",
+
+      "description": "Wir bieten professionelle Logistikunterstützung und schnelle Hilfe bei allen Versandanfragen.",
+
+      "viber": "Viber",
+
+      "support": "24/7 Kundensupport",
+
+      "worldwide": "Wir bedienen Kunden weltweit"
+    }
+  },
+
+  "donate": {
+    "title": "Unterstützen Sie unser Logistiknetzwerk",
+
+    "description": "Ihre Unterstützung hilft dabei, die globale Versandinfrastruktur zu verbessern."
+  },
+
+  "gallery": {
+    "tag": "GLOBALER VERSAND",
+
+    "title": "Wir bewegen Fracht über alle Ozeane",
+
+    "description": "Jede Sendung steht für unser Engagement für Zuverlässigkeit, Präzision und erstklassige Logistiklösungen."
+  }
+}

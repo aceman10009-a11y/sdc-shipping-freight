@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Selectează limba"
+  },
+
+  "loading": "Se încarcă...",
+
+  "buttons": {
+    "accept": "Acceptă",
+
+    "decline": "Refuză",
+
+    "trackShipment": "Urmărește expedierea",
+
+    "getQuote": "Solicită o ofertă",
+
+    "track": "Urmărește",
+
+    "sendMessage": "Trimite mesajul",
+
+    "donateNow": "Donează acum"
+  },
+
+  "actions": {
+    "learnMore": "Află mai multe",
+
+    "viewDetails": "Vezi detalii",
+
+    "close": "Închide",
+
+    "submit": "Trimite",
+
+    "cancel": "Anulează"
+  },
+
+  "status": {
+    "active": "Activ",
+
+    "inactive": "Inactiv",
+
+    "success": "Succes",
+
+    "failed": "Eșuat",
+
+    "pending": "În așteptare"
+  },
+
+  "navigation": {
+    "home": "Acasă",
+
+    "about": "Despre noi",
+
+    "services": "Servicii",
+
+    "contact": "Contact",
+
+    "tracking": "Urmărirea expedierii"
+  },
+
+  "messages": {
+    "welcome": "Bine ați venit la SDC Shipping Freight",
+
+    "thankYou": "Vă mulțumim pentru mesaj.",
+
+    "tryAgain": "Vă rugăm să încercați din nou mai târziu."
+  }
+}

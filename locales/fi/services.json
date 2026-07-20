@@ -1,0 +1,47 @@
+{
+  "title": "Palvelumme",
+
+  "tag": "LOGISTIIKKAPALVELUT",
+
+  "hero": {
+    "title": "Maailmanlaajuiset rahtiratkaisut tarpeidesi mukaan",
+
+    "description": "Merikuljetuksista lentorahtiin ja toimitusketjun hallintaan SDC Shipping Freight tarjoaa luotettavia logistiikkaratkaisuja maailmanlaajuisesti."
+  },
+
+  "seaFreight": {
+    "title": "Merirahti",
+
+    "description": "Luotettavat merirahtiratkaisut, mukaan lukien täyskontti- (FCL) ja osakonttikuljetukset (LCL), jotka yhdistävät maailmanlaajuiset satamat."
+  },
+
+  "airFreight": {
+    "title": "Lentorahti",
+
+    "description": "Nopea ja turvallinen kansainvälinen lentorahtikuljetus ensisijaisella käsittelyllä ja tullikoordinoinnilla."
+  },
+
+  "landTransport": {
+    "title": "Maantiekuljetukset",
+
+    "description": "Tehokkaat kotimaiset ja kansainväliset kuljetukset kokeneiden logistiikka-ammattilaisten ja nykyaikaisten seurantaratkaisujen tukemana."
+  },
+
+  "warehousing": {
+    "title": "Varastointi",
+
+    "description": "Turvalliset varastointi-, varastonhallinta-, jakelu- ja toimitusratkaisut tehokkaiden toimitusketjujen tarpeisiin."
+  },
+
+  "customs": {
+    "title": "Tulliselvitys",
+
+    "description": "Ammattimainen tullikoordinointi auttaa lähetyksiä kulkemaan sujuvasti kansainvälisten määräysten mukaisesti."
+  },
+
+  "forwarding": {
+    "title": "Huolinta",
+
+    "description": "Kattava lähetyskoordinaatio lähtöpisteestä määränpäähän luotettavien maailmanlaajuisten logistiikkakumppanuuksien avulla."
+  }
+}

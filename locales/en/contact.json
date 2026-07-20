@@ -1,0 +1,47 @@
+{
+  "title": "Contact Us",
+
+  "hero": {
+    "tag": "GET IN TOUCH",
+    "title": "Let's Move Your Cargo With Confidence",
+    "description": "Whether you are shipping internationally or need logistics support, our experienced team is ready to provide reliable solutions tailored to your requirements."
+  },
+
+  "information": {
+    "title": "Get In Touch",
+
+    "description": "We are committed to providing professional logistics support and prompt assistance for all shipping enquiries.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "viber": "Viber",
+
+    "support": "24/7 Customer Support",
+
+    "worldwide": "Serving Clients Worldwide"
+  },
+
+  "form": {
+    "name": "Full Name",
+
+    "email": "Email Address",
+
+    "message": "How can we assist you today?",
+
+    "button": "Send Message"
+  },
+
+  "success": {
+    "message": "Your message has been sent successfully. Our team will contact you shortly."
+  },
+
+  "errors": {
+    "required": "Please complete all required fields.",
+
+    "email": "Please enter a valid email address.",
+
+    "failed": "Unable to send your message. Please try again later."
+  }
+}

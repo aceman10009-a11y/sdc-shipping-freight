@@ -1,0 +1,63 @@
+{
+  "title": "Om SDC Shipping Freight",
+
+  "hero": {
+    "tag": "OM OS",
+
+    "title": "Forbinder global handel gennem pålidelig logistik",
+
+    "description": "SDC Shipping Freight leverer pålidelige internationale transportløsninger gennem søfragt, luftfragt, landtransport, lagerføring og professionel godshåndtering."
+  },
+
+  "company": {
+    "title": "Hvem er vi",
+
+    "description": "SDC Shipping Freight er en global logistikudbyder, der fokuserer på at levere sikre, effektive og gennemsigtige transportløsninger til virksomheder og privatpersoner verden over."
+  },
+
+  "mission": {
+    "title": "Vores mission",
+
+    "description": "Vores mission er at gøre global transport enklere ved at kombinere moderne logistikteknologi, stærke partnerskaber og fremragende kundeservice."
+  },
+
+  "vision": {
+    "title": "Vores vision",
+
+    "description": "At blive en betroet global logistikpartner, der er kendt for pålidelighed, innovation og ekspertise inden for internationale forsyningskæder."
+  },
+
+  "values": {
+    "title": "Vores kerneværdier",
+
+    "reliability": {
+      "title": "Pålidelighed",
+
+      "description": "Vi fokuserer på stabil service, præcise leveringstider og pålidelige logistikoperationer."
+    },
+
+    "security": {
+      "title": "Sikkerhed",
+
+      "description": "Vi beskytter hver forsendelse gennem omhyggelig håndtering, overvågning og bedste praksis i branchen."
+    },
+
+    "innovation": {
+      "title": "Innovation",
+
+      "description": "Vi anvender moderne teknologi og løsninger med realtidssynlighed for at forbedre effektiviteten i global transport."
+    },
+
+    "partnership": {
+      "title": "Partnerskab",
+
+      "description": "Vi opbygger stærke relationer med kunder, transportører og logistikpartnere over hele verden."
+    }
+  },
+
+  "global": {
+    "title": "Globalt logistiknetværk",
+
+    "description": "Gennem strategiske partnerskaber og verdensomspændende transportnetværk forbinder vi virksomheder med internationale markeder."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Ha ocurrido un error desconocido. Por favor, inténtelo de nuevo más tarde.",
+
+    "network": "Error de red. Compruebe su conexión a Internet e inténtelo de nuevo.",
+
+    "server": "Error del servidor. Por favor, inténtelo de nuevo más tarde."
+  },
+
+  "tracking": {
+    "empty": "Por favor introduzca un número de seguimiento.",
+
+    "notFound": "No se encontró ningún envío con este número de seguimiento.",
+
+    "failed": "No se pudo obtener la información del envío. Por favor, inténtelo de nuevo más tarde."
+  },
+
+  "form": {
+    "required": "Este campo es obligatorio.",
+
+    "invalidEmail": "Por favor introduzca un correo electrónico válido.",
+
+    "submissionFailed": "No se pudo enviar el formulario. Por favor, inténtelo de nuevo."
+  },
+
+  "donateComingSoon": "La integración de pagos estará disponible próximamente."
+}

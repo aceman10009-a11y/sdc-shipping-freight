@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Diensten",
+
+    "track": "Zending volgen",
+
+    "why": "Waarom wij",
+
+    "contact": "Contact",
+
+    "donate": "Doneren"
+  },
+
+  "buttons": {
+    "accept": "Accepteren",
+
+    "decline": "Weigeren",
+
+    "trackShipment": "Zending volgen",
+
+    "getQuote": "Offerte aanvragen",
+
+    "track": "Volgen",
+
+    "sendMessage": "Bericht verzenden",
+
+    "donateNow": "Nu doneren"
+  },
+
+  "cookie": {
+    "title": "🍪 Cookie melding",
+
+    "description": "SDC Shipping Freight gebruikt noodzakelijke cookies om de website correct te laten functioneren en uw gebruikerservaring te verbeteren. Door op 'Accepteren' te klikken, gaat u akkoord met ons cookiegebruik."
+  },
+
+  "forms": {
+    "fullName": "Volledige naam",
+
+    "emailAddress": "E-mailadres",
+
+    "trackingId": "Voer trackingnummer in",
+
+    "message": "Hoe kunnen wij u vandaag helpen?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight biedt veilige, betrouwbare en efficiënte logistieke oplossingen wereldwijd. Wij zijn gespecialiseerd in zeevracht, luchtvracht, opslag, douaneafhandeling, expeditie en uitgebreid vrachtbeheer.",
+
+    "explore": "Ontdekken",
+
+    "services": "Diensten",
+
+    "service1": "Zeevracht",
+
+    "service2": "Luchtvracht",
+
+    "service3": "Opslagbeheer",
+
+    "service4": "Douaneafhandeling",
+
+    "service5": "Expeditie",
+
+    "support": "Ondersteuning",
+
+    "website": "Website",
+
+    "emailSupport": "E-mailondersteuning",
+
+    "viberSupport": "Viber ondersteuning",
+
+    "liveChat": "Live chat ondersteuning",
+
+    "contact": "Contact",
+
+    "viberCustomerSupport": "💬 Viber klantenservice",
+
+    "liveSupport": "🟢 24/7 live ondersteuning",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Alle rechten voorbehouden."
+  }
+}

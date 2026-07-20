@@ -1,0 +1,83 @@
+{
+  "title": "Śledzenie przesyłki",
+
+  "hero": {
+    "tag": "ŚLEDZENIE PRZESYŁKI",
+
+    "title": "Monitoruj swój ładunek w czasie rzeczywistym",
+
+    "description": "Śledź trasę swojej przesyłki dzięki widoczności w czasie rzeczywistym, informacjom o przewidywanym czasie dostawy oraz szczegółowym aktualizacjom logistycznym."
+  },
+
+  "form": {
+    "placeholder": "Wprowadź numer śledzenia",
+
+    "button": "Śledź przesyłkę"
+  },
+
+  "status": {
+    "searching": "Wyszukiwanie informacji o przesyłce...",
+
+    "found": "Znaleziono informacje o przesyłce",
+
+    "notFound": "Nie znaleziono informacji o przesyłce dla tego numeru śledzenia."
+  },
+
+  "details": {
+    "trackingId": "Numer śledzenia",
+
+    "status": "Status przesyłki",
+
+    "location": "Aktualna lokalizacja",
+
+    "origin": "Miejsce nadania",
+
+    "destination": "Miejsce docelowe",
+
+    "departure": "Data wysyłki",
+
+    "arrival": "Przewidywane przybycie",
+
+    "carrier": "Przewoźnik",
+
+    "vessel": "Informacje o statku"
+  },
+
+  "shipmentStatus": {
+    "pending": "Oczekuje",
+
+    "processing": "Przetwarzanie",
+
+    "inTransit": "W transporcie",
+
+    "arrived": "Dotarła",
+
+    "delivered": "Dostarczona",
+
+    "delayed": "Opóźniona"
+  },
+
+  "timeline": {
+    "title": "Postęp przesyłki",
+
+    "created": "Przesyłka utworzona",
+
+    "pickedUp": "Ładunek odebrany",
+
+    "departed": "Opuszczono port początkowy",
+
+    "transit": "W trakcie transportu międzynarodowego",
+
+    "destination": "Dotarła do miejsca docelowego",
+
+    "completed": "Przesyłka zakończona"
+  },
+
+  "errors": {
+    "empty": "Proszę wprowadzić numer śledzenia.",
+
+    "invalid": "Nieprawidłowe informacje śledzenia.",
+
+    "system": "Nie można załadować szczegółów przesyłki. Spróbuj ponownie później."
+  }
+}

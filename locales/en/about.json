@@ -1,0 +1,53 @@
+{
+  "title": "About SDC Shipping Freight",
+
+  "hero": {
+    "tag": "ABOUT US",
+    "title": "Connecting Global Trade Through Reliable Logistics",
+    "description": "SDC Shipping Freight provides dependable international shipping solutions through ocean freight, air freight, land transportation, warehousing, and professional cargo management."
+  },
+
+  "company": {
+    "title": "Who We Are",
+    "description": "SDC Shipping Freight is a global logistics provider dedicated to delivering secure, efficient, and transparent transportation solutions for businesses and individuals worldwide."
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "description": "Our mission is to simplify global shipping by combining modern logistics technology, trusted partnerships, and exceptional customer service."
+  },
+
+  "vision": {
+    "title": "Our Vision",
+    "description": "To become a trusted global logistics partner recognized for reliability, innovation, and excellence across international supply chains."
+  },
+
+  "values": {
+    "title": "Our Core Values",
+
+    "reliability": {
+      "title": "Reliability",
+      "description": "We focus on consistent service, accurate delivery schedules, and dependable logistics operations."
+    },
+
+    "security": {
+      "title": "Security",
+      "description": "We protect every shipment through careful handling, monitoring, and industry best practices."
+    },
+
+    "innovation": {
+      "title": "Innovation",
+      "description": "We use modern technology and real-time visibility solutions to improve global shipping efficiency."
+    },
+
+    "partnership": {
+      "title": "Partnership",
+      "description": "We build strong relationships with clients, carriers, and logistics partners around the world."
+    }
+  },
+
+  "global": {
+    "title": "Global Logistics Network",
+    "description": "Through strategic partnerships and worldwide transportation networks, we connect businesses to international markets."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "language": {
+    "select": "Valitse kieli"
+  },
+
+  "loading": "Ladataan...",
+
+  "actions": {
+    "learnMore": "Lue lisää",
+
+    "viewDetails": "Näytä tiedot",
+
+    "close": "Sulje",
+
+    "submit": "Lähetä",
+
+    "cancel": "Peruuta"
+  },
+
+  "status": {
+    "active": "Aktiivinen",
+
+    "inactive": "Ei aktiivinen",
+
+    "success": "Onnistui",
+
+    "failed": "Epäonnistui",
+
+    "pending": "Odottaa"
+  },
+
+  "navigation": {
+    "home": "Etusivu",
+
+    "about": "Tietoa meistä",
+
+    "services": "Palvelut",
+
+    "contact": "Yhteystiedot",
+
+    "tracking": "Lähetyksen seuranta"
+  },
+
+  "messages": {
+    "welcome": "Tervetuloa SDC Shipping Freightiin",
+
+    "thankYou": "Kiitos pyynnöstänne.",
+
+    "tryAgain": "Yritä myöhemmin uudelleen."
+  }
+}

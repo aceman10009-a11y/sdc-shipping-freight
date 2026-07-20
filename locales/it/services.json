@@ -1,0 +1,47 @@
+{
+  "title": "I nostri servizi",
+
+  "tag": "SERVIZI LOGISTICI",
+
+  "hero": {
+    "title": "Soluzioni globali di trasporto create per le tue esigenze",
+
+    "description": "Dal trasporto marittimo al trasporto aereo e alla gestione della catena di approvvigionamento, SDC Shipping Freight offre soluzioni logistiche affidabili in tutto il mondo."
+  },
+
+  "seaFreight": {
+    "title": "Trasporto marittimo",
+
+    "description": "Soluzioni affidabili di trasporto marittimo incluse spedizioni Full Container Load (FCL) e Less than Container Load (LCL) che collegano i porti globali."
+  },
+
+  "airFreight": {
+    "title": "Trasporto aereo",
+
+    "description": "Trasporto internazionale rapido e sicuro di merci tramite servizi aerei con gestione prioritaria e coordinamento doganale."
+  },
+
+  "landTransport": {
+    "title": "Trasporto terrestre",
+
+    "description": "Trasporto nazionale e transfrontaliero efficiente supportato da professionisti logistici esperti e moderne soluzioni di monitoraggio."
+  },
+
+  "warehousing": {
+    "title": "Magazzinaggio",
+
+    "description": "Soluzioni sicure di stoccaggio, gestione delle scorte, distribuzione e fulfillment progettate per catene di approvvigionamento efficienti."
+  },
+
+  "customs": {
+    "title": "Sdoganamento",
+
+    "description": "Coordinamento professionale delle procedure doganali per consentire alle spedizioni di attraversare facilmente le normative internazionali."
+  },
+
+  "forwarding": {
+    "title": "Spedizioniere",
+
+    "description": "Coordinamento completo delle spedizioni dall'origine alla destinazione attraverso partnership logistiche globali affidabili."
+  }
+}

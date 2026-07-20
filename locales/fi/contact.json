@@ -1,0 +1,47 @@
+{
+  "title": "Ota yhteyttä",
+
+  "hero": {
+    "tag": "OTA YHTEYTTÄ",
+
+    "title": "Kuljetamme rahtisi luottamuksella",
+
+    "description": "Olitpa lähettämässä kansainvälisesti tai tarvitset logistiikkatukea, kokenut tiimimme tarjoaa luotettavia ratkaisuja tarpeidesi mukaan."
+  },
+
+  "information": {
+    "title": "Ota yhteyttä",
+
+    "description": "Olemme sitoutuneet tarjoamaan ammattimaista logistiikkatukea ja nopeaa apua kaikkiin lähetyksiin liittyviin kysymyksiin.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "Asiakastuki 24/7",
+
+    "worldwide": "Palvelemme asiakkaita maailmanlaajuisesti"
+  },
+
+  "form": {
+    "name": "Koko nimi",
+
+    "email": "Sähköpostiosoite",
+
+    "message": "Kuinka voimme auttaa tänään?",
+
+    "button": "Lähetä viesti"
+  },
+
+  "success": {
+    "message": "Viestisi on lähetetty onnistuneesti. Tiimimme ottaa sinuun yhteyttä pian."
+  },
+
+  "errors": {
+    "required": "Täytä kaikki pakolliset kentät.",
+
+    "email": "Anna kelvollinen sähköpostiosoite.",
+
+    "failed": "Viestin lähettäminen epäonnistui. Yritä myöhemmin uudelleen."
+  }
+}

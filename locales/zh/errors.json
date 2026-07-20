@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "发生未知错误，请稍后再试。",
+
+    "network": "发生网络错误，请检查您的网络连接后重试。",
+
+    "server": "服务器发生错误，请稍后再试。"
+  },
+
+  "tracking": {
+    "empty": "请输入追踪号码。",
+
+    "notFound": "未找到该追踪号码对应的货件信息。",
+
+    "failed": "无法获取货件信息，请稍后再试。"
+  },
+
+  "form": {
+    "required": "此字段为必填项。",
+
+    "invalidEmail": "请输入有效的电子邮箱地址。",
+
+    "submissionFailed": "表单提交失败，请重试。"
+  },
+
+  "donateComingSoon": "支付功能即将上线。"
+}

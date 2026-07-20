@@ -1,0 +1,83 @@
+{
+  "title": "Seguimiento de envío",
+
+  "hero": {
+    "tag": "SEGUIMIENTO DE ENVÍOS",
+
+    "title": "Controle su carga en tiempo real",
+
+    "description": "Siga el recorrido de su envío con visibilidad en tiempo real, información estimada de llegada y actualizaciones detalladas del transporte."
+  },
+
+  "form": {
+    "placeholder": "Introduzca el número de seguimiento",
+
+    "button": "Rastrear envío"
+  },
+
+  "status": {
+    "searching": "Buscando información del envío...",
+
+    "found": "Envío encontrado",
+
+    "notFound": "No se encontró ningún envío con este número de seguimiento."
+  },
+
+  "details": {
+    "trackingId": "Número de seguimiento",
+
+    "status": "Estado del envío",
+
+    "location": "Ubicación actual",
+
+    "origin": "Origen",
+
+    "destination": "Destino",
+
+    "departure": "Fecha de salida",
+
+    "arrival": "Llegada estimada",
+
+    "carrier": "Transportista",
+
+    "vessel": "Información del buque"
+  },
+
+  "shipmentStatus": {
+    "pending": "Pendiente",
+
+    "processing": "Procesando",
+
+    "inTransit": "En tránsito",
+
+    "arrived": "Llegado",
+
+    "delivered": "Entregado",
+
+    "delayed": "Retrasado"
+  },
+
+  "timeline": {
+    "title": "Trayectoria del envío",
+
+    "created": "Envío creado",
+
+    "pickedUp": "Carga recogida",
+
+    "departed": "Salida del puerto de origen",
+
+    "transit": "Tránsito internacional",
+
+    "destination": "Llegada al destino",
+
+    "completed": "Entrega completada"
+  },
+
+  "errors": {
+    "empty": "Por favor introduzca un número de seguimiento.",
+
+    "invalid": "Información de seguimiento no válida.",
+
+    "system": "No se pueden recuperar los detalles del envío. Por favor inténtelo de nuevo más tarde."
+  }
+}

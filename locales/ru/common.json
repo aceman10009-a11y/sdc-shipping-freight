@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Выберите язык"
+  },
+
+  "loading": "Загрузка...",
+
+  "buttons": {
+    "accept": "Принять",
+
+    "decline": "Отклонить",
+
+    "trackShipment": "Отследить отправление",
+
+    "getQuote": "Запросить предложение",
+
+    "track": "Отследить",
+
+    "sendMessage": "Отправить сообщение",
+
+    "donateNow": "Пожертвовать сейчас"
+  },
+
+  "actions": {
+    "learnMore": "Подробнее",
+
+    "viewDetails": "Посмотреть подробности",
+
+    "close": "Закрыть",
+
+    "submit": "Отправить",
+
+    "cancel": "Отмена"
+  },
+
+  "status": {
+    "active": "Активно",
+
+    "inactive": "Неактивно",
+
+    "success": "Успешно",
+
+    "failed": "Ошибка",
+
+    "pending": "В ожидании"
+  },
+
+  "navigation": {
+    "home": "Главная",
+
+    "about": "О нас",
+
+    "services": "Услуги",
+
+    "contact": "Контакты",
+
+    "tracking": "Отслеживание отправления"
+  },
+
+  "messages": {
+    "welcome": "Добро пожаловать в SDC Shipping Freight",
+
+    "thankYou": "Спасибо за ваше обращение.",
+
+    "tryAgain": "Пожалуйста, попробуйте еще раз позже."
+  }
+}

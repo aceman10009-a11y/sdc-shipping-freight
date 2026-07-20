@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Maailmanlaajuinen kuljetus.<br>Toimitettu tarkasti.",
+
+    "description": "Turvalliset kuljetusratkaisut merellä, ilmassa ja maalla reaaliaikaisella lähetysseurannalla."
+  },
+
+  "services": {
+    "tag": "ASIANTUNTEMUKSEMME",
+
+    "title": "Kokonaisvaltaiset maailmanlaajuiset logistiikkaratkaisut",
+
+    "description": "Tarjoamme luotettavia rahti- ja toimitusketjuratkaisuja meri-, lento- ja maantiekuljetusten sekä varastointipalvelujen kautta maailmanlaajuisen logistiikkaosaamisen ja reaaliaikaisen näkyvyyden tukemana.",
+
+    "sea": {
+      "title": "Merirahti",
+
+      "description": "Kustannustehokkaat täyskontti- (FCL) ja osakonttiratkaisut (LCL), jotka yhdistävät tärkeät satamat maailmanlaajuisesti luotettavalla aikataulutuksella ja lastin näkyvyydellä."
+    },
+
+    "air": {
+      "title": "Lentorahti",
+
+      "description": "Nopeat kansainväliset lentorahtipalvelut, joissa on ensisijainen käsittely, tullikoordinointi ja turvallinen kuljetus kiireellisille lähetyksille."
+    },
+
+    "land": {
+      "title": "Maantiekuljetukset",
+
+      "description": "Luotettavat kotimaiset ja kansainväliset maantiekuljetukset nykyaikaisen kalustonhallinnan, reaaliaikaisen seurannan ja kokeneiden logistiikka-ammattilaisten tukemana."
+    },
+
+    "warehouse": {
+      "title": "Varastointi",
+
+      "description": "Turvalliset varastointi-, varastonhallinta-, jakelu- ja toimitusratkaisut, jotka on suunniteltu tehostamaan toimitusketjua."
+    }
+  },
+
+  "tracking": {
+    "title": "Seuraa lähetystä",
+
+    "placeholder": "Syötä seurantanumero"
+  },
+
+  "stats": {
+    "title": "Maailmanlaajuinen logistiikkaverkosto",
+
+    "ports": {
+      "value": "120+",
+      "label": "Yhdistettyä satamaa"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Palveltua maata"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Lähetysten valvonta"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Toimitusvarmuus"
+    }
+  },
+
+  "why": {
+    "tag": "MIKSI VALITA MEIDÄT",
+
+    "title": "Luotettavia maailmanlaajuisia logistiikkaratkaisuja",
+
+    "description": "SDC Shipping Freight tarjoaa luotettavia kansainvälisiä rahti- ja logistiikkapalveluita alan kokemuksen, kehittyneen lähetysseurannan ja turvallisten sekä täsmällisten toimitusten sitoutumisen avulla yrityksille ja yksityisasiakkaille maailmanlaajuisesti.",
+
+    "network": {
+      "title": "Maailmanlaajuinen logistiikkaverkosto",
+
+      "description": "Maailmanlaajuinen logistiikkaverkostomme yhdistää tärkeät satamat, lentokentät ja kuljetuskeskukset varmistaen tehokkaan tavaraliikenteen kansainvälisillä markkinoilla."
+    },
+
+    "delivery": {
+      "title": "Luotettava oikea-aikainen toimitus",
+
+      "description": "Jokainen lähetys koordinoidaan huolellisesti toimitusaikojen saavuttamiseksi samalla säilyttäen tehokas toiminta ja jatkuva viestintä koko kuljetuksen ajan."
+    },
+
+    "security": {
+      "title": "Turvallinen rahdin käsittely",
+
+      "description": "Noudatamme tiukkoja lastinkäsittelymenettelyjä ja alan parhaita käytäntöjä suojataksemme lähetyksiä noudosta lopulliseen toimitukseen asti."
+    },
+
+    "partnerships": {
+      "title": "Luotettavat alan kumppanuudet",
+
+      "description": "Yhteistyössä arvostettujen logistiikkakumppaneiden ja maailmanlaajuisten kuljetusyhtiöiden kanssa tarjoamme skaalautuvia kuljetusratkaisuja asiakkaidemme muuttuviin tarpeisiin. Teemme myös yhteistyötä Cainiao Globalin kanssa logistiikan tehokkuuden parantamiseksi."
+    }
+  },
+
+  "contact": {
+    "tag": "OTA YHTEYTTÄ",
+
+    "title": "Kuljetamme rahtisi luottamuksella",
+
+    "description": "Olipa kyseessä kansainvälinen kuljetus tai logistiikkatuki, kokenut tiimimme tarjoaa tarpeisiisi räätälöityjä luotettavia ratkaisuja.",
+
+    "info": {
+      "title": "Ota yhteyttä",
+
+      "description": "Olemme sitoutuneet tarjoamaan ammattimaista logistiikkatukea ja nopeaa apua kaikkiin lähetyksiin liittyviin kysymyksiin.",
+
+      "viber": "Viber",
+
+      "support": "Asiakastuki 24/7",
+
+      "worldwide": "Palvelemme asiakkaita maailmanlaajuisesti"
+    }
+  },
+
+  "donate": {
+    "title": "Tue logistiikkaverkostoamme",
+
+    "description": "Tukesi auttaa parantamaan maailmanlaajuista kuljetusinfrastruktuuria."
+  },
+
+  "gallery": {
+    "tag": "MAAILMANLAAJUINEN KULJETUS",
+
+    "title": "Kuljetamme rahtia kaikkien valtamerien yli",
+
+    "description": "Jokainen lähetys kuvastaa sitoutumistamme luotettavuuteen, tarkkuuteen ja maailmanluokan logistiikkaratkaisuihin."
+  }
+}

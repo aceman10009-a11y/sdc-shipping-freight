@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "title": "Global Shipping.<br>Delivered With Precision.",
+    "description": "Secure freight solutions across sea, air and land with real-time shipment tracking."
+  },
+
+  "services": {
+    "tag": "OUR EXPERTISE",
+    "title": "Integrated Global Logistics Solutions",
+    "description": "Delivering dependable freight and supply chain solutions through sea, air, road and warehousing services backed by global logistics expertise and real-time shipment visibility.",
+
+    "sea": {
+      "title": "Sea Freight",
+      "description": "Cost-effective Full Container Load (FCL) and Less than Container Load (LCL) shipping connecting major ports worldwide with reliable scheduling and cargo visibility."
+    },
+
+    "air": {
+      "title": "Air Freight",
+      "description": "Fast international air cargo services with priority handling, customs coordination and secure transportation for urgent shipments worldwide."
+    },
+
+    "land": {
+      "title": "Land Transport",
+      "description": "Reliable domestic and cross-border road transport supported by modern fleet management, real-time tracking and experienced logistics professionals."
+    },
+
+    "warehouse": {
+      "title": "Warehousing",
+      "description": "Secure warehousing, inventory management, distribution and fulfillment services designed to streamline your supply chain."
+    }
+  },
+
+  "tracking": {
+    "title": "Track Shipment",
+    "placeholder": "Enter Tracking ID"
+  },
+
+  "statistics": {
+    "title": "Global Logistics Network",
+
+    "ports": "Ports Connected",
+    "countries": "Countries Served",
+    "monitoring": "Shipment Monitoring",
+    "reliability": "Delivery Reliability"
+  },
+
+  "why": {
+    "tag": "WHY CHOOSE US",
+    "title": "Trusted Global Logistics Solutions",
+
+    "description": "SDC Shipping Freight delivers dependable international freight and logistics services backed by industry expertise, advanced shipment monitoring and a commitment to secure, on-time delivery for businesses and individuals worldwide.",
+
+    "network": {
+      "title": "Global Logistics Network",
+      "description": "Our worldwide logistics network connects major ports, airports and transportation hubs, ensuring efficient freight movement across international markets."
+    },
+
+    "delivery": {
+      "title": "Reliable On-Time Delivery",
+      "description": "Every shipment is carefully coordinated to meet delivery schedules while maintaining operational efficiency and consistent communication throughout the journey."
+    },
+
+    "security": {
+      "title": "Safe & Secure Cargo Handling",
+      "description": "We follow strict cargo handling procedures and industry best practices to protect shipments from collection through final delivery."
+    },
+
+    "partnerships": {
+      "title": "Trusted Industry Partnerships",
+      "description": "By collaborating with respected logistics partners and global carriers, we provide scalable shipping solutions that meet the evolving needs of our clients. We also partner with Cainiao Global for enhanced logistics efficiency."
+    }
+  },
+
+  "contact": {
+    "tag": "CONTACT US",
+    "title": "Let's Move Your Cargo with Confidence",
+
+    "description": "Whether you're shipping internationally or need logistics support, our experienced team is ready to provide reliable solutions tailored to your requirements.",
+
+    "info": {
+      "title": "Get In Touch",
+
+      "description": "We are committed to providing professional logistics support and prompt assistance for all shipping enquiries.",
+
+      "viber": "Viber",
+
+      "support": "24/7 Customer Support",
+
+      "worldwide": "Serving Clients Worldwide"
+    },
+
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "message": "How can we assist you today?"
+    }
+  },
+
+  "donate": {
+    "title": "Support Our Logistics Network",
+    "description": "Your support helps improve global shipping infrastructure."
+  },
+
+  "gallery": {
+    "tag": "GLOBAL SHIPPING",
+    "title": "Moving Cargo Across Every Ocean",
+    "description": "Every shipment reflects our commitment to reliability, precision and world-class logistics solutions."
+  }
+}

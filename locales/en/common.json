@@ -1,0 +1,63 @@
+{
+  "buttons": {
+    "accept": "Accept",
+    "decline": "Decline",
+    "track": "Track",
+    "trackShipment": "Track Shipment",
+    "getQuote": "Get Quote",
+    "sendMessage": "Send Message",
+    "donate": "Donate Now",
+    "learnMore": "Learn More",
+    "submit": "Submit"
+  },
+
+  "navbar": {
+    "services": "Services",
+    "track": "Track",
+    "whyUs": "Why Us",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+
+  "cookie": {
+    "title": "🍪 Cookie Notice",
+    "message": "SDC Shipping Freight uses essential cookies to improve your browsing experience and ensure our website functions properly. By clicking Accept, you agree to our use of cookies."
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+    "explore": "Explore",
+    "services": "Services",
+    "support": "Support",
+    "contact": "Contact",
+
+    "description": "SDC Shipping Freight delivers secure, reliable, and efficient logistics solutions worldwide. We specialize in ocean freight, air freight, warehousing, customs clearance, and end-to-end cargo management, providing businesses and individuals with dependable shipping services across global trade routes.",
+
+    "oceanFreight": "Ocean Freight",
+    "airFreight": "Air Freight",
+    "warehousing": "Warehousing",
+    "customsClearance": "Customs Clearance",
+    "freightForwarding": "Freight Forwarding",
+
+    "website": "Website",
+    "emailSupport": "Email Support",
+    "viberSupport": "Viber Support",
+    "liveChat": "Live Chat Support",
+
+    "email": "contact@sdcshippingfreight.com",
+    "websiteUrl": "www.sdcshippingfreight.com",
+    "viber": "Viber Customer Support",
+    "liveSupport": "24/7 Live Support",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. All Rights Reserved."
+  },
+
+  "labels": {
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "message": "Message",
+    "trackingId": "Enter Tracking ID",
+    "worldwide": "Serving Clients Worldwide",
+    "support247": "24/7 Customer Support"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Đã xảy ra lỗi không xác định. Vui lòng thử lại sau.",
+
+    "network": "Đã xảy ra lỗi mạng. Vui lòng kiểm tra kết nối internet và thử lại.",
+
+    "server": "Đã xảy ra lỗi máy chủ. Vui lòng thử lại sau."
+  },
+
+  "tracking": {
+    "empty": "Vui lòng nhập mã theo dõi.",
+
+    "notFound": "Không tìm thấy thông tin lô hàng với mã theo dõi này.",
+
+    "failed": "Không thể lấy thông tin lô hàng. Vui lòng thử lại sau."
+  },
+
+  "form": {
+    "required": "Trường này là bắt buộc.",
+
+    "invalidEmail": "Vui lòng nhập địa chỉ email hợp lệ.",
+
+    "submissionFailed": "Không thể gửi biểu mẫu. Vui lòng thử lại."
+  },
+
+  "donateComingSoon": "Tính năng thanh toán sẽ sớm được ra mắt."
+}

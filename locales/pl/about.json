@@ -1,0 +1,63 @@
+{
+  "title": "O SDC Shipping Freight",
+
+  "hero": {
+    "tag": "O NAS",
+
+    "title": "Łączymy globalny handel z niezawodną logistyką",
+
+    "description": "SDC Shipping Freight oferuje niezawodne międzynarodowe rozwiązania logistyczne obejmujące transport morski, lotniczy, lądowy, magazynowanie oraz profesjonalną obsługę ładunków."
+  },
+
+  "company": {
+    "title": "O firmie",
+
+    "description": "SDC Shipping Freight jest globalnym dostawcą usług logistycznych oferującym bezpieczne, wydajne i przejrzyste rozwiązania transportowe dla firm oraz klientów indywidualnych na całym świecie."
+  },
+
+  "mission": {
+    "title": "Nasza misja",
+
+    "description": "Naszą misją jest uproszczenie globalnego transportu poprzez połączenie nowoczesnych technologii logistycznych, niezawodnych partnerstw oraz najwyższej jakości obsługi klienta."
+  },
+
+  "vision": {
+    "title": "Nasza wizja",
+
+    "description": "Dążymy do tego, aby stać się zaufanym globalnym partnerem logistycznym znanym z niezawodności, innowacyjności i doskonałości w międzynarodowych łańcuchach dostaw."
+  },
+
+  "values": {
+    "title": "Nasze wartości",
+
+    "reliability": {
+      "title": "Niezawodność",
+
+      "description": "Zapewniamy stałą jakość usług, terminowe dostawy oraz niezawodne procesy logistyczne spełniające oczekiwania naszych klientów."
+    },
+
+    "security": {
+      "title": "Bezpieczeństwo",
+
+      "description": "Chronimy każdą przesyłkę poprzez dokładną obsługę ładunków, ciągły monitoring oraz przestrzeganie standardów branżowych."
+    },
+
+    "innovation": {
+      "title": "Innowacja",
+
+      "description": "Wykorzystujemy nowoczesne technologie oraz rozwiązania zapewniające widoczność w czasie rzeczywistym, aby zwiększać efektywność globalnej logistyki."
+    },
+
+    "partnership": {
+      "title": "Partnerstwo",
+
+      "description": "Budujemy silne i długoterminowe relacje z klientami, przewoźnikami oraz partnerami logistycznymi na całym świecie."
+    }
+  },
+
+  "global": {
+    "title": "Globalna sieć logistyczna",
+
+    "description": "Dzięki strategicznym partnerstwom oraz międzynarodowym sieciom transportowym pomagamy firmom łączyć się z globalnymi rynkami i budować wydajne łańcuchy dostaw."
+  }
+}

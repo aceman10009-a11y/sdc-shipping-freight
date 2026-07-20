@@ -1,0 +1,83 @@
+{
+  "title": "Rastrear envio",
+
+  "hero": {
+    "tag": "RASTREAR ENVIO",
+
+    "title": "Acompanhe a sua carga em tempo real",
+
+    "description": "Monitorize o percurso do seu envio com visibilidade em tempo real, informações sobre a chegada prevista e atualizações logísticas detalhadas."
+  },
+
+  "form": {
+    "placeholder": "Introduza o número de rastreio",
+
+    "button": "Rastrear envio"
+  },
+
+  "status": {
+    "searching": "A procurar informações do envio...",
+
+    "found": "Informações do envio encontradas",
+
+    "notFound": "Não foram encontradas informações para este número de rastreio."
+  },
+
+  "details": {
+    "trackingId": "Número de rastreio",
+
+    "status": "Estado do envio",
+
+    "location": "Localização atual",
+
+    "origin": "Origem",
+
+    "destination": "Destino",
+
+    "departure": "Data de partida",
+
+    "arrival": "Chegada prevista",
+
+    "carrier": "Transportadora",
+
+    "vessel": "Informações da embarcação"
+  },
+
+  "shipmentStatus": {
+    "pending": "Pendente",
+
+    "processing": "Em processamento",
+
+    "inTransit": "Em trânsito",
+
+    "arrived": "Chegado",
+
+    "delivered": "Entregue",
+
+    "delayed": "Atrasado"
+  },
+
+  "timeline": {
+    "title": "Progresso do envio",
+
+    "created": "Envio criado",
+
+    "pickedUp": "Carga recolhida",
+
+    "departed": "Partiu do porto de origem",
+
+    "transit": "Em transporte internacional",
+
+    "destination": "Chegou ao destino",
+
+    "completed": "Envio concluído"
+  },
+
+  "errors": {
+    "empty": "Introduza o número de rastreio.",
+
+    "invalid": "Informações de rastreio inválidas.",
+
+    "system": "Não foi possível carregar os detalhes do envio. Tente novamente mais tarde."
+  }
+}

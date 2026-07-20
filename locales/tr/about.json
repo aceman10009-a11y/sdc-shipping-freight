@@ -1,0 +1,63 @@
+{
+  "title": "SDC Shipping Freight Hakkında",
+
+  "hero": {
+    "tag": "HAKKIMIZDA",
+
+    "title": "Küresel ticareti güvenilir lojistikle buluşturuyoruz",
+
+    "description": "SDC Shipping Freight; deniz taşımacılığı, hava taşımacılığı, kara taşımacılığı, depolama ve profesyonel yük yönetimi alanlarında güvenilir uluslararası lojistik çözümleri sunmaktadır."
+  },
+
+  "company": {
+    "title": "Şirket Hakkında",
+
+    "description": "SDC Shipping Freight, dünya genelindeki işletmelere ve bireysel müşterilere güvenli, verimli ve şeffaf taşımacılık çözümleri sunan küresel bir lojistik şirketidir."
+  },
+
+  "mission": {
+    "title": "Misyonumuz",
+
+    "description": "Misyonumuz; modern lojistik teknolojilerini, güvenilir iş ortaklıklarını ve üstün müşteri hizmetlerini bir araya getirerek küresel taşımacılığı daha kolay hale getirmektir."
+  },
+
+  "vision": {
+    "title": "Vizyonumuz",
+
+    "description": "Uluslararası tedarik zincirlerinde güvenilirliği, yenilikçiliği ve mükemmel hizmet anlayışıyla tanınan, dünyanın en güvenilir lojistik iş ortaklarından biri olmayı hedefliyoruz."
+  },
+
+  "values": {
+    "title": "Temel Değerlerimiz",
+
+    "reliability": {
+      "title": "Güvenilirlik",
+
+      "description": "Müşterilerimizin beklentilerini karşılayan tutarlı hizmet kalitesi, zamanında teslimatlar ve güvenilir lojistik süreçleri sunuyoruz."
+    },
+
+    "security": {
+      "title": "Güvenlik",
+
+      "description": "Her gönderiyi dikkatli yük yönetimi, sürekli izleme ve sektörün en iyi standartlarına uygun uygulamalarla koruyoruz."
+    },
+
+    "innovation": {
+      "title": "Yenilikçilik",
+
+      "description": "Küresel lojistik verimliliğini artırmak için modern teknolojiler ve gerçek zamanlı takip çözümlerinden yararlanıyoruz."
+    },
+
+    "partnership": {
+      "title": "İş Ortaklığı",
+
+      "description": "Dünya genelindeki müşterilerimiz, taşıyıcılarımız ve lojistik ortaklarımızla güçlü ve uzun vadeli ilişkiler kuruyoruz."
+    }
+  },
+
+  "global": {
+    "title": "Küresel Lojistik Ağı",
+
+    "description": "Stratejik ortaklıklarımız ve uluslararası taşımacılık ağlarımız sayesinde işletmelerin küresel pazarlara ulaşmasına ve verimli tedarik zincirleri oluşturmasına yardımcı oluyoruz."
+  }
+}

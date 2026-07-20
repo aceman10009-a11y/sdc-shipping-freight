@@ -1,0 +1,70 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "الخدمات",
+
+    "track": "تتبع الشحنة",
+
+    "why": "لماذا نحن",
+
+    "contact": "اتصل بنا",
+
+    "donate": "تبرع"
+  },
+
+  "buttons": {
+    "accept": "قبول",
+
+    "decline": "رفض",
+
+    "trackShipment": "تتبع الشحنة",
+
+    "getQuote": "اطلب عرض سعر",
+
+    "track": "تتبع",
+
+    "sendMessage": "إرسال رسالة",
+
+    "donateNow": "تبرع الآن"
+  },
+
+  "footer": {
+
+    "company": "SDC Shipping Freight",
+
+    "description": "تقدم SDC Shipping Freight حلول لوجستية آمنة وموثوقة وفعالة حول العالم. نحن متخصصون في الشحن البحري والجوي والتخزين والتخليص الجمركي وإدارة الشحنات من البداية إلى النهاية، مع توفير خدمات نقل موثوقة للشركات والأفراد عبر طرق التجارة العالمية.",
+
+    "explore": "استكشف",
+
+    "services": "الخدمات",
+
+    "service1": "الشحن البحري",
+
+    "service2": "الشحن الجوي",
+
+    "service3": "التخزين",
+
+    "service4": "التخليص الجمركي",
+
+    "service5": "إدارة الشحن",
+
+    "support": "الدعم",
+
+    "website": "الموقع الإلكتروني",
+
+    "emailSupport": "دعم البريد الإلكتروني",
+
+    "viberSupport": "دعم فايبر",
+
+    "liveChat": "الدردشة المباشرة",
+
+    "contact": "اتصل بنا",
+
+    "viberCustomerSupport": "💬 دعم عملاء فايبر",
+
+    "liveSupport": "🟢 دعم مباشر 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. جميع الحقوق محفوظة."
+  }
+}

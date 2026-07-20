@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Chọn ngôn ngữ"
+  },
+
+  "loading": "Đang tải...",
+
+  "buttons": {
+    "accept": "Chấp nhận",
+
+    "decline": "Từ chối",
+
+    "trackShipment": "Theo dõi lô hàng",
+
+    "getQuote": "Nhận báo giá",
+
+    "track": "Theo dõi",
+
+    "sendMessage": "Gửi tin nhắn",
+
+    "donateNow": "Quyên góp ngay"
+  },
+
+  "actions": {
+    "learnMore": "Tìm hiểu thêm",
+
+    "viewDetails": "Xem chi tiết",
+
+    "close": "Đóng",
+
+    "submit": "Gửi",
+
+    "cancel": "Hủy"
+  },
+
+  "status": {
+    "active": "Đang hoạt động",
+
+    "inactive": "Không hoạt động",
+
+    "success": "Thành công",
+
+    "failed": "Thất bại",
+
+    "pending": "Đang chờ"
+  },
+
+  "navigation": {
+    "home": "Trang chủ",
+
+    "about": "Về chúng tôi",
+
+    "services": "Dịch vụ",
+
+    "contact": "Liên hệ",
+
+    "tracking": "Theo dõi lô hàng"
+  },
+
+  "messages": {
+    "welcome": "Chào mừng đến với SDC Shipping Freight",
+
+    "thankYou": "Cảm ơn bạn đã liên hệ với chúng tôi.",
+
+    "tryAgain": "Vui lòng thử lại sau."
+  }
+}

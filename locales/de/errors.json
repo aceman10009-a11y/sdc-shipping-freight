@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Ein unbekannter Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+
+    "network": "Netzwerkfehler. Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.",
+
+    "server": "Serverfehler. Bitte versuchen Sie es später erneut."
+  },
+
+  "tracking": {
+    "empty": "Bitte geben Sie eine Sendungsnummer ein.",
+
+    "notFound": "Keine Sendung mit dieser Sendungsnummer gefunden.",
+
+    "failed": "Sendungsinformationen konnten nicht abgerufen werden. Bitte versuchen Sie es später erneut."
+  },
+
+  "form": {
+    "required": "Dieses Feld ist erforderlich.",
+
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+
+    "submissionFailed": "Das Formular konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+  },
+
+  "donateComingSoon": "Die Zahlungsintegration wird in Kürze verfügbar sein."
+}

@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Vận tải toàn cầu.<br>Giao hàng chính xác.",
+
+    "description": "Giải pháp vận chuyển an toàn bằng đường biển, đường hàng không và đường bộ với khả năng theo dõi lô hàng theo thời gian thực."
+  },
+
+  "services": {
+    "tag": "NĂNG LỰC CỦA CHÚNG TÔI",
+
+    "title": "Giải pháp logistics toàn cầu tích hợp",
+
+    "description": "Chúng tôi cung cấp các giải pháp vận chuyển và chuỗi cung ứng đáng tin cậy thông qua vận tải biển, vận tải hàng không, vận tải đường bộ và dịch vụ kho bãi, được hỗ trợ bởi chuyên môn logistics toàn cầu và hệ thống theo dõi thời gian thực.",
+
+    "seaFreight": {
+      "title": "Vận tải đường biển",
+
+      "description": "Dịch vụ vận chuyển nguyên container (FCL) và hàng lẻ (LCL) tiết kiệm chi phí, kết nối các cảng lớn trên toàn thế giới với lịch trình đáng tin cậy và khả năng theo dõi hàng hóa minh bạch."
+    },
+
+    "airFreight": {
+      "title": "Vận tải hàng không",
+
+      "description": "Dịch vụ vận chuyển hàng không quốc tế nhanh chóng với xử lý ưu tiên, phối hợp thủ tục hải quan và vận chuyển an toàn cho các lô hàng khẩn cấp trên toàn cầu."
+    },
+
+    "landTransport": {
+      "title": "Vận tải đường bộ",
+
+      "description": "Dịch vụ vận tải đường bộ nội địa và xuyên biên giới đáng tin cậy với quản lý đội xe hiện đại, theo dõi thời gian thực và đội ngũ chuyên gia logistics giàu kinh nghiệm."
+    },
+
+    "warehousing": {
+      "title": "Kho bãi",
+
+      "description": "Dịch vụ lưu kho an toàn, quản lý hàng tồn kho, phân phối và hoàn tất đơn hàng được thiết kế để tối ưu hóa chuỗi cung ứng của bạn."
+    }
+  },
+
+  "tracking": {
+    "title": "Theo dõi lô hàng",
+
+    "placeholder": "Nhập mã theo dõi"
+  },
+
+  "stats": {
+    "title": "Mạng lưới logistics toàn cầu",
+
+    "ports": {
+      "value": "120+",
+      "label": "Cảng kết nối"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Quốc gia phục vụ"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Theo dõi lô hàng"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Độ tin cậy giao hàng"
+    }
+  },
+
+  "why": {
+    "tag": "TẠI SAO CHỌN CHÚNG TÔI",
+
+    "title": "Giải pháp logistics toàn cầu đáng tin cậy",
+
+    "description": "SDC Shipping Freight cung cấp các dịch vụ vận tải và logistics quốc tế đáng tin cậy với kinh nghiệm trong ngành, công nghệ theo dõi hiện đại và cam kết giao hàng an toàn, đúng thời gian cho doanh nghiệp và khách hàng cá nhân trên toàn thế giới.",
+
+    "network": {
+      "title": "Mạng lưới logistics toàn cầu",
+
+      "description": "Mạng lưới logistics toàn cầu của chúng tôi kết nối các cảng biển, sân bay và trung tâm vận tải lớn để đảm bảo dòng chảy hàng hóa hiệu quả trên thị trường quốc tế."
+    },
+
+    "delivery": {
+      "title": "Giao hàng đúng hạn và đáng tin cậy",
+
+      "description": "Mỗi lô hàng được điều phối cẩn thận để đáp ứng thời gian giao nhận, đồng thời đảm bảo hoạt động hiệu quả và liên lạc liên tục trong suốt quá trình vận chuyển."
+    },
+
+    "security": {
+      "title": "Quản lý hàng hóa an toàn",
+
+      "description": "Chúng tôi tuân thủ các quy trình xử lý hàng hóa nghiêm ngặt và tiêu chuẩn ngành quốc tế để bảo vệ mọi lô hàng từ lúc nhận hàng đến khi giao đến điểm cuối."
+    },
+
+    "partnerships": {
+      "title": "Quan hệ đối tác đáng tin cậy",
+
+      "description": "Thông qua hợp tác với các đối tác logistics uy tín và các công ty vận tải toàn cầu, chúng tôi cung cấp các giải pháp vận chuyển linh hoạt đáp ứng nhu cầu thay đổi của khách hàng. Chúng tôi cũng hợp tác với Cainiao Global để nâng cao hiệu quả logistics."
+    }
+  },
+
+  "contact": {
+    "tag": "LIÊN HỆ",
+
+    "title": "Chúng tôi vận chuyển hàng hóa của bạn một cách an tâm",
+
+    "description": "Dù bạn cần vận chuyển quốc tế hay hỗ trợ logistics, đội ngũ giàu kinh nghiệm của chúng tôi luôn sẵn sàng cung cấp các giải pháp đáng tin cậy phù hợp với nhu cầu của bạn.",
+
+    "info": {
+      "title": "Kết nối với chúng tôi",
+
+      "description": "Chúng tôi cung cấp hỗ trợ logistics chuyên nghiệp và trợ giúp nhanh chóng cho mọi câu hỏi liên quan đến vận chuyển.",
+
+      "viber": "Viber",
+
+      "support": "Hỗ trợ khách hàng 24/7",
+
+      "worldwide": "Phục vụ khách hàng trên toàn thế giới"
+    }
+  },
+
+  "donate": {
+    "title": "Hỗ trợ mạng lưới logistics của chúng tôi",
+
+    "description": "Sự hỗ trợ của bạn giúp chúng tôi phát triển cơ sở hạ tầng vận tải toàn cầu."
+  },
+
+  "gallery": {
+    "tag": "VẬN TẢI TOÀN CẦU",
+
+    "title": "Chúng tôi vận chuyển hàng hóa qua mọi đại dương trên thế giới",
+
+    "description": "Mỗi lô hàng thể hiện cam kết của chúng tôi về sự đáng tin cậy, chính xác và các giải pháp logistics đẳng cấp thế giới."
+  }
+}

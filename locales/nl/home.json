@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "title": "Wereldwijde verzending.<br>Met precisie geleverd.",
+
+    "description": "Veilige vrachtoplossingen over zee, door de lucht en over land met realtime tracking van zendingen."
+  },
+
+  "services": {
+    "tag": "ONZE EXPERTISE",
+
+    "title": "Geïntegreerde wereldwijde logistieke oplossingen",
+
+    "description": "Wij bieden betrouwbare vracht- en supply chain-oplossingen via zee-, lucht- en landtransport, evenals opslagdiensten, ondersteund door wereldwijde logistieke expertise en realtime inzicht.",
+
+    "seaFreight": {
+      "title": "Zeevracht",
+
+      "description": "Kostenefficiënte Full Container Load (FCL) en Less than Container Load (LCL) transportoplossingen die belangrijke havens wereldwijd verbinden met betrouwbare planning en zichtbaarheid van vracht."
+    },
+
+    "airFreight": {
+      "title": "Luchtvracht",
+
+      "description": "Snelle internationale luchtvrachtdiensten met prioritaire behandeling, douanecoördinatie en veilig transport voor dringende zendingen wereldwijd."
+    },
+
+    "landTransport": {
+      "title": "Landtransport",
+
+      "description": "Betrouwbaar nationaal en grensoverschrijdend wegtransport ondersteund door modern wagenparkbeheer, realtime tracking en ervaren logistieke professionals."
+    },
+
+    "warehousing": {
+      "title": "Opslagbeheer",
+
+      "description": "Veilige opslag, voorraadbeheer, distributie en fulfilmentoplossingen ontworpen om uw supply chain efficiënter te maken."
+    }
+  },
+
+  "tracking": {
+    "title": "Zending volgen",
+
+    "placeholder": "Voer trackingnummer in"
+  },
+
+  "stats": {
+    "title": "Wereldwijd logistiek netwerk",
+
+    "ports": {
+      "value": "120+",
+
+      "label": "Verbonden havens"
+    },
+
+    "countries": {
+      "value": "50+",
+
+      "label": "Bediende landen"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+
+      "label": "Zending monitoring"
+    },
+
+    "reliability": {
+      "value": "99%",
+
+      "label": "Leveringsbetrouwbaarheid"
+    }
+  },
+
+  "why": {
+    "tag": "WAAROM VOOR ONS KIEZEN",
+
+    "title": "Betrouwbare wereldwijde logistieke oplossingen",
+
+    "description": "SDC Shipping Freight biedt betrouwbare internationale vracht- en logistieke diensten met branchekennis, moderne trackingtechnologie en een sterke focus op veilige en tijdige leveringen voor bedrijven en particuliere klanten wereldwijd.",
+
+    "network": {
+      "title": "Wereldwijd logistiek netwerk",
+
+      "description": "Ons wereldwijde logistieke netwerk verbindt belangrijke havens, luchthavens en transportknooppunten en maakt efficiënte goederenstromen mogelijk op internationale markten."
+    },
+
+    "delivery": {
+      "title": "Betrouwbare tijdige levering",
+
+      "description": "Elke zending wordt zorgvuldig gecoördineerd om levertijden te respecteren en tegelijkertijd efficiënte processen en voortdurende communicatie tijdens het transport te garanderen."
+    },
+
+    "security": {
+      "title": "Veilige vrachtbehandeling",
+
+      "description": "Wij volgen strikte procedures voor vrachtbeheer en bewezen industriestandaarden om zendingen vanaf ophalen tot eindlevering te beschermen."
+    },
+
+    "partnerships": {
+      "title": "Vertrouwde industriële partnerschappen",
+
+      "description": "Door samen te werken met betrouwbare logistieke partners en wereldwijde transportbedrijven bieden wij schaalbare verzendoplossingen die aansluiten bij de veranderende behoeften van onze klanten. Daarnaast werken wij samen met Cainiao Global om logistieke efficiëntie te verbeteren."
+    }
+  },
+
+  "contact": {
+    "tag": "CONTACT",
+
+    "title": "Wij vervoeren uw vracht met vertrouwen",
+
+    "description": "Of het nu gaat om internationale verzending of logistieke ondersteuning, ons ervaren team biedt betrouwbare oplossingen die zijn afgestemd op uw behoeften.",
+
+    "info": {
+      "title": "Neem contact op",
+
+      "description": "Wij bieden professionele logistieke ondersteuning en snelle hulp bij alle verzendvragen.",
+
+      "viber": "Viber",
+
+      "support": "24/7 klantenservice",
+
+      "worldwide": "Klanten wereldwijd bedienen"
+    }
+  },
+
+  "donate": {
+    "title": "Ondersteun ons logistieke netwerk",
+
+    "description": "Uw ondersteuning helpt bij het verbeteren van wereldwijde verzendinfrastructuur."
+  },
+
+  "gallery": {
+    "tag": "WERELDWIJDE VERZENDING",
+
+    "title": "Wij vervoeren vracht over alle oceanen",
+
+    "description": "Elke zending staat voor onze toewijding aan betrouwbaarheid, precisie en eersteklas logistieke oplossingen."
+  }
+}

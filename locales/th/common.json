@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "เลือกภาษา"
+  },
+
+  "loading": "กำลังโหลด...",
+
+  "buttons": {
+    "accept": "ยอมรับ",
+
+    "decline": "ปฏิเสธ",
+
+    "trackShipment": "ติดตามพัสดุ",
+
+    "getQuote": "ขอใบเสนอราคา",
+
+    "track": "ติดตาม",
+
+    "sendMessage": "ส่งข้อความ",
+
+    "donateNow": "บริจาคตอนนี้"
+  },
+
+  "actions": {
+    "learnMore": "เรียนรู้เพิ่มเติม",
+
+    "viewDetails": "ดูรายละเอียด",
+
+    "close": "ปิด",
+
+    "submit": "ส่ง",
+
+    "cancel": "ยกเลิก"
+  },
+
+  "status": {
+    "active": "ใช้งาน",
+
+    "inactive": "ไม่ใช้งาน",
+
+    "success": "สำเร็จ",
+
+    "failed": "ล้มเหลว",
+
+    "pending": "รอดำเนินการ"
+  },
+
+  "navigation": {
+    "home": "หน้าแรก",
+
+    "about": "เกี่ยวกับเรา",
+
+    "services": "บริการ",
+
+    "contact": "ติดต่อ",
+
+    "tracking": "ติดตามพัสดุ"
+  },
+
+  "messages": {
+    "welcome": "ยินดีต้อนรับสู่ SDC Shipping Freight",
+
+    "thankYou": "ขอบคุณที่ติดต่อเรา",
+
+    "tryAgain": "โปรดลองอีกครั้งในภายหลัง"
+  }
+}

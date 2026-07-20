@@ -1,0 +1,36 @@
+{
+  "title": "Kontaktujte nás",
+
+  "hero": {
+    "tag": "KONTAKTUJTE NÁS",
+    "title": "Přepravíme váš náklad s důvěrou",
+    "description": "Ať už přepravujete zboží mezinárodně nebo potřebujete logistickou podporu, náš zkušený tým je připraven poskytnout spolehlivá řešení přizpůsobená vašim požadavkům."
+  },
+
+  "information": {
+    "title": "Kontaktujte nás",
+    "description": "Zavazujeme se poskytovat profesionální logistickou podporu a rychlou pomoc při všech dotazech týkajících se přepravy.",
+
+    "email": "contact@sdcshippingfreight.com",
+    "phone": "+1 732 916 8175",
+    "support": "Zákaznická podpora 24/7",
+    "worldwide": "Obsluhujeme klienty po celém světě"
+  },
+
+  "form": {
+    "name": "Celé jméno",
+    "email": "E-mailová adresa",
+    "message": "Jak vám dnes můžeme pomoci?",
+    "button": "Odeslat zprávu"
+  },
+
+  "success": {
+    "message": "Vaše zpráva byla úspěšně odeslána. Náš tým vás bude brzy kontaktovat."
+  },
+
+  "errors": {
+    "required": "Vyplňte prosím všechna povinná pole.",
+    "email": "Zadejte prosím platnou e-mailovou adresu.",
+    "failed": "Zprávu se nepodařilo odeslat. Zkuste to prosím později."
+  }
+}

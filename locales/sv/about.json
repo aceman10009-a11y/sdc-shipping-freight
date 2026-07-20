@@ -1,0 +1,63 @@
+{
+  "title": "Om SDC Shipping Freight",
+
+  "hero": {
+    "tag": "OM OSS",
+
+    "title": "Vi förbinder världshandeln med pålitlig logistik",
+
+    "description": "SDC Shipping Freight erbjuder tillförlitliga internationella logistiklösningar genom sjöfrakt, flygfrakt, landtransporter, lagerhållning och professionell godshantering."
+  },
+
+  "company": {
+    "title": "Om företaget",
+
+    "description": "SDC Shipping Freight är ett globalt logistikföretag som levererar säkra, effektiva och transparenta transportlösningar för företag och privatkunder över hela världen."
+  },
+
+  "mission": {
+    "title": "Vårt uppdrag",
+
+    "description": "Vårt uppdrag är att förenkla globala transporter genom att kombinera modern logistikteknik, pålitliga partnerskap och enastående kundservice."
+  },
+
+  "vision": {
+    "title": "Vår vision",
+
+    "description": "Vi strävar efter att vara en globalt betrodd logistikpartner, erkänd för tillförlitlighet, innovation och excellens inom internationella leveranskedjor."
+  },
+
+  "values": {
+    "title": "Våra kärnvärden",
+
+    "reliability": {
+      "title": "Tillförlitlighet",
+
+      "description": "Vi levererar konsekvent hög servicekvalitet, punktliga leveranser och pålitliga logistikprocesser som uppfyller våra kunders förväntningar."
+    },
+
+    "security": {
+      "title": "Säkerhet",
+
+      "description": "Vi skyddar varje försändelse genom noggrann godshantering, kontinuerlig övervakning och efterlevnad av branschens bästa standarder."
+    },
+
+    "innovation": {
+      "title": "Innovation",
+
+      "description": "Vi använder modern teknik och lösningar för realtidsövervakning för att förbättra effektiviteten inom global logistik."
+    },
+
+    "partnership": {
+      "title": "Partnerskap",
+
+      "description": "Vi bygger starka och långsiktiga relationer med kunder, transportörer och logistikpartners över hela världen."
+    }
+  },
+
+  "global": {
+    "title": "Globalt logistiskt nätverk",
+
+    "description": "Genom strategiska partnerskap och internationella transportnätverk hjälper vi företag att nå globala marknader och bygga effektiva leveranskedjor."
+  }
+}

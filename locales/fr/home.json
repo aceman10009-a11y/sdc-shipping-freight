@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Expédition mondiale.<br>Livrée avec précision.",
+
+    "description": "Des solutions de transport sécurisées par mer, air et terre avec un suivi des expéditions en temps réel."
+  },
+
+  "services": {
+    "tag": "NOTRE EXPERTISE",
+
+    "title": "Solutions logistiques mondiales intégrées",
+
+    "description": "Nous fournissons des solutions fiables de transport et de chaîne d'approvisionnement grâce au fret maritime, aérien, terrestre et aux services d'entreposage, soutenues par une expertise logistique mondiale et une visibilité en temps réel.",
+
+    "sea": {
+      "title": "Fret maritime",
+
+      "description": "Des services économiques de chargement complet (FCL) et de groupage (LCL) reliant les principaux ports mondiaux avec une planification fiable et une visibilité sur les marchandises."
+    },
+
+    "air": {
+      "title": "Fret aérien",
+
+      "description": "Des services internationaux de fret aérien rapides avec une manutention prioritaire, une coordination douanière et un transport sécurisé pour les expéditions urgentes."
+    },
+
+    "land": {
+      "title": "Transport terrestre",
+
+      "description": "Des solutions fiables de transport routier national et transfrontalier soutenues par une gestion moderne de flotte, un suivi en temps réel et des professionnels expérimentés."
+    },
+
+    "warehouse": {
+      "title": "Entreposage",
+
+      "description": "Des solutions sécurisées d'entreposage, de gestion des stocks, de distribution et de préparation des commandes conçues pour optimiser votre chaîne logistique."
+    }
+  },
+
+  "tracking": {
+    "title": "Suivre une expédition",
+
+    "placeholder": "Entrez votre numéro de suivi"
+  },
+
+  "stats": {
+    "title": "Réseau logistique mondial",
+
+    "ports": {
+      "value": "120+",
+      "label": "Ports connectés"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Pays desservis"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+      "label": "Surveillance des expéditions"
+    },
+
+    "reliability": {
+      "value": "99%",
+      "label": "Fiabilité des livraisons"
+    }
+  },
+
+  "why": {
+    "tag": "POURQUOI NOUS CHOISIR",
+
+    "title": "Des solutions logistiques mondiales de confiance",
+
+    "description": "SDC Shipping Freight fournit des services internationaux de transport et de logistique soutenus par une expertise du secteur, un suivi avancé des expéditions et un engagement envers des livraisons sécurisées et ponctuelles pour les entreprises et les particuliers du monde entier.",
+
+    "network": {
+      "title": "Réseau logistique mondial",
+
+      "description": "Notre réseau logistique mondial relie les principaux ports, aéroports et centres de transport afin de garantir un déplacement efficace des marchandises sur les marchés internationaux."
+    },
+
+    "delivery": {
+      "title": "Livraison fiable dans les délais",
+
+      "description": "Chaque expédition est soigneusement coordonnée afin de respecter les délais tout en maintenant une efficacité opérationnelle et une communication constante tout au long du transport."
+    },
+
+    "security": {
+      "title": "Gestion sécurisée des marchandises",
+
+      "description": "Nous appliquons des procédures strictes de manutention et les meilleures pratiques du secteur afin de protéger les expéditions de la collecte jusqu'à la livraison finale."
+    },
+
+    "partnerships": {
+      "title": "Partenariats industriels de confiance",
+
+      "description": "Grâce à nos collaborations avec des partenaires logistiques et transporteurs mondiaux reconnus, nous proposons des solutions évolutives répondant aux besoins changeants de nos clients. Nous travaillons également avec Cainiao Global pour améliorer l'efficacité logistique."
+    }
+  },
+
+  "contact": {
+    "tag": "CONTACTEZ-NOUS",
+
+    "title": "Déplaçons votre marchandise en toute confiance",
+
+    "description": "Que vous ayez besoin d'un transport international ou d'un soutien logistique, notre équipe expérimentée est prête à fournir des solutions adaptées à vos besoins.",
+
+    "info": {
+      "title": "Contactez-nous",
+
+      "description": "Nous sommes engagés à fournir un support logistique professionnel et une assistance rapide pour toutes vos demandes d'expédition.",
+
+      "viber": "Viber",
+
+      "support": "Assistance client 24/7",
+
+      "worldwide": "Clients servis dans le monde entier"
+    }
+  },
+
+  "donate": {
+    "title": "Soutenez notre réseau logistique",
+
+    "description": "Votre soutien contribue à améliorer l'infrastructure mondiale du transport."
+  },
+
+  "gallery": {
+    "tag": "EXPÉDITION MONDIALE",
+
+    "title": "Transporter des marchandises à travers tous les océans",
+
+    "description": "Chaque expédition reflète notre engagement envers la fiabilité, la précision et des solutions logistiques de classe mondiale."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Tjänster",
+
+  "tag": "LOGISTIKTJÄNSTER",
+
+  "hero": {
+    "title": "Globala transportlösningar anpassade efter dina behov",
+
+    "description": "Från sjöfrakt och flygfrakt till hantering av leveranskedjor erbjuder SDC Shipping Freight tillförlitliga logistiklösningar för kunder över hela världen."
+  },
+
+  "seaFreight": {
+    "title": "Sjöfrakt",
+
+    "description": "Vi erbjuder tillförlitliga sjöfraktstjänster, inklusive Full Container Load (FCL) och Less than Container Load (LCL), som förbinder världens största hamnar med säkra och effektiva transportlösningar."
+  },
+
+  "airFreight": {
+    "title": "Flygfrakt",
+
+    "description": "Snabba och säkra internationella flygfrakttjänster med prioriterad hantering och samordning av tullklarering för brådskande försändelser."
+  },
+
+  "landTransport": {
+    "title": "Landtransporter",
+
+    "description": "Effektiva nationella och internationella vägtransporttjänster med stöd av erfarna logistikexperter och modern spårningsteknik."
+  },
+
+  "warehousing": {
+    "title": "Lagerhållning",
+
+    "description": "Säkra tjänster för lagerhållning, lagerhantering, distribution och orderuppfyllelse, utformade för att förbättra effektiviteten i din leveranskedja."
+  },
+
+  "customs": {
+    "title": "Tullklarering",
+
+    "description": "Professionella tullklareringstjänster som säkerställer att ditt gods uppfyller internationella bestämmelser och passerar gränserna effektivt."
+  },
+
+  "forwarding": {
+    "title": "Speditionsservice",
+
+    "description": "Fullständig hantering av transporter från ursprung till slutdestination genom ett globalt nätverk av pålitliga logistikpartners."
+  }
+}

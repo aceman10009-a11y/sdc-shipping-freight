@@ -1,0 +1,47 @@
+{
+  "title": "Diensten",
+
+  "tag": "LOGISTIEKE DIENSTEN",
+
+  "hero": {
+    "title": "Wereldwijde transportoplossingen afgestemd op uw behoeften",
+
+    "description": "Van zeevracht tot luchttransport en supply chain management biedt SDC Shipping Freight betrouwbare logistieke oplossingen wereldwijd."
+  },
+
+  "seaFreight": {
+    "title": "Zeevracht",
+
+    "description": "Wij bieden betrouwbare zeevrachtdiensten inclusief Full Container Load (FCL) en Less than Container Load (LCL), waarmee belangrijke havens wereldwijd met elkaar worden verbonden."
+  },
+
+  "airFreight": {
+    "title": "Luchtvracht",
+
+    "description": "Snelle en veilige internationale luchtvrachtdiensten met prioritaire behandeling en douanecoördinatie voor tijdkritische zendingen."
+  },
+
+  "landTransport": {
+    "title": "Landtransport",
+
+    "description": "Efficiënte nationale en internationale wegtransportdiensten ondersteund door ervaren logistieke professionals en moderne trackingtechnologie."
+  },
+
+  "warehousing": {
+    "title": "Opslagbeheer",
+
+    "description": "Veilige opslag, voorraadbeheer, distributie en fulfilmentdiensten ontworpen om de efficiëntie van uw supply chain te verbeteren."
+  },
+
+  "customs": {
+    "title": "Douanediensten",
+
+    "description": "Professionele douanebegeleiding om ervoor te zorgen dat zendingen soepel verlopen volgens internationale regelgeving."
+  },
+
+  "forwarding": {
+    "title": "Expeditie",
+
+    "description": "Uitgebreid transportbeheer van oorsprong tot bestemming via een wereldwijd netwerk van betrouwbare logistieke partners."
+  }
+}

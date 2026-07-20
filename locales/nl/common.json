@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Selecteer taal"
+  },
+
+  "loading": "Laden...",
+
+  "buttons": {
+    "accept": "Accepteren",
+
+    "decline": "Weigeren",
+
+    "trackShipment": "Zending volgen",
+
+    "getQuote": "Offerte aanvragen",
+
+    "track": "Volgen",
+
+    "sendMessage": "Bericht verzenden",
+
+    "donateNow": "Nu doneren"
+  },
+
+  "actions": {
+    "learnMore": "Meer informatie",
+
+    "viewDetails": "Details bekijken",
+
+    "close": "Sluiten",
+
+    "submit": "Verzenden",
+
+    "cancel": "Annuleren"
+  },
+
+  "status": {
+    "active": "Actief",
+
+    "inactive": "Inactief",
+
+    "success": "Succesvol",
+
+    "failed": "Mislukt",
+
+    "pending": "In behandeling"
+  },
+
+  "navigation": {
+    "home": "Home",
+
+    "about": "Over ons",
+
+    "services": "Diensten",
+
+    "contact": "Contact",
+
+    "tracking": "Zending volgen"
+  },
+
+  "messages": {
+    "welcome": "Welkom bij SDC Shipping Freight",
+
+    "thankYou": "Bedankt voor uw aanvraag.",
+
+    "tryAgain": "Probeer het later opnieuw."
+  }
+}

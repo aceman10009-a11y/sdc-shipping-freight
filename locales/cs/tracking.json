@@ -1,0 +1,83 @@
+{
+  "title": "Sledování zásilky",
+
+  "hero": {
+    "tag": "SLEDOVÁNÍ ZÁSILKY",
+
+    "title": "Sledujte svůj náklad v reálném čase",
+
+    "description": "Sledujte cestu své zásilky s aktuálním přehledem, informacemi o předpokládaném doručení a podrobnými logistickými aktualizacemi."
+  },
+
+  "form": {
+    "placeholder": "Zadejte ID zásilky",
+
+    "button": "Sledovat zásilku"
+  },
+
+  "status": {
+    "searching": "Vyhledávání informací o zásilce...",
+
+    "found": "Zásilka nalezena",
+
+    "notFound": "Pro toto ID zásilky nebyla nalezena žádná zásilka."
+  },
+
+  "details": {
+    "trackingId": "ID zásilky",
+
+    "status": "Stav zásilky",
+
+    "location": "Aktuální poloha",
+
+    "origin": "Výchozí místo",
+
+    "destination": "Cílové místo",
+
+    "departure": "Datum odeslání",
+
+    "arrival": "Předpokládané doručení",
+
+    "carrier": "Přepravce",
+
+    "vessel": "Informace o plavidle"
+  },
+
+  "shipmentStatus": {
+    "pending": "Čekající",
+
+    "processing": "Zpracovává se",
+
+    "inTransit": "Na cestě",
+
+    "arrived": "Dorazilo",
+
+    "delivered": "Doručeno",
+
+    "delayed": "Zpožděno"
+  },
+
+  "timeline": {
+    "title": "Cesta zásilky",
+
+    "created": "Zásilka vytvořena",
+
+    "pickedUp": "Náklad vyzvednut",
+
+    "departed": "Opustilo výchozí přístav",
+
+    "transit": "Mezinárodní přeprava",
+
+    "destination": "Dorazilo do cílové destinace",
+
+    "completed": "Doručení dokončeno"
+  },
+
+  "errors": {
+    "empty": "Zadejte prosím ID zásilky.",
+
+    "invalid": "Neplatné informace o zásilce.",
+
+    "system": "Nelze načíst podrobnosti o zásilce. Zkuste to prosím později."
+  }
+}

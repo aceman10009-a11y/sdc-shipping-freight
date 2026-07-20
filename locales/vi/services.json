@@ -1,0 +1,47 @@
+{
+  "title": "Dịch vụ",
+
+  "tag": "DỊCH VỤ LOGISTICS",
+
+  "hero": {
+    "title": "Giải pháp vận chuyển toàn cầu được thiết kế theo nhu cầu của bạn",
+
+    "description": "Từ vận tải đường biển và đường hàng không đến quản lý chuỗi cung ứng, SDC Shipping Freight cung cấp các giải pháp logistics đáng tin cậy cho khách hàng trên toàn thế giới."
+  },
+
+  "seaFreight": {
+    "title": "Vận tải đường biển",
+
+    "description": "Chúng tôi cung cấp dịch vụ vận tải đường biển đáng tin cậy, bao gồm vận chuyển nguyên container (FCL) và hàng lẻ (LCL), kết nối các cảng chính trên thế giới bằng các giải pháp vận chuyển an toàn và hiệu quả."
+  },
+
+  "airFreight": {
+    "title": "Vận tải hàng không",
+
+    "description": "Dịch vụ vận chuyển hàng không quốc tế nhanh chóng và an toàn với xử lý ưu tiên, phối hợp thủ tục hải quan cho các lô hàng khẩn cấp."
+  },
+
+  "landTransport": {
+    "title": "Vận tải đường bộ",
+
+    "description": "Dịch vụ vận tải đường bộ nội địa và quốc tế hiệu quả, được hỗ trợ bởi các chuyên gia logistics giàu kinh nghiệm và công nghệ theo dõi hiện đại."
+  },
+
+  "warehousing": {
+    "title": "Kho bãi",
+
+    "description": "Dịch vụ lưu kho an toàn, quản lý tồn kho, phân phối và hoàn tất đơn hàng được thiết kế để nâng cao hiệu quả chuỗi cung ứng của bạn."
+  },
+
+  "customs": {
+    "title": "Thủ tục hải quan",
+
+    "description": "Dịch vụ khai báo và xử lý thủ tục hải quan chuyên nghiệp, đảm bảo hàng hóa của bạn tuân thủ các quy định quốc tế và được thông quan hiệu quả."
+  },
+
+  "forwarding": {
+    "title": "Dịch vụ giao nhận",
+
+    "description": "Quản lý vận chuyển toàn diện từ điểm xuất phát đến điểm đến cuối cùng thông qua mạng lưới các đối tác logistics đáng tin cậy trên toàn cầu."
+  }
+}

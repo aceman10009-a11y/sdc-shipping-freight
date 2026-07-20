@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Wystąpił nieznany błąd. Spróbuj ponownie później.",
+
+    "network": "Wystąpił błąd sieci. Sprawdź połączenie internetowe i spróbuj ponownie.",
+
+    "server": "Wystąpił błąd serwera. Spróbuj ponownie później."
+  },
+
+  "tracking": {
+    "empty": "Proszę wprowadzić numer śledzenia.",
+
+    "notFound": "Nie znaleziono informacji o przesyłce dla tego numeru śledzenia.",
+
+    "failed": "Nie można pobrać informacji o przesyłce. Spróbuj ponownie później."
+  },
+
+  "form": {
+    "required": "To pole jest wymagane.",
+
+    "invalidEmail": "Proszę podać prawidłowy adres e-mail.",
+
+    "submissionFailed": "Nie udało się wysłać formularza. Spróbuj ponownie."
+  },
+
+  "donateComingSoon": "Funkcja płatności będzie dostępna wkrótce."
+}

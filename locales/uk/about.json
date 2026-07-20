@@ -1,0 +1,83 @@
+{
+  "title": "Gönderi Takibi",
+
+  "hero": {
+    "tag": "GÖNDERİ TAKİBİ",
+
+    "title": "Yükünüzü Gerçek Zamanlı Takip Edin",
+
+    "description": "Gerçek zamanlı takip, tahmini varış süresi ve ayrıntılı lojistik güncellemeleriyle gönderinizin yolculuğunu izleyin."
+  },
+
+  "form": {
+    "placeholder": "Takip numarasını girin",
+
+    "button": "Gönderiyi Takip Et"
+  },
+
+  "status": {
+    "searching": "Gönderi bilgileri aranıyor...",
+
+    "found": "Gönderi bilgileri bulundu",
+
+    "notFound": "Bu takip numarası için herhangi bir bilgi bulunamadı."
+  },
+
+  "details": {
+    "trackingId": "Takip Numarası",
+
+    "status": "Gönderi Durumu",
+
+    "location": "Mevcut Konum",
+
+    "origin": "Çıkış Noktası",
+
+    "destination": "Varış Noktası",
+
+    "departure": "Gönderim Tarihi",
+
+    "arrival": "Tahmini Varış",
+
+    "carrier": "Taşıyıcı",
+
+    "vessel": "Gemi Bilgileri"
+  },
+
+  "shipmentStatus": {
+    "pending": "Beklemede",
+
+    "processing": "İşleniyor",
+
+    "inTransit": "Taşıma Sürecinde",
+
+    "arrived": "Varış Yapıldı",
+
+    "delivered": "Teslim Edildi",
+
+    "delayed": "Gecikmeli"
+  },
+
+  "timeline": {
+    "title": "Gönderi Zaman Çizelgesi",
+
+    "created": "Gönderi oluşturuldu",
+
+    "pickedUp": "Yük teslim alındı",
+
+    "departed": "Çıkış limanından ayrıldı",
+
+    "transit": "Uluslararası taşıma",
+
+    "destination": "Varış noktasına ulaştı",
+
+    "completed": "Gönderi tamamlandı"
+  },
+
+  "errors": {
+    "empty": "Lütfen bir takip numarası girin.",
+
+    "invalid": "Geçersiz takip bilgisi.",
+
+    "system": "Gönderi bilgileri yüklenemedi. Lütfen daha sonra tekrar deneyin."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Servizi",
+
+    "track": "Tracciamento",
+
+    "why": "Perché noi",
+
+    "contact": "Contatti",
+
+    "donate": "Dona"
+  },
+
+  "buttons": {
+    "accept": "Accetta",
+
+    "decline": "Rifiuta",
+
+    "trackShipment": "Traccia spedizione",
+
+    "getQuote": "Richiedi preventivo",
+
+    "track": "Traccia",
+
+    "sendMessage": "Invia messaggio",
+
+    "donateNow": "Dona ora"
+  },
+
+  "cookie": {
+    "title": "🍪 Informativa sui cookie",
+
+    "description": "SDC Shipping Freight utilizza cookie essenziali per migliorare la tua esperienza di navigazione e garantire il corretto funzionamento del sito. Cliccando su Accetta, acconsenti all'utilizzo dei cookie."
+  },
+
+  "forms": {
+    "fullName": "Nome completo",
+
+    "emailAddress": "Indirizzo email",
+
+    "trackingId": "Inserisci ID spedizione",
+
+    "message": "Come possiamo aiutarti oggi?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight offre soluzioni logistiche sicure, affidabili ed efficienti in tutto il mondo. Siamo specializzati in trasporto marittimo, trasporto aereo, magazzinaggio, sdoganamento, spedizioni e gestione completa delle merci.",
+
+    "explore": "Esplora",
+
+    "services": "Servizi",
+
+    "service1": "Trasporto marittimo",
+
+    "service2": "Trasporto aereo",
+
+    "service3": "Magazzinaggio",
+
+    "service4": "Sdoganamento",
+
+    "service5": "Spedizioni",
+
+    "support": "Supporto",
+
+    "website": "Sito web",
+
+    "emailSupport": "Supporto email",
+
+    "viberSupport": "Supporto Viber",
+
+    "liveChat": "Chat dal vivo",
+
+    "contact": "Contatti",
+
+    "viberCustomerSupport": "💬 Supporto clienti Viber",
+
+    "liveSupport": "🟢 Supporto live 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Tutti i diritti riservati."
+  }
+}

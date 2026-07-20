@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "选择语言"
+  },
+
+  "loading": "加载中...",
+
+  "buttons": {
+    "accept": "接受",
+
+    "decline": "拒绝",
+
+    "trackShipment": "追踪货件",
+
+    "getQuote": "获取报价",
+
+    "track": "追踪",
+
+    "sendMessage": "发送消息",
+
+    "donateNow": "立即捐赠"
+  },
+
+  "actions": {
+    "learnMore": "了解更多",
+
+    "viewDetails": "查看详情",
+
+    "close": "关闭",
+
+    "submit": "提交",
+
+    "cancel": "取消"
+  },
+
+  "status": {
+    "active": "启用",
+
+    "inactive": "停用",
+
+    "success": "成功",
+
+    "failed": "失败",
+
+    "pending": "处理中"
+  },
+
+  "navigation": {
+    "home": "首页",
+
+    "about": "关于我们",
+
+    "services": "服务",
+
+    "contact": "联系我们",
+
+    "tracking": "货件追踪"
+  },
+
+  "messages": {
+    "welcome": "欢迎来到 SDC Shipping Freight",
+
+    "thankYou": "感谢您联系我们。",
+
+    "tryAgain": "请稍后再试。"
+  }
+}

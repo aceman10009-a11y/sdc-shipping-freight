@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Dịch vụ",
+
+    "track": "Theo dõi",
+
+    "why": "Tại sao chúng tôi",
+
+    "contact": "Liên hệ",
+
+    "donate": "Quyên góp"
+  },
+
+  "buttons": {
+    "accept": "Chấp nhận",
+
+    "decline": "Từ chối",
+
+    "trackShipment": "Theo dõi lô hàng",
+
+    "getQuote": "Nhận báo giá",
+
+    "track": "Theo dõi",
+
+    "sendMessage": "Gửi tin nhắn",
+
+    "donateNow": "Quyên góp ngay"
+  },
+
+  "cookie": {
+    "title": "🍪 Thông báo Cookie",
+
+    "description": "SDC Shipping Freight sử dụng các cookie cần thiết để đảm bảo website hoạt động chính xác và cải thiện trải nghiệm người dùng của bạn. Bằng cách nhấp vào \"Chấp nhận\", bạn đồng ý với việc chúng tôi sử dụng cookie."
+  },
+
+  "forms": {
+    "fullName": "Họ và tên",
+
+    "emailAddress": "Địa chỉ email",
+
+    "trackingId": "Nhập mã theo dõi",
+
+    "message": "Hôm nay chúng tôi có thể hỗ trợ bạn điều gì?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight cung cấp các giải pháp logistics an toàn, đáng tin cậy và hiệu quả trên toàn thế giới. Chúng tôi chuyên về vận tải đường biển, vận tải hàng không, kho bãi, thủ tục hải quan, dịch vụ giao nhận và quản lý vận chuyển toàn diện.",
+
+    "explore": "Khám phá",
+
+    "services": "Dịch vụ",
+
+    "service1": "Vận tải đường biển",
+
+    "service2": "Vận tải hàng không",
+
+    "service3": "Kho bãi",
+
+    "service4": "Thủ tục hải quan",
+
+    "service5": "Dịch vụ giao nhận",
+
+    "support": "Hỗ trợ",
+
+    "website": "Website",
+
+    "emailSupport": "Hỗ trợ qua email",
+
+    "viberSupport": "Hỗ trợ qua Viber",
+
+    "liveChat": "Trò chuyện trực tiếp",
+
+    "contact": "Liên hệ",
+
+    "viberCustomerSupport": "💬 Hỗ trợ khách hàng qua Viber",
+
+    "liveSupport": "🟢 Hỗ trợ trực tuyến 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Bảo lưu mọi quyền."
+  }
+}

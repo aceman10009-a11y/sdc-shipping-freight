@@ -1,0 +1,83 @@
+{
+  "title": "Urmărirea expedierii",
+
+  "hero": {
+    "tag": "URMĂRIREA EXPEDIERII",
+
+    "title": "Monitorizați marfa dumneavoastră în timp real",
+
+    "description": "Urmăriți parcursul expedierii cu vizibilitate în timp real, informații privind ora estimată de sosire și actualizări logistice detaliate."
+  },
+
+  "form": {
+    "placeholder": "Introduceți numărul de urmărire",
+
+    "button": "Urmărește expedierea"
+  },
+
+  "status": {
+    "searching": "Se caută informațiile despre expediere...",
+
+    "found": "Informațiile despre expediere au fost găsite",
+
+    "notFound": "Nu au fost găsite informații pentru acest număr de urmărire."
+  },
+
+  "details": {
+    "trackingId": "Număr de urmărire",
+
+    "status": "Starea expedierii",
+
+    "location": "Locația curentă",
+
+    "origin": "Punct de plecare",
+
+    "destination": "Destinație",
+
+    "departure": "Data plecării",
+
+    "arrival": "Sosire estimată",
+
+    "carrier": "Transportator",
+
+    "vessel": "Informații despre navă"
+  },
+
+  "shipmentStatus": {
+    "pending": "În așteptare",
+
+    "processing": "În procesare",
+
+    "inTransit": "În tranzit",
+
+    "arrived": "Sosit",
+
+    "delivered": "Livrat",
+
+    "delayed": "Întârziat"
+  },
+
+  "timeline": {
+    "title": "Evoluția expedierii",
+
+    "created": "Expedierea a fost creată",
+
+    "pickedUp": "Marfa a fost preluată",
+
+    "departed": "A plecat din portul de origine",
+
+    "transit": "În transport internațional",
+
+    "destination": "A ajuns la destinație",
+
+    "completed": "Expedierea a fost finalizată"
+  },
+
+  "errors": {
+    "empty": "Vă rugăm să introduceți numărul de urmărire.",
+
+    "invalid": "Informații de urmărire nevalide.",
+
+    "system": "Nu s-au putut încărca detaliile expedierii. Vă rugăm să încercați din nou mai târziu."
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "hero": {
+    "title": "Global frakt.<br>Levert med presisjon.",
+
+    "description": "Sikre fraktløsninger til sjøs, i luften og på land med sporing av forsendelser i sanntid."
+  },
+
+  "services": {
+    "tag": "VÅR EKSPERTISE",
+
+    "title": "Integrerte globale logistikkløsninger",
+
+    "description": "Vi tilbyr pålitelige frakt- og forsyningskjedeløsninger gjennom sjø-, luft- og landtransport samt lagerhåndtering, støttet av global logistikkekspertise og sanntidssynlighet.",
+
+    "seaFreight": {
+      "title": "Sjøfrakt",
+
+      "description": "Kostnadseffektive Full Container Load (FCL)- og Less than Container Load (LCL)-transporttjenester som kobler sammen viktige havner over hele verden med pålitelig planlegging og synlighet for lasten."
+    },
+
+    "airFreight": {
+      "title": "Luftfrakt",
+
+      "description": "Raske internasjonale luftfrakttjenester med prioritert behandling, tollkoordinering og sikker transport for hastende forsendelser over hele verden."
+    },
+
+    "landTransport": {
+      "title": "Landtransport",
+
+      "description": "Pålitelig nasjonal og grenseoverskridende veitransport støttet av moderne flåtestyring, sanntidssporing og erfarne logistikkfagfolk."
+    },
+
+    "warehousing": {
+      "title": "Lagerhåndtering",
+
+      "description": "Sikker lagring, lagerstyring, distribusjon og oppfyllelsestjenester utviklet for å effektivisere forsyningskjeden din."
+    }
+  },
+
+  "tracking": {
+    "title": "Spor forsendelse",
+
+    "placeholder": "Skriv inn sporingsnummer"
+  },
+
+  "stats": {
+    "title": "Globalt logistikknettverk",
+
+    "ports": {
+      "value": "120+",
+
+      "label": "Tilkoblede havner"
+    },
+
+    "countries": {
+      "value": "50+",
+
+      "label": "Betjente land"
+    },
+
+    "monitoring": {
+      "value": "24/7",
+
+      "label": "Overvåking av forsendelser"
+    },
+
+    "reliability": {
+      "value": "99%",
+
+      "label": "Leveringspålitelighet"
+    }
+  },
+
+  "why": {
+    "tag": "HVORFOR VELGE OSS",
+
+    "title": "På­litelige globale logistikkløsninger",
+
+    "description": "SDC Shipping Freight tilbyr pålitelige internasjonale frakt- og logistikktjenester med bransjeerfaring, moderne sporingsteknologi og et sterkt fokus på sikre og punktlige leveranser til bedrifter og privatkunder over hele verden.",
+
+    "network": {
+      "title": "Globalt logistikknettverk",
+
+      "description": "Vårt globale logistikknettverk kobler sammen viktige havner, flyplasser og transportknutepunkter og muliggjør effektiv vareflyt i internasjonale markeder."
+    },
+
+    "delivery": {
+      "title": "Pålitelig levering til rett tid",
+
+      "description": "Hver forsendelse koordineres nøye for å overholde leveringstider samtidig som vi sikrer effektive prosesser og kontinuerlig kommunikasjon gjennom hele transporten."
+    },
+
+    "security": {
+      "title": "Sikker lasthåndtering",
+
+      "description": "Vi følger strenge prosedyrer for lasthåndtering og anerkjente bransjestandarder for å beskytte forsendelser fra henting til endelig levering."
+    },
+
+    "partnerships": {
+      "title": "Pålitelige bransjepartnerskap",
+
+      "description": "Gjennom samarbeid med anerkjente logistikkpartnere og globale transportselskaper tilbyr vi skalerbare fraktløsninger som møter kundenes utviklende behov. Vi samarbeider også med Cainiao Global for å forbedre logistikkeffektiviteten."
+    }
+  },
+
+  "contact": {
+    "tag": "KONTAKT",
+
+    "title": "Vi flytter lasten din med tillit",
+
+    "description": "Enten det gjelder internasjonal frakt eller logistikkstøtte, tilbyr vårt erfarne team pålitelige løsninger tilpasset dine behov.",
+
+    "info": {
+      "title": "Ta kontakt",
+
+      "description": "Vi tilbyr profesjonell logistikkstøtte og rask hjelp for alle fraktforespørsler.",
+
+      "viber": "Viber",
+
+      "support": "24/7 kundestøtte",
+
+      "worldwide": "Betjener kunder over hele verden"
+    }
+  },
+
+  "donate": {
+    "title": "Støtt vårt logistikknettverk",
+
+    "description": "Din støtte bidrar til å forbedre den globale fraktinfrastrukturen."
+  },
+
+  "gallery": {
+    "tag": "GLOBAL FRAKT",
+
+    "title": "Vi flytter last over alle verdenshav",
+
+    "description": "Hver forsendelse representerer vårt engasjement for pålitelighet, presisjon og førsteklasses logistikkløsninger."
+  }
+}

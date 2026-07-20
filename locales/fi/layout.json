@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Palvelut",
+
+    "track": "Seuranta",
+
+    "why": "Miksi me",
+
+    "contact": "Yhteystiedot",
+
+    "donate": "Lahjoita"
+  },
+
+  "buttons": {
+    "accept": "Hyväksy",
+
+    "decline": "Hylkää",
+
+    "trackShipment": "Seuraa lähetystä",
+
+    "getQuote": "Pyydä tarjous",
+
+    "track": "Seuraa",
+
+    "sendMessage": "Lähetä viesti",
+
+    "donateNow": "Lahjoita nyt"
+  },
+
+  "cookie": {
+    "title": "🍪 Evästeilmoitus",
+
+    "description": "SDC Shipping Freight käyttää välttämättömiä evästeitä parantaakseen selauskokemustasi ja varmistaakseen verkkosivuston oikean toiminnan. Hyväksymällä hyväksyt evästeiden käytön."
+  },
+
+  "forms": {
+    "fullName": "Koko nimi",
+
+    "emailAddress": "Sähköpostiosoite",
+
+    "trackingId": "Syötä seurantanumero",
+
+    "message": "Kuinka voimme auttaa tänään?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight tarjoaa turvallisia, luotettavia ja tehokkaita logistiikkaratkaisuja maailmanlaajuisesti. Erikoistumme merirahtiin, lentorahtiin, varastointiin, tulliselvityksiin, huolintaan ja kokonaisvaltaiseen rahdin hallintaan.",
+
+    "explore": "Tutustu",
+
+    "services": "Palvelut",
+
+    "service1": "Merirahti",
+
+    "service2": "Lentorahti",
+
+    "service3": "Varastointi",
+
+    "service4": "Tulliselvitys",
+
+    "service5": "Huolinta",
+
+    "support": "Tuki",
+
+    "website": "Verkkosivusto",
+
+    "emailSupport": "Sähköpostituki",
+
+    "viberSupport": "Viber-tuki",
+
+    "liveChat": "Live-chat-tuki",
+
+    "contact": "Yhteystiedot",
+
+    "viberCustomerSupport": "💬 Viber-asiakastuki",
+
+    "liveSupport": "🟢 24/7 Live-tuki",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Kaikki oikeudet pidätetään."
+  }
+}

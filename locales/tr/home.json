@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "title": "Küresel Taşımacılık.<br>Hassasiyetle Teslim Edilir.",
+
+    "description": "Gerçek zamanlı gönderi takibiyle deniz, hava ve kara taşımacılığında güvenilir lojistik çözümleri."
+  },
+
+  "services": {
+    "tag": "UZMANLIĞIMIZ",
+
+    "title": "Entegre Küresel Lojistik Çözümleri",
+
+    "description": "Deniz taşımacılığı, hava taşımacılığı, kara taşımacılığı ve depolama hizmetleriyle güvenilir taşıma ve tedarik zinciri çözümleri sunuyor; küresel lojistik uzmanlığımız ve gerçek zamanlı takip sistemlerimizle hizmet veriyoruz.",
+
+    "seaFreight": {
+      "title": "Deniz Taşımacılığı",
+
+      "description": "Dünyanın önemli limanlarını güvenilir sefer planlaması ve yük görünürlüğü ile birbirine bağlayan, uygun maliyetli Tam Konteyner Yükü (FCL) ve Parsiyel Konteyner Yükü (LCL) taşımacılığı hizmetleri."
+    },
+
+    "airFreight": {
+      "title": "Hava Taşımacılığı",
+
+      "description": "Acil gönderiler için öncelikli işlem, gümrük koordinasyonu ve güvenli taşımacılık sunan hızlı uluslararası hava kargo hizmetleri."
+    },
+
+    "landTransport": {
+      "title": "Kara Taşımacılığı",
+
+      "description": "Modern filo yönetimi, gerçek zamanlı takip ve deneyimli lojistik uzmanları tarafından desteklenen güvenilir yurt içi ve uluslararası kara taşımacılığı hizmetleri."
+    },
+
+    "warehousing": {
+      "title": "Depolama",
+
+      "description": "Tedarik zincirinizi optimize etmek için tasarlanmış güvenli depolama, stok yönetimi, dağıtım ve sipariş karşılama hizmetleri."
+    }
+  },
+
+  "tracking": {
+    "title": "Gönderi Takibi",
+
+    "placeholder": "Takip numarasını girin"
+  },
+
+  "stats": {
+    "title": "Küresel Lojistik Ağı",
+
+    "ports": {
+      "value": "120+",
+      "label": "Bağlantılı Liman"
+    },
+
+    "countries": {
+      "value": "50+",
+      "label": "Hizmet Verilen Ülke"
+    },
+
+    "monitoring": {
+      "value": "7/24",
+      "label": "Gönderi Takibi"
+    },
+
+    "reliability": {
+      "value": "%99",
+      "label": "Teslimat Güvenilirliği"
+    }
+  },
+
+  "why": {
+    "tag": "NEDEN BİZİ TERCİH ETMELİSİNİZ",
+
+    "title": "Güvenilir Küresel Lojistik Çözümleri",
+
+    "description": "SDC Shipping Freight; sektör deneyimi, gelişmiş takip teknolojileri ve işletmeler ile bireysel müşteriler için güvenli ve zamanında teslimata olan bağlılığıyla güvenilir uluslararası taşımacılık ve lojistik hizmetleri sunmaktadır.",
+
+    "network": {
+      "title": "Küresel Lojistik Ağı",
+
+      "description": "Küresel lojistik ağımız; büyük limanları, havalimanlarını ve taşımacılık merkezlerini birbirine bağlayarak uluslararası pazarlarda yüklerin verimli şekilde taşınmasını sağlar."
+    },
+
+    "delivery": {
+      "title": "Zamanında ve Güvenilir Teslimat",
+
+      "description": "Her gönderi, teslimat sürelerine uyacak şekilde titizlikle koordine edilir ve taşıma sürecinin tamamında verimli operasyonlar ile sürekli iletişim sağlanır."
+    },
+
+    "security": {
+      "title": "Güvenli Yük Yönetimi",
+
+      "description": "Her gönderiyi teslim alınmasından nihai teslimata kadar korumak için sıkı yük yönetimi prosedürleri ve uluslararası sektör standartları uyguluyoruz."
+    },
+
+    "partnerships": {
+      "title": "Güvenilir İş Ortaklıkları",
+
+      "description": "Güvenilir lojistik ortakları ve küresel taşımacılık şirketleriyle iş birliği yaparak müşterilerimizin değişen ihtiyaçlarına uygun ölçeklenebilir taşımacılık çözümleri sunuyoruz. Ayrıca lojistik verimliliğini artırmak için Cainiao Global ile de iş ortaklığı yapıyoruz."
+    }
+  },
+
+  "contact": {
+    "tag": "İLETİŞİM",
+
+    "title": "Yükünüzü güvenle taşıyoruz",
+
+    "description": "Uluslararası taşımacılık veya lojistik desteğine ihtiyacınız olsun, deneyimli ekibimiz ihtiyaçlarınıza uygun güvenilir çözümler sunmaya hazırdır.",
+
+    "info": {
+      "title": "Bizimle İletişime Geçin",
+
+      "description": "Taşımacılıkla ilgili tüm sorularınız için profesyonel lojistik desteği ve hızlı yardım sunuyoruz.",
+
+      "viber": "Viber",
+
+      "support": "7/24 Müşteri Desteği",
+
+      "worldwide": "Dünya çapındaki müşterilere hizmet veriyoruz"
+    }
+  },
+
+  "donate": {
+    "title": "Lojistik Ağımızı Destekleyin",
+
+    "description": "Desteğiniz, küresel taşımacılık altyapımızı geliştirmemize yardımcı olur."
+  },
+
+  "gallery": {
+    "tag": "KÜRESEL TAŞIMACILIK",
+
+    "title": "Yükleri dünyanın tüm okyanuslarında taşıyoruz",
+
+    "description": "Her sevkiyat; güvenilirlik, hassasiyet ve dünya standartlarında lojistik çözümlerine olan bağlılığımızı yansıtır."
+  }
+}

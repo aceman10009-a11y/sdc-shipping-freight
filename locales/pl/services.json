@@ -1,0 +1,47 @@
+{
+  "title": "Usługi",
+
+  "tag": "USŁUGI LOGISTYCZNE",
+
+  "hero": {
+    "title": "Globalne rozwiązania transportowe dopasowane do Twoich potrzeb",
+
+    "description": "Od transportu morskiego po przewozy lotnicze i zarządzanie łańcuchem dostaw, SDC Shipping Freight zapewnia niezawodne rozwiązania logistyczne na całym świecie."
+  },
+
+  "seaFreight": {
+    "title": "Transport morski",
+
+    "description": "Oferujemy niezawodne usługi transportu morskiego obejmujące Full Container Load (FCL) oraz Less than Container Load (LCL), łączące najważniejsze porty świata."
+  },
+
+  "airFreight": {
+    "title": "Transport lotniczy",
+
+    "description": "Szybkie i bezpieczne międzynarodowe usługi cargo lotniczego z priorytetową obsługą oraz koordynacją odpraw celnych dla pilnych przesyłek."
+  },
+
+  "landTransport": {
+    "title": "Transport lądowy",
+
+    "description": "Efektywne krajowe i międzynarodowe usługi transportu drogowego wspierane przez doświadczonych specjalistów logistyki oraz nowoczesne technologie śledzenia."
+  },
+
+  "warehousing": {
+    "title": "Magazynowanie",
+
+    "description": "Bezpieczne magazynowanie, zarządzanie zapasami, dystrybucja oraz usługi realizacji zamówień zaprojektowane w celu zwiększenia efektywności Twojego łańcucha dostaw."
+  },
+
+  "customs": {
+    "title": "Usługi celne",
+
+    "description": "Profesjonalna obsługa i koordynacja odpraw celnych zapewniająca sprawny przepływ przesyłek zgodnie z międzynarodowymi przepisami."
+  },
+
+  "forwarding": {
+    "title": "Spedycja",
+
+    "description": "Kompleksowe zarządzanie transportem od miejsca pochodzenia do miejsca docelowego poprzez globalną sieć zaufanych partnerów logistycznych."
+  }
+}

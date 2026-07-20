@@ -1,0 +1,83 @@
+{
+  "title": "Track Shipment",
+
+  "hero": {
+    "tag": "SHIPMENT TRACKING",
+
+    "title": "Monitor Your Cargo In Real Time",
+
+    "description": "Track your shipment journey with real-time visibility, estimated arrival information, and detailed logistics updates."
+  },
+
+  "form": {
+    "placeholder": "Enter Tracking ID",
+
+    "button": "Track Shipment"
+  },
+
+  "status": {
+    "searching": "Searching shipment information...",
+
+    "found": "Shipment Found",
+
+    "notFound": "No shipment was found with this tracking ID."
+  },
+
+  "details": {
+    "trackingId": "Tracking ID",
+
+    "status": "Shipment Status",
+
+    "location": "Current Location",
+
+    "origin": "Origin",
+
+    "destination": "Destination",
+
+    "departure": "Departure Date",
+
+    "arrival": "Estimated Arrival",
+
+    "carrier": "Carrier",
+
+    "vessel": "Vessel Information"
+  },
+
+  "shipmentStatus": {
+    "pending": "Pending",
+
+    "processing": "Processing",
+
+    "inTransit": "In Transit",
+
+    "arrived": "Arrived",
+
+    "delivered": "Delivered",
+
+    "delayed": "Delayed"
+  },
+
+  "timeline": {
+    "title": "Shipment Journey",
+
+    "created": "Shipment Created",
+
+    "pickedUp": "Cargo Picked Up",
+
+    "departed": "Departed Origin Port",
+
+    "transit": "International Transit",
+
+    "destination": "Arrived At Destination",
+
+    "completed": "Delivery Completed"
+  },
+
+  "errors": {
+    "empty": "Please enter a tracking ID.",
+
+    "invalid": "Invalid tracking information.",
+
+    "system": "Unable to retrieve shipment details. Please try again later."
+  }
+}

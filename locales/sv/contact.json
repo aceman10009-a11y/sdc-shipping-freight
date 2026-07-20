@@ -1,0 +1,47 @@
+{
+  "title": "Kontakt",
+
+  "hero": {
+    "tag": "KONTAKTA OSS",
+
+    "title": "Vi transporterar ditt gods med trygghet",
+
+    "description": "Oavsett om du behöver internationell frakt eller logistiksupport erbjuder vårt erfarna team pålitliga lösningar anpassade efter dina behov."
+  },
+
+  "information": {
+    "title": "Kontakta oss",
+
+    "description": "Vi är engagerade i att erbjuda professionell logistiksupport och snabb hjälp för alla frågor som rör godstransporter.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "Kundsupport dygnet runt",
+
+    "worldwide": "Vi betjänar kunder över hela världen"
+  },
+
+  "form": {
+    "name": "Fullständigt namn",
+
+    "email": "E-postadress",
+
+    "message": "Hur kan vi hjälpa dig idag?",
+
+    "button": "Skicka meddelande"
+  },
+
+  "success": {
+    "message": "Ditt meddelande har skickats. Vårt team kommer att kontakta dig inom kort."
+  },
+
+  "errors": {
+    "required": "Vänligen fyll i alla obligatoriska fält.",
+
+    "email": "Ange en giltig e-postadress.",
+
+    "failed": "Meddelandet kunde inte skickas. Försök igen senare."
+  }
+}

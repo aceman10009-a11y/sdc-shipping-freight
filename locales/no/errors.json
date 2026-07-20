@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "En ukjent feil oppstod. Vennligst prøv igjen senere.",
+
+    "network": "En nettverksfeil oppstod. Kontroller internettforbindelsen og prøv igjen.",
+
+    "server": "En serverfeil oppstod. Vennligst prøv igjen senere."
+  },
+
+  "tracking": {
+    "empty": "Vennligst skriv inn sporingsnummeret.",
+
+    "notFound": "Ingen forsendelsesinformasjon ble funnet for dette sporingsnummeret.",
+
+    "failed": "Kunne ikke hente forsendelsesinformasjon. Vennligst prøv igjen senere."
+  },
+
+  "form": {
+    "required": "Dette feltet er obligatorisk.",
+
+    "invalidEmail": "Vennligst skriv inn en gyldig e-postadresse.",
+
+    "submissionFailed": "Skjemaet kunne ikke sendes inn. Vennligst prøv igjen."
+  },
+
+  "donateComingSoon": "Betalingsfunksjonen blir tilgjengelig snart."
+}

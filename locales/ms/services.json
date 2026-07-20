@@ -1,0 +1,47 @@
+{
+  "title": "Perkhidmatan",
+
+  "tag": "Perkhidmatan Logistik",
+
+  "hero": {
+    "title": "Penyelesaian pengangkutan global yang disesuaikan dengan keperluan anda",
+
+    "description": "Daripada pengangkutan laut hingga kargo udara dan pengurusan rantaian bekalan, SDC Shipping Freight menyediakan penyelesaian logistik yang boleh dipercayai di seluruh dunia."
+  },
+
+  "seaFreight": {
+    "title": "Pengangkutan laut",
+
+    "description": "Kami menyediakan perkhidmatan pengangkutan laut yang boleh dipercayai termasuk FCL (Full Container Load) dan LCL (Less than Container Load) yang menghubungkan pelabuhan utama di seluruh dunia."
+  },
+
+  "airFreight": {
+    "title": "Pengangkutan udara",
+
+    "description": "Perkhidmatan kargo udara antarabangsa yang pantas dan selamat dengan pengendalian keutamaan serta penyelarasan kastam."
+  },
+
+  "landTransport": {
+    "title": "Pengangkutan darat",
+
+    "description": "Perkhidmatan pengangkutan darat domestik dan antarabangsa yang cekap, disokong oleh profesional logistik berpengalaman dan sistem penjejakan moden."
+  },
+
+  "warehousing": {
+    "title": "Penyimpanan gudang",
+
+    "description": "Perkhidmatan penyimpanan selamat, pengurusan inventori, pengedaran dan pemenuhan pesanan yang direka untuk meningkatkan kecekapan rantaian bekalan."
+  },
+
+  "customs": {
+    "title": "Perkhidmatan kastam",
+
+    "description": "Kami menyediakan penyelarasan kastam profesional untuk memastikan penghantaran bergerak dengan lancar mengikut peraturan antarabangsa."
+  },
+
+  "forwarding": {
+    "title": "Penghantaran kargo",
+
+    "description": "Kami menyediakan pengurusan pengangkutan menyeluruh dari asal hingga destinasi melalui rangkaian rakan logistik global yang dipercayai."
+  }
+}

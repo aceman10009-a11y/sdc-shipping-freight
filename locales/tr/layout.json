@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "brand": "SDC Shipping Freight",
+
+    "services": "Hizmetler",
+
+    "track": "Takip",
+
+    "why": "Neden Biz",
+
+    "contact": "İletişim",
+
+    "donate": "Bağış Yap"
+  },
+
+  "buttons": {
+    "accept": "Kabul Et",
+
+    "decline": "Reddet",
+
+    "trackShipment": "Gönderiyi Takip Et",
+
+    "getQuote": "Teklif Al",
+
+    "track": "Takip Et",
+
+    "sendMessage": "Mesaj Gönder",
+
+    "donateNow": "Şimdi Bağış Yap"
+  },
+
+  "cookie": {
+    "title": "🍪 Çerez Bildirimi",
+
+    "description": "SDC Shipping Freight, web sitesinin doğru çalışmasını sağlamak ve kullanıcı deneyiminizi geliştirmek için gerekli çerezleri kullanır. \"Kabul Et\" seçeneğine tıklayarak çerez kullanımımızı kabul etmiş olursunuz."
+  },
+
+  "forms": {
+    "fullName": "Ad Soyad",
+
+    "emailAddress": "E-posta Adresi",
+
+    "trackingId": "Takip numarasını girin",
+
+    "message": "Bugün size nasıl yardımcı olabiliriz?"
+  },
+
+  "footer": {
+    "company": "SDC Shipping Freight",
+
+    "description": "SDC Shipping Freight, dünya çapında güvenli, güvenilir ve verimli lojistik çözümleri sunmaktadır. Deniz taşımacılığı, hava taşımacılığı, depolama, gümrük işlemleri, yük taşımacılığı organizasyonu ve kapsamlı taşımacılık yönetimi konularında uzmanız.",
+
+    "explore": "Keşfet",
+
+    "services": "Hizmetler",
+
+    "service1": "Deniz Taşımacılığı",
+
+    "service2": "Hava Taşımacılığı",
+
+    "service3": "Depolama",
+
+    "service4": "Gümrük İşlemleri",
+
+    "service5": "Yük Taşımacılığı Organizasyonu",
+
+    "support": "Destek",
+
+    "website": "Web Sitesi",
+
+    "emailSupport": "E-posta Desteği",
+
+    "viberSupport": "Viber Desteği",
+
+    "liveChat": "Canlı Sohbet",
+
+    "contact": "İletişim",
+
+    "viberCustomerSupport": "💬 Viber Müşteri Desteği",
+
+    "liveSupport": "🟢 7/24 Canlı Destek",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Tüm hakları saklıdır."
+  }
+}

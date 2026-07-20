@@ -1,0 +1,27 @@
+{
+  "general": {
+    "unknown": "Tuntematon virhe tapahtui. Yritä myöhemmin uudelleen.",
+
+    "network": "Verkkovirhe. Tarkista internet-yhteytesi ja yritä uudelleen.",
+
+    "server": "Palvelinvirhe. Yritä myöhemmin uudelleen."
+  },
+
+  "tracking": {
+    "empty": "Anna seurantanumero.",
+
+    "notFound": "Lähetystä ei löytynyt tällä seurantanumerolla.",
+
+    "failed": "Lähetyksen tietoja ei voitu hakea. Yritä myöhemmin uudelleen."
+  },
+
+  "form": {
+    "required": "Tämä kenttä on pakollinen.",
+
+    "invalidEmail": "Anna kelvollinen sähköpostiosoite.",
+
+    "submissionFailed": "Lomakkeen lähettäminen epäonnistui. Yritä uudelleen."
+  },
+
+  "donateComingSoon": "Maksujen integrointi tulee saataville pian."
+}

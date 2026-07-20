@@ -1,0 +1,63 @@
+{
+  "title": "Despre SDC Shipping Freight",
+
+  "hero": {
+    "tag": "DESPRE NOI",
+
+    "title": "Conectăm comerțul global prin logistică de încredere",
+
+    "description": "SDC Shipping Freight oferă soluții logistice internaționale fiabile prin transport maritim, aerian, rutier, depozitare și gestionare profesională a mărfurilor."
+  },
+
+  "company": {
+    "title": "Despre companie",
+
+    "description": "SDC Shipping Freight este un furnizor global de servicii logistice care oferă soluții de transport sigure, eficiente și transparente pentru companii și clienți individuali din întreaga lume."
+  },
+
+  "mission": {
+    "title": "Misiunea noastră",
+
+    "description": "Misiunea noastră este să simplificăm transportul global prin combinarea tehnologiei logistice moderne, a parteneriatelor de încredere și a unui serviciu excepțional pentru clienți."
+  },
+
+  "vision": {
+    "title": "Viziunea noastră",
+
+    "description": "Ne propunem să devenim un partener logistic global de încredere, recunoscut pentru fiabilitate, inovație și excelență în lanțurile internaționale de aprovizionare."
+  },
+
+  "values": {
+    "title": "Valorile noastre fundamentale",
+
+    "reliability": {
+      "title": "Fiabilitate",
+
+      "description": "Oferim servicii constante, livrări la timp și procese logistice de încredere pentru a satisface așteptările clienților noștri."
+    },
+
+    "security": {
+      "title": "Securitate",
+
+      "description": "Protejăm fiecare expediere prin manipularea atentă a mărfurilor, monitorizare continuă și respectarea celor mai bune practici din industrie."
+    },
+
+    "innovation": {
+      "title": "Inovație",
+
+      "description": "Utilizăm tehnologii moderne și soluții de vizibilitate în timp real pentru a îmbunătăți eficiența logisticii globale."
+    },
+
+    "partnership": {
+      "title": "Parteneriat",
+
+      "description": "Construim relații solide și de lungă durată cu clienți, transportatori și parteneri logistici din întreaga lume."
+    }
+  },
+
+  "global": {
+    "title": "Rețea logistică globală",
+
+    "description": "Prin parteneriate strategice și rețele internaționale de transport, ajutăm companiile să se conecteze la piețele globale și să construiască lanțuri de aprovizionare eficiente."
+  }
+}

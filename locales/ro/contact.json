@@ -1,0 +1,47 @@
+{
+  "title": "Contact",
+
+  "hero": {
+    "tag": "CONTACTAȚI-NE",
+
+    "title": "Transportăm marfa dumneavoastră cu încredere",
+
+    "description": "Fie că aveți nevoie de transport internațional sau de asistență logistică, echipa noastră experimentată oferă soluții fiabile adaptate cerințelor dumneavoastră."
+  },
+
+  "information": {
+    "title": "Luați legătura cu noi",
+
+    "description": "Ne dedicăm furnizării de asistență logistică profesionistă și răspunsului rapid pentru toate solicitările privind transportul de mărfuri.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "Asistență clienți 24/7",
+
+    "worldwide": "Deservim clienți din întreaga lume"
+  },
+
+  "form": {
+    "name": "Nume complet",
+
+    "email": "Adresă de e-mail",
+
+    "message": "Cum vă putem ajuta astăzi?",
+
+    "button": "Trimite mesajul"
+  },
+
+  "success": {
+    "message": "Mesajul dumneavoastră a fost trimis cu succes. Echipa noastră vă va contacta în curând."
+  },
+
+  "errors": {
+    "required": "Vă rugăm să completați toate câmpurile obligatorii.",
+
+    "email": "Vă rugăm să introduceți o adresă de e-mail validă.",
+
+    "failed": "Mesajul nu a putut fi trimis. Vă rugăm să încercați din nou mai târziu."
+  }
+}

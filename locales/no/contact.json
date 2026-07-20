@@ -1,0 +1,67 @@
+{
+  "language": {
+    "select": "Velg språk"
+  },
+
+  "loading": "Laster...",
+
+  "buttons": {
+    "accept": "Godta",
+
+    "decline": "Avslå",
+
+    "trackShipment": "Spor forsendelse",
+
+    "getQuote": "Be om tilbud",
+
+    "track": "Spor",
+
+    "sendMessage": "Send melding",
+
+    "donateNow": "Doner nå"
+  },
+
+  "actions": {
+    "learnMore": "Lær mer",
+
+    "viewDetails": "Se detaljer",
+
+    "close": "Lukk",
+
+    "submit": "Send inn",
+
+    "cancel": "Avbryt"
+  },
+
+  "status": {
+    "active": "Aktiv",
+
+    "inactive": "Inaktiv",
+
+    "success": "Vellykket",
+
+    "failed": "Mislyktes",
+
+    "pending": "Venter"
+  },
+
+  "navigation": {
+    "home": "Hjem",
+
+    "about": "Om oss",
+
+    "services": "Tjenester",
+
+    "contact": "Kontakt",
+
+    "tracking": "Spor forsendelse"
+  },
+
+  "messages": {
+    "welcome": "Velkommen til SDC Shipping Freight",
+
+    "thankYou": "Takk for din henvendelse.",
+
+    "tryAgain": "Vennligst prøv igjen senere."
+  }
+}

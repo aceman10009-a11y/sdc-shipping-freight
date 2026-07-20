@@ -1,0 +1,51 @@
+{
+  "language": {
+    "select": "Vælg sprog"
+  },
+
+  "loading": "Indlæser...",
+
+  "actions": {
+    "learnMore": "Læs mere",
+
+    "viewDetails": "Se detaljer",
+
+    "close": "Luk",
+
+    "submit": "Send",
+
+    "cancel": "Annuller"
+  },
+
+  "status": {
+    "active": "Aktiv",
+
+    "inactive": "Inaktiv",
+
+    "success": "Gennemført",
+
+    "failed": "Mislykkedes",
+
+    "pending": "Afventer"
+  },
+
+  "navigation": {
+    "home": "Hjem",
+
+    "about": "Om os",
+
+    "services": "Tjenester",
+
+    "contact": "Kontakt",
+
+    "tracking": "Sporing"
+  },
+
+  "messages": {
+    "welcome": "Velkommen til SDC Shipping Freight",
+
+    "thankYou": "Tak for din henvendelse.",
+
+    "tryAgain": "Prøv venligst igen senere."
+  }
+}

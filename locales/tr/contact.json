@@ -1,0 +1,47 @@
+{
+  "title": "İletişim",
+
+  "hero": {
+    "tag": "BİZE ULAŞIN",
+
+    "title": "Yükünüzü güvenle taşıyoruz",
+
+    "description": "Uluslararası taşımacılık veya lojistik desteğine ihtiyacınız olsun, deneyimli ekibimiz ihtiyaçlarınıza uygun güvenilir çözümler sunmaya hazırdır."
+  },
+
+  "information": {
+    "title": "Bizimle İletişime Geçin",
+
+    "description": "Taşımacılıkla ilgili tüm sorularınız için profesyonel lojistik desteği ve hızlı yardım sunmaya kararlıyız.",
+
+    "email": "contact@sdcshippingfreight.com",
+
+    "phone": "+1 732 916 8175",
+
+    "support": "7/24 Müşteri Desteği",
+
+    "worldwide": "Dünya çapındaki müşterilere hizmet veriyoruz"
+  },
+
+  "form": {
+    "name": "Ad Soyad",
+
+    "email": "E-posta Adresi",
+
+    "message": "Bugün size nasıl yardımcı olabiliriz?",
+
+    "button": "Mesaj Gönder"
+  },
+
+  "success": {
+    "message": "Mesajınız başarıyla gönderildi. Ekibimiz en kısa sürede sizinle iletişime geçecektir."
+  },
+
+  "errors": {
+    "required": "Lütfen zorunlu alanların tamamını doldurun.",
+
+    "email": "Lütfen geçerli bir e-posta adresi girin.",
+
+    "failed": "Mesaj gönderilemedi. Lütfen daha sonra tekrar deneyin."
+  }
+}

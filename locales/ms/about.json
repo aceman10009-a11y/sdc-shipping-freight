@@ -1,0 +1,63 @@
+{
+  "title": "Mengenai SDC Shipping Freight",
+
+  "hero": {
+    "tag": "TENTANG KAMI",
+
+    "title": "Menghubungkan perdagangan global dengan logistik yang boleh dipercayai",
+
+    "description": "SDC Shipping Freight menyediakan penyelesaian logistik antarabangsa yang dipercayai melalui pengangkutan laut, udara, darat, penyimpanan gudang dan pengurusan kargo profesional."
+  },
+
+  "company": {
+    "title": "Tentang kami",
+
+    "description": "SDC Shipping Freight ialah penyedia perkhidmatan logistik global yang berdedikasi untuk menyediakan penyelesaian pengangkutan yang selamat, cekap dan telus kepada perniagaan serta pelanggan individu di seluruh dunia."
+  },
+
+  "mission": {
+    "title": "Misi kami",
+
+    "description": "Misi kami adalah untuk memudahkan penghantaran global dengan menggabungkan teknologi logistik moden, kerjasama yang dipercayai dan perkhidmatan pelanggan yang cemerlang."
+  },
+
+  "vision": {
+    "title": "Visi kami",
+
+    "description": "Menjadi rakan logistik global yang dipercayai dan dikenali kerana kebolehpercayaan, inovasi serta kecemerlangan dalam rantaian bekalan antarabangsa."
+  },
+
+  "values": {
+    "title": "Nilai teras kami",
+
+    "reliability": {
+      "title": "Kebolehpercayaan",
+
+      "description": "Kami komited untuk menyediakan perkhidmatan yang konsisten, penghantaran tepat pada masa dan operasi logistik yang boleh dipercayai."
+    },
+
+    "security": {
+      "title": "Keselamatan",
+
+      "description": "Kami melindungi setiap penghantaran melalui pengendalian yang teliti, pemantauan berterusan dan amalan terbaik industri."
+    },
+
+    "innovation": {
+      "title": "Inovasi",
+
+      "description": "Kami menggunakan teknologi moden dan penyelesaian keterlihatan masa nyata untuk meningkatkan kecekapan logistik global."
+    },
+
+    "partnership": {
+      "title": "Kerjasama",
+
+      "description": "Kami membina hubungan kukuh dengan pelanggan, pengangkut dan rakan logistik di seluruh dunia."
+    }
+  },
+
+  "global": {
+    "title": "Rangkaian logistik global",
+
+    "description": "Melalui kerjasama strategik dan rangkaian pengangkutan antarabangsa, kami menghubungkan perniagaan dengan pasaran global."
+  }
+}

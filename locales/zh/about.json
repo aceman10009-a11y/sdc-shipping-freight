@@ -1,0 +1,83 @@
+{
+  "title": "Theo dõi lô hàng",
+
+  "hero": {
+    "tag": "THEO DÕI LÔ HÀNG",
+
+    "title": "Theo dõi hàng hóa của bạn theo thời gian thực",
+
+    "description": "Giám sát hành trình lô hàng của bạn với tính năng theo dõi thời gian thực, thời gian đến dự kiến và các cập nhật logistics chi tiết."
+  },
+
+  "form": {
+    "placeholder": "Nhập mã theo dõi",
+
+    "button": "Theo dõi lô hàng"
+  },
+
+  "status": {
+    "searching": "Đang tìm kiếm thông tin lô hàng...",
+
+    "found": "Đã tìm thấy thông tin lô hàng",
+
+    "notFound": "Không tìm thấy thông tin cho mã theo dõi này."
+  },
+
+  "details": {
+    "trackingId": "Mã theo dõi",
+
+    "status": "Trạng thái lô hàng",
+
+    "location": "Vị trí hiện tại",
+
+    "origin": "Điểm xuất phát",
+
+    "destination": "Điểm đến",
+
+    "departure": "Ngày khởi hành",
+
+    "arrival": "Ngày đến dự kiến",
+
+    "carrier": "Đơn vị vận chuyển",
+
+    "vessel": "Thông tin tàu"
+  },
+
+  "shipmentStatus": {
+    "pending": "Đang chờ",
+
+    "processing": "Đang xử lý",
+
+    "inTransit": "Đang vận chuyển",
+
+    "arrived": "Đã đến nơi",
+
+    "delivered": "Đã giao hàng",
+
+    "delayed": "Bị trì hoãn"
+  },
+
+  "timeline": {
+    "title": "Tiến trình vận chuyển",
+
+    "created": "Đã tạo lô hàng",
+
+    "pickedUp": "Đã nhận hàng",
+
+    "departed": "Đã rời cảng xuất phát",
+
+    "transit": "Đang vận chuyển quốc tế",
+
+    "destination": "Đã đến điểm đến",
+
+    "completed": "Đã hoàn tất lô hàng"
+  },
+
+  "errors": {
+    "empty": "Vui lòng nhập mã theo dõi.",
+
+    "invalid": "Thông tin theo dõi không hợp lệ.",
+
+    "system": "Không thể tải thông tin lô hàng. Vui lòng thử lại sau."
+  }
+}

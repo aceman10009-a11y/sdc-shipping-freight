@@ -1,0 +1,47 @@
+{
+  "title": "Naše služby",
+
+  "tag": "LOGISTICKÉ SLUŽBY",
+
+  "hero": {
+    "title": "Globální přepravní řešení vytvořená podle vašich potřeb",
+
+    "description": "Od námořní přepravy přes letecký náklad až po řízení dodavatelského řetězce poskytuje SDC Shipping Freight spolehlivá logistická řešení po celém světě."
+  },
+
+  "seaFreight": {
+    "title": "Námořní přeprava",
+
+    "description": "Spolehlivá řešení námořní přepravy včetně služeb Full Container Load (FCL) a Less than Container Load (LCL), která propojují světové přístavy."
+  },
+
+  "airFreight": {
+    "title": "Letecká přeprava",
+
+    "description": "Rychlá a bezpečná mezinárodní letecká přeprava nákladu s prioritním zpracováním a koordinací celních procesů."
+  },
+
+  "landTransport": {
+    "title": "Pozemní doprava",
+
+    "description": "Efektivní domácí a přeshraniční přeprava podporovaná zkušenými logistickými profesionály a moderními řešeními sledování."
+  },
+
+  "warehousing": {
+    "title": "Skladování",
+
+    "description": "Bezpečné skladování, správa zásob, distribuce a řešení plnění objednávek navržená pro efektivní dodavatelské řetězce."
+  },
+
+  "customs": {
+    "title": "Celní odbavení",
+
+    "description": "Profesionální koordinace celních procesů, která pomáhá zásilkám hladce procházet mezinárodními předpisy."
+  },
+
+  "forwarding": {
+    "title": "Spedice",
+
+    "description": "Kompletní koordinace zásilek od místa původu až do cílové destinace prostřednictvím spolehlivých globálních logistických partnerství."
+  }
+}
