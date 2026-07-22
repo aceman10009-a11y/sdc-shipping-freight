@@ -1,9 +1,11 @@
 /* ==========================================================
    SDC SHIPPING FREIGHT
-   INTERNATIONALIZATION SYSTEM
+   MULTILINGUAL SYSTEM
 ========================================================== */
 
+
 const supportedLanguages = [
+
     "en",
     "fr",
     "de",
@@ -28,128 +30,256 @@ const supportedLanguages = [
     "th",
     "vi",
     "ms"
+
 ];
+
+
 
 const defaultLanguage = "en";
 
-const translationFiles = [
-    "layout",
-    "common",
-    "home",
-    "services",
-    "about",
-    "contact",
-    "tracking",
-    "errors"
-];
 
-let translations = {};
 
 let currentLanguage =
-    localStorage.getItem("sdc-language");
+    localStorage.getItem("sdc-language")
+    || defaultLanguage;
 
-if (
-    !currentLanguage ||
-    !supportedLanguages.includes(currentLanguage)
-) {
-    currentLanguage = defaultLanguage;
-}
+
 
 /* ==========================================================
-   LOAD SINGLE JSON FILE
+   LOAD TRANSLATION FILE
 ========================================================== */
 
-async function loadTranslationFile(language, file) {
+async function loadTranslationFile(section){
+
 
     try {
 
+
         const response = await fetch(
-
-            `locales/${language}/${file}.json`,
-
-            {
-                cache: "no-cache"
-            }
-
+            `locales/${currentLanguage}/${section}.json`
         );
 
-        if (!response.ok) {
+
+        if(!response.ok){
+
 
             console.error(
-
-                `Missing translation file: ${language}/${file}.json`
-
+                `Missing translation file: ${currentLanguage}/${section}.json`
             );
+
 
             return {};
 
+
         }
+
 
         return await response.json();
 
+
     }
 
-    catch (error) {
+    catch(error){
+
 
         console.error(
-
-            "Translation loading failed:",
-
+            "Translation loading error:",
             error
-
         );
+
 
         return {};
 
+
     }
+
 
 }
 
+
+
 /* ==========================================================
-   LOAD ALL TRANSLATIONS
+   TRANSLATION STORAGE
 ========================================================== */
 
-async function loadTranslations(language = currentLanguage) {
 
-    console.log(
+let translations = {};
 
-        "Loading language:",
 
-        language
 
-    );
+async function loadTranslations(){
 
-    const loadedTranslations = {};
 
-    const requests = translationFiles.map(
+    translations = {};
 
-        file => loadTranslationFile(
 
-            language,
+    const files = [
 
-            file
+        "layout",
+        "common",
+        "home",
+        "services",
+        "about",
+        "contact",
+        "tracking",
+        "errors"
 
-        )
+    ];
 
-    );
 
-    const results = await Promise.all(requests);
 
-    translationFiles.forEach(
+    for(const file of files){
 
-        (file, index) => {
 
-            loadedTranslations[file] = results[index];
+        translations[file] =
+            await loadTranslationFile(file);
+
+
+    }
+
+
+
+    applyTranslations();
+
+
+    updateLanguageSwitcher();
+
+
+}
+
+
+
+/* ==========================================================
+   GET NESTED KEY VALUE
+========================================================== */
+
+
+function getTranslation(path){
+
+
+    return path
+
+        .split(".")
+
+        .reduce(
+
+            (object,key)=>
+
+            object?.[key],
+
+            translations
+
+        );
+
+
+}
+
+
+
+/* ==========================================================
+   APPLY TRANSLATIONS
+========================================================== */
+
+
+function applyTranslations(){
+
+
+
+    document
+
+    .querySelectorAll("[data-i18n]")
+
+    .forEach(element=>{
+
+
+
+        const key =
+            element.dataset.i18n;
+
+
+
+        const value =
+            getTranslation(key);
+
+
+
+        if(value){
+
+
+            element.innerHTML = value;
+
 
         }
 
-    );
 
-    translations = loadedTranslations;
 
-    window.translations = translations;
+    });
+
+
+
+
+
+    document
+
+    .querySelectorAll("[data-i18n-placeholder]")
+
+    .forEach(element=>{
+
+
+
+        const key =
+            element.dataset.i18nPlaceholder;
+
+
+
+        const value =
+            getTranslation(key);
+
+
+
+        if(value){
+
+
+            element.placeholder = value;
+
+
+        }
+
+
+
+    });
+
+
+
+}
+
+
+
+/* ==========================================================
+   CHANGE LANGUAGE
+========================================================== */
+
+
+async function changeLanguage(language){
+
+
+
+    if(
+
+        !supportedLanguages.includes(language)
+
+    ){
+
+        return;
+
+
+    }
+
+
 
     currentLanguage = language;
+
+
 
     localStorage.setItem(
 
@@ -159,207 +289,93 @@ async function loadTranslations(language = currentLanguage) {
 
     );
 
-    applyTranslations();
 
-    updateLanguageSelector();
 
-}
+    await loadTranslations();
 
-/* ==========================================================
-   GET TRANSLATION
-========================================================== */
 
-function getTranslation(path) {
-
-    return path
-
-        .split(".")
-
-        .reduce(
-
-            (object, key) =>
-
-                object?.[key],
-
-            translations
-
-        );
 
 }
+
+
+
 /* ==========================================================
-   APPLY TRANSLATIONS
+   UPDATE LANGUAGE SWITCHER
 ========================================================== */
 
-function applyTranslations() {
+
+function updateLanguageSwitcher(){
+
+
 
     document
-        .querySelectorAll("[data-i18n]")
-        .forEach(element => {
 
-            const key =
-                element.dataset.i18n;
+    .querySelectorAll("[data-language]")
 
-            const value =
-                getTranslation(key);
+    .forEach(button=>{
 
-            if (value !== undefined) {
 
-                /*
-                 * Only use innerHTML when the
-                 * translation intentionally contains HTML.
-                 */
 
-                if (
-                    value.includes("<") &&
-                    value.includes(">")
-                ) {
+        if(
 
-                    element.innerHTML = value;
+            button.dataset.language === currentLanguage
 
-                } else {
+        ){
 
-                    element.textContent = value;
 
-                }
+            button.classList.add("active");
 
-            }
 
-            else {
+        }
 
-                console.warn(
+        else{
 
-                    "Missing translation:",
 
-                    key
+            button.classList.remove("active");
 
-                );
 
-            }
+        }
 
-        });
 
-    document
-        .querySelectorAll("[data-i18n-placeholder]")
-        .forEach(element => {
-
-            const key =
-                element.dataset.i18nPlaceholder;
-
-            const value =
-                getTranslation(key);
-
-            if (value !== undefined) {
-
-                element.placeholder = value;
-
-            }
-
-        });
-
-}
-
-/* ==========================================================
-   UPDATE LANGUAGE SELECTOR
-========================================================== */
-
-function updateLanguageSelector() {
-
-    const selector =
-        document.getElementById(
-            "languageSelect"
-        );
-
-    if (selector) {
-
-        selector.value =
-            currentLanguage;
-
-    }
-
-}
-
-/* ==========================================================
-   CHANGE LANGUAGE
-========================================================== */
-
-async function changeLanguage(language) {
-
-    if (
-        !supportedLanguages.includes(language)
-    ) {
-
-        return;
-
-    }
-
-    if (
-        language === currentLanguage
-    ) {
-
-        return;
-
-    }
-
-    await loadTranslations(language);
-
-}
-
-/* ==========================================================
-   OBSERVE DOM CHANGES
-========================================================== */
-
-const translationObserver =
-
-    new MutationObserver(() => {
-
-        applyTranslations();
 
     });
+
+
+
+    const selector =
+        document.querySelector("#languageSelect");
+
+
+
+    if(selector){
+
+
+        selector.value = currentLanguage;
+
+
+    }
+
+
+
+}
+
+
 
 /* ==========================================================
    START SYSTEM
 ========================================================== */
 
+
 document.addEventListener(
 
     "DOMContentLoaded",
 
-    async () => {
+    ()=>{
 
-        await loadTranslations(currentLanguage);
 
-        translationObserver.observe(
+        loadTranslations();
 
-            document.body,
-
-            {
-
-                childList: true,
-
-                subtree: true
-
-            }
-
-        );
-
-        console.log(
-
-            "SDC Translation System Ready",
-
-            currentLanguage
-
-        );
 
     }
 
 );
-
-/* ==========================================================
-   PUBLIC API
-========================================================== */
-
-window.changeLanguage =
-    changeLanguage;
-
-window.getTranslation =
-    getTranslation;
