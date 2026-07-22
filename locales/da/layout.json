@@ -32,7 +32,7 @@
   "cookie": {
     "title": "🍪 Cookie-meddelelse",
 
-    "description": "SDC Shipping Freight bruger nødvendige cookies for at forbedre din oplevelse på hjemmesiden og sikre, at vores hjemmeside fungerer korrekt. Ved at klikke på Accepter accepterer du vores brug af cookies."
+    "description": "SDC Shipping Freight bruger nødvendige cookies for at forbedre din browseroplevelse og sikre, at vores hjemmeside fungerer korrekt. Ved at klikke på \"Accepter\" accepterer du brugen af cookies."
   },
 
   "forms": {
@@ -40,15 +40,23 @@
 
     "emailAddress": "E-mailadresse",
 
-    "trackingId": "Indtast sporings-ID",
+    "trackingId": "Indtast sporingsnummer",
 
     "message": "Hvordan kan vi hjælpe dig i dag?"
+  },
+
+  "contact": {
+    "getInTouch": "Kom i kontakt",
+
+    "customerSupport": "Kundesupport",
+
+    "servingWorldwide": "Vi betjener kunder over hele verden"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight leverer sikre, pålidelige og effektive logistikløsninger verden over. Vi specialiserer os i søfragt, luftfragt, lagerføring, toldbehandling, speditionsservice og komplet håndtering af gods.",
+    "description": "SDC Shipping Freight leverer sikre, pålidelige og effektive logistikløsninger verden over. Vi specialiserer os i søfragt, luftfragt, lageropbevaring, toldbehandling, spedition og omfattende fragtstyring.",
 
     "explore": "Udforsk",
 
@@ -58,7 +66,7 @@
 
     "service2": "Luftfragt",
 
-    "service3": "Lagerføring",
+    "service3": "Lageropbevaring",
 
     "service4": "Toldbehandling",
 
@@ -72,13 +80,13 @@
 
     "viberSupport": "Viber support",
 
-    "liveChat": "Live chat support",
+    "liveChat": "Live chat",
 
     "contact": "Kontakt",
 
     "viberCustomerSupport": "💬 Viber kundesupport",
 
-    "liveSupport": "🟢 24/7 Live support",
+    "liveSupport": "🟢 Kundesupport døgnet rundt 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Alle rettigheder forbeholdes."
   }

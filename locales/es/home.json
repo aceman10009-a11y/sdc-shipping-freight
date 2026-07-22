@@ -12,25 +12,25 @@
 
     "description": "Ofrecemos soluciones confiables de transporte y cadena de suministro mediante servicios marítimos, aéreos, terrestres y de almacenamiento respaldados por experiencia logística global y visibilidad en tiempo real.",
 
-    "sea": {
+    "seaFreight": {
       "title": "Transporte marítimo",
 
       "description": "Servicios rentables de carga completa (FCL) y carga parcial (LCL) que conectan importantes puertos internacionales con planificación confiable y visibilidad de la mercancía."
     },
 
-    "air": {
+    "airFreight": {
       "title": "Transporte aéreo",
 
       "description": "Servicios internacionales de carga aérea rápida con manejo prioritario, coordinación aduanera y transporte seguro para envíos urgentes."
     },
 
-    "land": {
+    "landTransport": {
       "title": "Transporte terrestre",
 
       "description": "Transporte nacional e internacional confiable mediante carretera, respaldado por gestión moderna de flotas, seguimiento en tiempo real y profesionales logísticos experimentados."
     },
 
-    "warehouse": {
+    "warehousing": {
       "title": "Almacenamiento",
 
       "description": "Servicios seguros de almacenamiento, gestión de inventario, distribución y preparación de pedidos diseñados para optimizar su cadena de suministro."

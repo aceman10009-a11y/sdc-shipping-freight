@@ -32,23 +32,31 @@
   "cookie": {
     "title": "🍪 Aviso de cookies",
 
-    "description": "SDC Shipping Freight utiliza cookies esenciales para mejorar su experiencia de navegación y garantizar el correcto funcionamiento del sitio web. Al hacer clic en Aceptar, acepta nuestro uso de cookies."
+    "description": "SDC Shipping Freight utiliza cookies necesarias para mejorar su experiencia de navegación y garantizar el correcto funcionamiento de nuestro sitio web. Al hacer clic en \"Aceptar\", acepta el uso de cookies."
   },
 
   "forms": {
     "fullName": "Nombre completo",
 
-    "emailAddress": "Correo electrónico",
+    "emailAddress": "Dirección de correo electrónico",
 
     "trackingId": "Introduzca el número de seguimiento",
 
     "message": "¿Cómo podemos ayudarle hoy?"
   },
 
+  "contact": {
+    "getInTouch": "Póngase en contacto",
+
+    "customerSupport": "Atención al cliente",
+
+    "servingWorldwide": "Atendemos clientes en todo el mundo"
+  },
+
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight ofrece soluciones logísticas seguras, confiables y eficientes en todo el mundo. Nos especializamos en transporte marítimo, transporte aéreo, almacenamiento, gestión aduanera, transporte de carga y administración integral de envíos.",
+    "description": "SDC Shipping Freight ofrece soluciones logísticas seguras, confiables y eficientes en todo el mundo. Nos especializamos en transporte marítimo, transporte aéreo, almacenamiento, despacho de aduanas, expedición de carga y gestión integral de mercancías.",
 
     "explore": "Explorar",
 
@@ -60,9 +68,9 @@
 
     "service3": "Almacenamiento",
 
-    "service4": "Gestión aduanera",
+    "service4": "Despacho de aduanas",
 
-    "service5": "Transporte de carga",
+    "service5": "Expedición de carga",
 
     "support": "Soporte",
 
@@ -70,7 +78,7 @@
 
     "emailSupport": "Soporte por correo electrónico",
 
-    "viberSupport": "Soporte Viber",
+    "viberSupport": "Soporte por Viber",
 
     "liveChat": "Chat en vivo",
 
@@ -78,7 +86,7 @@
 
     "viberCustomerSupport": "💬 Atención al cliente por Viber",
 
-    "liveSupport": "🟢 Soporte en vivo 24/7",
+    "liveSupport": "🟢 Soporte continuo 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Todos los derechos reservados."
   }

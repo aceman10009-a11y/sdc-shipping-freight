@@ -30,25 +30,33 @@
   },
 
   "cookie": {
-    "title": "🍪 Informativa sui cookie",
+    "title": "🍪 Notifica sui cookie",
 
-    "description": "SDC Shipping Freight utilizza cookie essenziali per migliorare la tua esperienza di navigazione e garantire il corretto funzionamento del sito. Cliccando su Accetta, acconsenti all'utilizzo dei cookie."
+    "description": "SDC Shipping Freight utilizza cookie essenziali per migliorare la tua esperienza di navigazione e garantire il corretto funzionamento del nostro sito web. Facendo clic su \"Accetta\" acconsenti all'utilizzo dei cookie."
   },
 
   "forms": {
     "fullName": "Nome completo",
 
-    "emailAddress": "Indirizzo email",
+    "emailAddress": "Indirizzo e-mail",
 
-    "trackingId": "Inserisci ID spedizione",
+    "trackingId": "Inserisci il numero di tracciamento",
 
     "message": "Come possiamo aiutarti oggi?"
+  },
+
+  "contact": {
+    "getInTouch": "Mettiti in contatto",
+
+    "customerSupport": "Assistenza clienti",
+
+    "servingWorldwide": "Serviamo clienti in tutto il mondo"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight offre soluzioni logistiche sicure, affidabili ed efficienti in tutto il mondo. Siamo specializzati in trasporto marittimo, trasporto aereo, magazzinaggio, sdoganamento, spedizioni e gestione completa delle merci.",
+    "description": "SDC Shipping Freight fornisce soluzioni logistiche sicure, affidabili ed efficienti in tutto il mondo. Siamo specializzati in trasporto marittimo, trasporto aereo, magazzinaggio, sdoganamento, spedizioni e gestione completa delle merci. Offriamo a aziende e privati servizi di trasporto affidabili sulle principali rotte commerciali globali.",
 
     "explore": "Esplora",
 
@@ -68,7 +76,7 @@
 
     "website": "Sito web",
 
-    "emailSupport": "Supporto email",
+    "emailSupport": "Supporto e-mail",
 
     "viberSupport": "Supporto Viber",
 
@@ -78,7 +86,7 @@
 
     "viberCustomerSupport": "💬 Supporto clienti Viber",
 
-    "liveSupport": "🟢 Supporto live 24/7",
+    "liveSupport": "🟢 Supporto continuo 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Tutti i diritti riservati."
   }

@@ -4,7 +4,7 @@
 
     "services": "Dienstleistungen",
 
-    "track": "Verfolgen",
+    "track": "Sendungsverfolgung",
 
     "why": "Warum wir",
 
@@ -20,7 +20,7 @@
 
     "trackShipment": "Sendung verfolgen",
 
-    "getQuote": "Angebot erhalten",
+    "getQuote": "Angebot anfordern",
 
     "track": "Verfolgen",
 
@@ -32,7 +32,7 @@
   "cookie": {
     "title": "🍪 Cookie-Hinweis",
 
-    "description": "SDC Shipping Freight verwendet notwendige Cookies, um Ihr Browsing-Erlebnis zu verbessern und sicherzustellen, dass unsere Website ordnungsgemäß funktioniert. Durch Klicken auf Akzeptieren stimmen Sie der Verwendung von Cookies zu."
+    "description": "SDC Shipping Freight verwendet notwendige Cookies, um Ihr Surferlebnis zu verbessern und den ordnungsgemäßen Betrieb unserer Website sicherzustellen. Durch Klicken auf „Akzeptieren“ stimmen Sie der Verwendung von Cookies zu."
   },
 
   "forms": {
@@ -45,10 +45,18 @@
     "message": "Wie können wir Ihnen heute helfen?"
   },
 
+  "contact": {
+    "getInTouch": "Kontakt aufnehmen",
+
+    "customerSupport": "Kundensupport",
+
+    "servingWorldwide": "Wir bedienen Kunden weltweit"
+  },
+
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight bietet sichere, zuverlässige und effiziente Logistiklösungen weltweit. Wir sind spezialisiert auf Seefracht, Luftfracht, Lagerhaltung, Zollabwicklung, Spedition und umfassendes Frachtmanagement.",
+    "description": "SDC Shipping Freight bietet weltweit sichere, zuverlässige und effiziente Logistiklösungen. Wir spezialisieren uns auf Seefracht, Luftfracht, Lagerung, Zollabfertigung, Spedition und umfassendes Frachtmanagement.",
 
     "explore": "Entdecken",
 
@@ -58,9 +66,9 @@
 
     "service2": "Luftfracht",
 
-    "service3": "Lagerhaltung",
+    "service3": "Lagerung",
 
-    "service4": "Zollabwicklung",
+    "service4": "Zollabfertigung",
 
     "service5": "Spedition",
 
@@ -72,13 +80,13 @@
 
     "viberSupport": "Viber-Support",
 
-    "liveChat": "Live-Chat-Support",
+    "liveChat": "Live-Chat",
 
     "contact": "Kontakt",
 
     "viberCustomerSupport": "💬 Viber-Kundensupport",
 
-    "liveSupport": "🟢 24/7 Live-Support",
+    "liveSupport": "🟢 Rund-um-die-Uhr-Support 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Alle Rechte vorbehalten."
   }

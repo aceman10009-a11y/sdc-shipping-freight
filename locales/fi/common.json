@@ -5,6 +5,22 @@
 
   "loading": "Ladataan...",
 
+  "buttons": {
+    "accept": "Hyväksy",
+
+    "decline": "Hylkää",
+
+    "trackShipment": "Seuraa lähetystä",
+
+    "getQuote": "Pyydä tarjous",
+
+    "track": "Seuraa",
+
+    "sendMessage": "Lähetä viesti",
+
+    "donateNow": "Lahjoita nyt"
+  },
+
   "actions": {
     "learnMore": "Lue lisää",
 
@@ -42,9 +58,9 @@
   },
 
   "messages": {
-    "welcome": "Tervetuloa SDC Shipping Freightiin",
+    "welcome": "Tervetuloa SDC Shipping Freightille",
 
-    "thankYou": "Kiitos pyynnöstänne.",
+    "thankYou": "Kiitos yhteydenotostasi.",
 
     "tryAgain": "Yritä myöhemmin uudelleen."
   }

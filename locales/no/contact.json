@@ -1,67 +1,47 @@
 {
-  "language": {
-    "select": "Velg språk"
+  "title": "Kontakt Oss",
+
+  "hero": {
+    "tag": "TA KONTAKT",
+    "title": "La Oss Flytte Varene Dine Med Trygghet",
+    "description": "Enten du trenger internasjonal frakt eller logistikkstøtte, er vårt erfarne team klare til å tilby pålitelige løsninger tilpasset dine behov."
   },
 
-  "loading": "Laster...",
+  "information": {
+    "title": "Ta Kontakt",
 
-  "buttons": {
-    "accept": "Godta",
+    "description": "Vi er forpliktet til å tilby profesjonell logistikkstøtte og rask hjelp for alle fraktforespørsler.",
 
-    "decline": "Avslå",
+    "email": "contact@sdcshippingfreight.com",
 
-    "trackShipment": "Spor forsendelse",
+    "phone": "+1 732 916 8175",
 
-    "getQuote": "Be om tilbud",
+    "viber": "Viber",
 
-    "track": "Spor",
+    "support": "Kundestøtte 24/7",
 
-    "sendMessage": "Send melding",
-
-    "donateNow": "Doner nå"
+    "worldwide": "Vi Betjener Kunder Over Hele Verden"
   },
 
-  "actions": {
-    "learnMore": "Lær mer",
+  "form": {
+    "name": "Fullt Navn",
 
-    "viewDetails": "Se detaljer",
+    "email": "E-postadresse",
 
-    "close": "Lukk",
+    "message": "Hvordan kan vi hjelpe deg i dag?",
 
-    "submit": "Send inn",
-
-    "cancel": "Avbryt"
+    "button": "Send Melding"
   },
 
-  "status": {
-    "active": "Aktiv",
-
-    "inactive": "Inaktiv",
-
-    "success": "Vellykket",
-
-    "failed": "Mislyktes",
-
-    "pending": "Venter"
+  "success": {
+    "message": "Meldingen din har blitt sendt. Teamet vårt vil kontakte deg snart."
   },
 
-  "navigation": {
-    "home": "Hjem",
+  "errors": {
+    "required": "Vennligst fyll ut alle obligatoriske felt.",
 
-    "about": "Om oss",
+    "email": "Vennligst oppgi en gyldig e-postadresse.",
 
-    "services": "Tjenester",
-
-    "contact": "Kontakt",
-
-    "tracking": "Spor forsendelse"
-  },
-
-  "messages": {
-    "welcome": "Velkommen til SDC Shipping Freight",
-
-    "thankYou": "Takk for din henvendelse.",
-
-    "tryAgain": "Vennligst prøv igjen senere."
+    "failed": "Kunne ikke sende meldingen din. Vennligst prøv igjen senere."
   }
 }

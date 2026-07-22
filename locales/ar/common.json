@@ -1,68 +1,67 @@
 {
-  "navbar": {
-    "brand": "SDC Shipping Freight",
-    "services": "الخدمات",
-    "track": "تتبع الشحنة",
-    "why": "لماذا نحن",
-    "contact": "اتصل بنا",
-    "donate": "تبرع"
+  "language": {
+    "select": "اختر اللغة"
   },
+
+  "loading": "جارٍ التحميل...",
 
   "buttons": {
     "accept": "قبول",
+
     "decline": "رفض",
+
     "trackShipment": "تتبع الشحنة",
-    "getQuote": "اطلب عرض سعر",
+
+    "getQuote": "احصل على عرض سعر",
+
     "track": "تتبع",
-    "sendMessage": "إرسال رسالة",
+
+    "sendMessage": "إرسال الرسالة",
+
     "donateNow": "تبرع الآن"
   },
 
-  "cookie": {
-    "title": "🍪 إشعار ملفات تعريف الارتباط",
-    "description": "تستخدم SDC Shipping Freight ملفات تعريف ارتباط أساسية لتحسين تجربة التصفح وضمان عمل الموقع بشكل صحيح. بالنقر على قبول، فإنك توافق على استخدام ملفات تعريف الارتباط."
+  "actions": {
+    "learnMore": "اعرف المزيد",
+
+    "viewDetails": "عرض التفاصيل",
+
+    "close": "إغلاق",
+
+    "submit": "إرسال",
+
+    "cancel": "إلغاء"
   },
 
-  "forms": {
-    "fullName": "الاسم الكامل",
-    "emailAddress": "البريد الإلكتروني",
-    "trackingId": "أدخل رقم التتبع",
-    "message": "كيف يمكننا مساعدتك اليوم؟"
+  "status": {
+    "active": "نشط",
+
+    "inactive": "غير نشط",
+
+    "success": "تم بنجاح",
+
+    "failed": "فشل",
+
+    "pending": "قيد الانتظار"
   },
 
-  "contact": {
-    "getInTouch": "تواصل معنا",
-    "customerSupport": "دعم العملاء على مدار الساعة",
-    "servingWorldwide": "نخدم العملاء حول العالم"
-  },
+  "navigation": {
+    "home": "الرئيسية",
 
-  "footer": {
-    "company": "SDC Shipping Freight",
-
-    "description": "تقدم SDC Shipping Freight حلول لوجستية آمنة وموثوقة وفعالة حول العالم. نحن متخصصون في الشحن البحري والجوي، التخزين، التخليص الجمركي، وإدارة الشحنات من البداية إلى النهاية، مع توفير خدمات نقل موثوقة للشركات والأفراد عبر طرق التجارة العالمية.",
-
-    "explore": "استكشف",
+    "about": "من نحن",
 
     "services": "الخدمات",
 
-    "service1": "الشحن البحري",
-    "service2": "الشحن الجوي",
-    "service3": "التخزين",
-    "service4": "التخليص الجمركي",
-    "service5": "إدارة الشحن",
-
-    "support": "الدعم",
-
-    "website": "الموقع الإلكتروني",
-    "emailSupport": "دعم البريد الإلكتروني",
-    "viberSupport": "دعم فايبر",
-    "liveChat": "الدردشة المباشرة",
-
     "contact": "اتصل بنا",
 
-    "viberCustomerSupport": "💬 دعم عملاء فايبر",
-    "liveSupport": "🟢 دعم مباشر 24/7",
+    "tracking": "تتبع الشحنة"
+  },
 
-    "copyright": "© 2014–2026 SDC Shipping Freight. جميع الحقوق محفوظة."
+  "messages": {
+    "welcome": "مرحبًا بكم في SDC Shipping Freight",
+
+    "thankYou": "شكرًا لطلبكم.",
+
+    "tryAgain": "يرجى المحاولة مرة أخرى لاحقًا."
   }
 }

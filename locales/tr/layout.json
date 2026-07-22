@@ -32,7 +32,7 @@
   "cookie": {
     "title": "🍪 Çerez Bildirimi",
 
-    "description": "SDC Shipping Freight, web sitesinin doğru çalışmasını sağlamak ve kullanıcı deneyiminizi geliştirmek için gerekli çerezleri kullanır. \"Kabul Et\" seçeneğine tıklayarak çerez kullanımımızı kabul etmiş olursunuz."
+    "description": "SDC Shipping Freight, gezinme deneyiminizi geliştirmek ve web sitemizin düzgün çalışmasını sağlamak için gerekli çerezleri kullanır. \"Kabul Et\" seçeneğine tıklayarak çerezlerin kullanılmasını kabul etmiş olursunuz."
   },
 
   "forms": {
@@ -40,15 +40,23 @@
 
     "emailAddress": "E-posta Adresi",
 
-    "trackingId": "Takip numarasını girin",
+    "trackingId": "Takip Numarasını Girin",
 
     "message": "Bugün size nasıl yardımcı olabiliriz?"
+  },
+
+  "contact": {
+    "getInTouch": "Bizimle İletişime Geçin",
+
+    "customerSupport": "Müşteri Desteği",
+
+    "servingWorldwide": "Dünya Çapında Hizmet Veriyoruz"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight, dünya çapında güvenli, güvenilir ve verimli lojistik çözümleri sunmaktadır. Deniz taşımacılığı, hava taşımacılığı, depolama, gümrük işlemleri, yük taşımacılığı organizasyonu ve kapsamlı taşımacılık yönetimi konularında uzmanız.",
+    "description": "SDC Shipping Freight, dünya genelinde güvenli, güvenilir ve verimli lojistik çözümleri sunmaktadır. Deniz taşımacılığı, hava taşımacılığı, depolama, gümrükleme, yük taşımacılığı organizasyonu ve kapsamlı kargo yönetimi alanlarında uzmanız. İşletmelere ve bireylere, dünyanın başlıca ticaret rotalarında güvenilir taşımacılık hizmetleri sağlıyoruz.",
 
     "explore": "Keşfet",
 
@@ -60,7 +68,7 @@
 
     "service3": "Depolama",
 
-    "service4": "Gümrük İşlemleri",
+    "service4": "Gümrükleme",
 
     "service5": "Yük Taşımacılığı Organizasyonu",
 

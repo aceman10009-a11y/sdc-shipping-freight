@@ -1,67 +1,47 @@
 {
-  "language": {
-    "select": "Selecteer taal"
+  "title": "Neem Contact Met Ons Op",
+
+  "hero": {
+    "tag": "NEEM CONTACT OP",
+    "title": "Wij Vervoeren Uw Goederen Met Vertrouwen",
+    "description": "Of u nu internationale verzending nodig heeft of logistieke ondersteuning zoekt, ons ervaren team staat klaar om betrouwbare oplossingen te bieden die zijn afgestemd op uw behoeften."
   },
 
-  "loading": "Laden...",
+  "information": {
+    "title": "Neem Contact Op",
 
-  "buttons": {
-    "accept": "Accepteren",
+    "description": "Wij zetten ons in om professionele logistieke ondersteuning en snelle hulp te bieden voor al uw verzendvragen.",
 
-    "decline": "Weigeren",
+    "email": "contact@sdcshippingfreight.com",
 
-    "trackShipment": "Zending volgen",
+    "phone": "+1 732 916 8175",
 
-    "getQuote": "Offerte aanvragen",
+    "viber": "Viber",
 
-    "track": "Volgen",
+    "support": "24/7 Klantenservice",
 
-    "sendMessage": "Bericht verzenden",
-
-    "donateNow": "Nu doneren"
+    "worldwide": "Wij Bedienen Klanten Wereldwijd"
   },
 
-  "actions": {
-    "learnMore": "Meer informatie",
+  "form": {
+    "name": "Volledige Naam",
 
-    "viewDetails": "Details bekijken",
+    "email": "E-mailadres",
 
-    "close": "Sluiten",
+    "message": "Hoe kunnen wij u vandaag helpen?",
 
-    "submit": "Verzenden",
-
-    "cancel": "Annuleren"
+    "button": "Bericht Verzenden"
   },
 
-  "status": {
-    "active": "Actief",
-
-    "inactive": "Inactief",
-
-    "success": "Succesvol",
-
-    "failed": "Mislukt",
-
-    "pending": "In behandeling"
+  "success": {
+    "message": "Uw bericht is succesvol verzonden. Ons team neemt binnenkort contact met u op."
   },
 
-  "navigation": {
-    "home": "Home",
+  "errors": {
+    "required": "Vul alle verplichte velden in.",
 
-    "about": "Over ons",
+    "email": "Voer een geldig e-mailadres in.",
 
-    "services": "Diensten",
-
-    "contact": "Contact",
-
-    "tracking": "Zending volgen"
-  },
-
-  "messages": {
-    "welcome": "Welkom bij SDC Shipping Freight",
-
-    "thankYou": "Bedankt voor uw aanvraag.",
-
-    "tryAgain": "Probeer het later opnieuw."
+    "failed": "Uw bericht kon niet worden verzonden. Probeer het later opnieuw."
   }
 }

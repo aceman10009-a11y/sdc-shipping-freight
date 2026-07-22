@@ -11,22 +11,22 @@
 
     "description": "Poskytujeme spolehlivá přepravní a dodavatelská řešení prostřednictvím námořní, letecké a pozemní dopravy a skladovacích služeb podporovaných globální logistickou odborností a sledováním zásilek v reálném čase.",
 
-    "sea": {
+    "seaFreight": {
       "title": "Námořní přeprava",
       "description": "Cenově efektivní přeprava celých kontejnerů (FCL) a částečných zásilek (LCL) spojující hlavní světové přístavy s pravidelným plánováním a viditelností nákladu."
     },
 
-    "air": {
+    "airFreight": {
       "title": "Letecká přeprava",
       "description": "Rychlá mezinárodní letecká přeprava s prioritním zpracováním, celní koordinací a bezpečnou přepravou urgentních zásilek po celém světě."
     },
 
-    "land": {
+    "landTransport": {
       "title": "Pozemní doprava",
       "description": "Spolehlivá domácí i přeshraniční silniční doprava podporovaná moderním řízením vozového parku, sledováním v reálném čase a zkušenými logistickými odborníky."
     },
 
-    "warehouse": {
+    "warehousing": {
       "title": "Skladování",
       "description": "Bezpečné skladování, řízení zásob, distribuce a plnění objednávek navržené pro zefektivnění vašeho dodavatelského řetězce."
     }

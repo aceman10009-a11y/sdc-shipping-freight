@@ -6,27 +6,25 @@
 
   "services": {
     "tag": "UNSERE KOMPETENZ",
-
     "title": "Integrierte globale Logistiklösungen",
-
     "description": "Wir bieten zuverlässige Fracht- und Lieferkettenlösungen durch See-, Luft- und Landtransport sowie Lagerhaltung, unterstützt durch globale Logistikexpertise und Echtzeit-Transparenz.",
 
-    "sea": {
+    "seaFreight": {
       "title": "Seefracht",
       "description": "Kosteneffiziente Full Container Load (FCL)- und Less than Container Load (LCL)-Transporte, die wichtige Häfen weltweit verbinden und zuverlässige Planung sowie Frachtsichtbarkeit gewährleisten."
     },
 
-    "air": {
+    "airFreight": {
       "title": "Luftfracht",
       "description": "Schnelle internationale Luftfrachtservices mit bevorzugter Abwicklung, Zollkoordination und sicherem Transport für dringende Sendungen weltweit."
     },
 
-    "land": {
+    "landTransport": {
       "title": "Landtransport",
       "description": "Zuverlässiger nationaler und grenzüberschreitender Straßentransport mit moderner Flottenverwaltung, Echtzeit-Tracking und erfahrenen Logistikfachkräften."
     },
 
-    "warehouse": {
+    "warehousing": {
       "title": "Lagerhaltung",
       "description": "Sichere Lagerung, Bestandsverwaltung, Distribution und Fulfillment-Lösungen zur Optimierung Ihrer Lieferkette."
     }
@@ -37,34 +35,22 @@
     "placeholder": "Sendungsnummer eingeben"
   },
 
-  "statistics": {
-    "title": "Globales Logistiknetzwerk",
-    "ports": "Verbundene Häfen",
-    "countries": "Bediente Länder",
-    "monitoring": "Sendungsüberwachung",
-    "reliability": "Zuverlässigkeit der Lieferung"
-  },
-
   "stats": {
     "title": "Globales Logistiknetzwerk",
 
     "ports": {
-      "value": "120+",
       "label": "Verbundene Häfen"
     },
 
     "countries": {
-      "value": "50+",
       "label": "Bediente Länder"
     },
 
     "monitoring": {
-      "value": "24/7",
       "label": "Sendungsüberwachung"
     },
 
     "reliability": {
-      "value": "99%",
       "label": "Zuverlässigkeit der Lieferung"
     }
   },
@@ -88,7 +74,7 @@
 
     "security": {
       "title": "Sichere Frachtabwicklung",
-      "description": "Wir befolgen strenge Verfahren für die Frachtabwicklung und bewährte Branchenstandards, um Sendungen von der Abholung bis zur endgültigen Lieferung zu schützen."
+      "description": "Wir befolgen strenge Verfahren für die Frachtabwicklung und bewährte Branchenstandards, um Sendungen von der Abholung bis zur endgültlichen Lieferung zu schützen."
     },
 
     "partnerships": {
@@ -114,6 +100,12 @@
       "support": "24/7 Kundensupport",
 
       "worldwide": "Wir bedienen Kunden weltweit"
+    },
+
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "message": "Wie können wir Ihnen heute helfen?"
     }
   },
 

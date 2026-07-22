@@ -5,6 +5,22 @@
 
   "loading": "Wird geladen...",
 
+  "buttons": {
+    "accept": "Akzeptieren",
+
+    "decline": "Ablehnen",
+
+    "trackShipment": "Sendung verfolgen",
+
+    "getQuote": "Angebot anfordern",
+
+    "track": "Verfolgen",
+
+    "sendMessage": "Nachricht senden",
+
+    "donateNow": "Jetzt spenden"
+  },
+
   "actions": {
     "learnMore": "Mehr erfahren",
 

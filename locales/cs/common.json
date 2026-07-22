@@ -1,69 +1,67 @@
 {
-  "navbar": {
-    "brand": "SDC Shipping Freight",
-    "services": "Služby",
-    "track": "Sledovat zásilku",
-    "why": "Proč my",
-    "contact": "Kontakt",
-    "donate": "Darovat"
+  "language": {
+    "select": "Vyberte jazyk"
   },
+
+  "loading": "Načítání...",
 
   "buttons": {
     "accept": "Přijmout",
+
     "decline": "Odmítnout",
+
     "trackShipment": "Sledovat zásilku",
-    "getQuote": "Požádat o nabídku",
+
+    "getQuote": "Získat cenovou nabídku",
+
     "track": "Sledovat",
+
     "sendMessage": "Odeslat zprávu",
-    "donateNow": "Darovat nyní"
+
+    "donateNow": "Přispět nyní"
   },
 
-  "cookie": {
-    "title": "🍪 Oznámení o cookies",
-    "description": "SDC Shipping Freight používá nezbytné soubory cookies ke zlepšení vašeho prohlížení a zajištění správného fungování webových stránek. Kliknutím na Přijmout souhlasíte s používáním cookies."
+  "actions": {
+    "learnMore": "Zjistit více",
+
+    "viewDetails": "Zobrazit podrobnosti",
+
+    "close": "Zavřít",
+
+    "submit": "Odeslat",
+
+    "cancel": "Zrušit"
   },
 
-  "forms": {
-    "fullName": "Celé jméno",
-    "emailAddress": "E-mailová adresa",
-    "trackingId": "Zadejte číslo zásilky",
-    "message": "Jak vám dnes můžeme pomoci?"
+  "status": {
+    "active": "Aktivní",
+
+    "inactive": "Neaktivní",
+
+    "success": "Úspěšné",
+
+    "failed": "Neúspěšné",
+
+    "pending": "Čekající"
   },
 
-  "contact": {
-    "getInTouch": "Kontaktujte nás",
-    "customerSupport": "Zákaznická podpora 24/7",
-    "servingWorldwide": "Obsluhujeme klienty po celém světě"
-  },
+  "navigation": {
+    "home": "Domů",
 
-  "footer": {
-    "company": "SDC Shipping Freight",
-
-    "description": "SDC Shipping Freight poskytuje bezpečná, spolehlivá a efektivní logistická řešení po celém světě. Specializujeme se na námořní a leteckou přepravu, skladování, celní odbavení, spedici a kompletní správu nákladu, přičemž poskytujeme spolehlivé přepravní služby firmám i jednotlivcům na globálních obchodních trasách.",
-
-    "explore": "Prozkoumat",
+    "about": "O nás",
 
     "services": "Služby",
 
-    "service1": "Námořní přeprava",
-    "service2": "Letecká přeprava",
-    "service3": "Skladování",
-    "service4": "Celní odbavení",
-    "service5": "Spedice",
-
-    "support": "Podpora",
-
-    "website": "Webové stránky",
-    "emailSupport": "E-mailová podpora",
-    "viberSupport": "Podpora Viber",
-    "liveChat": "Živý chat",
-
     "contact": "Kontakt",
 
-    "viberCustomerSupport": "💬 Zákaznická podpora Viber",
+    "tracking": "Sledování zásilky"
+  },
 
-    "liveSupport": "🟢 Živá podpora 24/7",
+  "messages": {
+    "welcome": "Vítejte ve společnosti SDC Shipping Freight",
 
-    "copyright": "© 2014–2026 SDC Shipping Freight. Všechna práva vyhrazena."
+    "thankYou": "Děkujeme za váš požadavek.",
+
+    "tryAgain": "Zkuste to prosím znovu později."
   }
 }

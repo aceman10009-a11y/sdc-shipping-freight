@@ -4,7 +4,7 @@
 
     "services": "Usługi",
 
-    "track": "Śledź",
+    "track": "Śledzenie",
 
     "why": "Dlaczego my",
 
@@ -20,19 +20,19 @@
 
     "trackShipment": "Śledź przesyłkę",
 
-    "getQuote": "Poproś o wycenę",
+    "getQuote": "Uzyskaj wycenę",
 
     "track": "Śledź",
 
     "sendMessage": "Wyślij wiadomość",
 
-    "donateNow": "Przekaż darowiznę"
+    "donateNow": "Wesprzyj teraz"
   },
 
   "cookie": {
     "title": "🍪 Informacja o plikach cookie",
 
-    "description": "SDC Shipping Freight używa niezbędnych plików cookie, aby zapewnić prawidłowe działanie strony internetowej oraz poprawić komfort korzystania z serwisu. Klikając „Akceptuj”, wyrażasz zgodę na używanie przez nas plików cookie."
+    "description": "SDC Shipping Freight używa niezbędnych plików cookie, aby poprawić komfort przeglądania i zapewnić prawidłowe działanie naszej strony internetowej. Klikając „Akceptuj”, wyrażasz zgodę na korzystanie z plików cookie."
   },
 
   "forms": {
@@ -40,15 +40,23 @@
 
     "emailAddress": "Adres e-mail",
 
-    "trackingId": "Wprowadź numer przesyłki",
+    "trackingId": "Wprowadź numer śledzenia",
 
     "message": "Jak możemy Ci dzisiaj pomóc?"
+  },
+
+  "contact": {
+    "getInTouch": "Skontaktuj się z nami",
+
+    "customerSupport": "Obsługa klienta",
+
+    "servingWorldwide": "Obsługujemy klientów na całym świecie"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight zapewnia bezpieczne, niezawodne i wydajne rozwiązania logistyczne na całym świecie. Specjalizujemy się w transporcie morskim, lotniczym, magazynowaniu, odprawach celnych, spedycji oraz kompleksowej obsłudze ładunków.",
+    "description": "SDC Shipping Freight zapewnia bezpieczne, niezawodne i wydajne rozwiązania logistyczne na całym świecie. Specjalizujemy się w transporcie morskim, lotniczym, magazynowaniu, odprawie celnej, spedycji oraz kompleksowym zarządzaniu ładunkiem. Oferujemy firmom i osobom prywatnym niezawodne usługi transportowe na głównych światowych szlakach handlowych.",
 
     "explore": "Odkrywaj",
 
@@ -76,9 +84,9 @@
 
     "contact": "Kontakt",
 
-    "viberCustomerSupport": "💬 Obsługa klienta Viber",
+    "viberCustomerSupport": "💬 Wsparcie klienta Viber",
 
-    "liveSupport": "🟢 Wsparcie na żywo 24/7",
+    "liveSupport": "🟢 Całodobowe wsparcie 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Wszelkie prawa zastrzeżone."
   }

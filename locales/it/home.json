@@ -12,25 +12,25 @@
 
     "description": "Offriamo soluzioni affidabili per il trasporto merci e la gestione della catena di approvvigionamento attraverso servizi marittimi, aerei, terrestri e di magazzinaggio, supportati da competenze logistiche globali e visibilità in tempo reale.",
 
-    "sea": {
+    "seaFreight": {
       "title": "Trasporto marittimo",
 
       "description": "Servizi di trasporto marittimo Full Container Load (FCL) e Less than Container Load (LCL) che collegano i principali porti mondiali con pianificazione affidabile e visibilità delle merci."
     },
 
-    "air": {
+    "airFreight": {
       "title": "Trasporto aereo",
 
       "description": "Servizi internazionali di trasporto aereo rapido con gestione prioritaria, coordinamento doganale e trasporto sicuro per spedizioni urgenti."
     },
 
-    "land": {
+    "landTransport": {
       "title": "Trasporto terrestre",
 
       "description": "Trasporto stradale nazionale e internazionale affidabile supportato da moderna gestione della flotta, monitoraggio in tempo reale e professionisti logistici esperti."
     },
 
-    "warehouse": {
+    "warehousing": {
       "title": "Magazzinaggio",
 
       "description": "Soluzioni sicure di stoccaggio, gestione inventario, distribuzione e fulfillment progettate per ottimizzare la catena di approvvigionamento."

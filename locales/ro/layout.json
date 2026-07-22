@@ -1,135 +1,93 @@
 {
-  "hero": {
-    "title": "Transport global.<br>Livrat cu precizie.",
+  "navbar": {
+    "brand": "SDC Shipping Freight",
 
-    "description": "Soluții sigure de transport maritim, aerian și rutier, cu monitorizarea expedierilor în timp real."
+    "services": "Servicii",
+
+    "track": "Urmărire",
+
+    "why": "De ce noi",
+
+    "contact": "Contact",
+
+    "donate": "Donează"
   },
 
-  "services": {
-    "tag": "EXPERTIZA NOASTRĂ",
+  "buttons": {
+    "accept": "Acceptă",
 
-    "title": "Soluții logistice globale integrate",
+    "decline": "Refuză",
 
-    "description": "Oferim soluții fiabile de transport și lanț de aprovizionare prin servicii maritime, aeriene, rutiere și de depozitare, susținute de expertiză logistică globală și vizibilitate în timp real.",
+    "trackShipment": "Urmărește expedierea",
 
-    "seaFreight": {
-      "title": "Transport maritim",
+    "getQuote": "Solicită ofertă",
 
-      "description": "Soluții eficiente din punct de vedere al costurilor pentru Full Container Load (FCL) și Less than Container Load (LCL), conectând principalele porturi ale lumii prin programe fiabile și vizibilitate completă asupra mărfurilor."
-    },
+    "track": "Urmărește",
 
-    "airFreight": {
-      "title": "Transport aerian",
+    "sendMessage": "Trimite mesaj",
 
-      "description": "Servicii rapide de transport aerian internațional, cu manipulare prioritară, coordonarea formalităților vamale și transport sigur pentru expedierile urgente din întreaga lume."
-    },
-
-    "landTransport": {
-      "title": "Transport rutier",
-
-      "description": "Servicii fiabile de transport rutier național și internațional, susținute de management modern al flotei, monitorizare în timp real și profesioniști experimentați în logistică."
-    },
-
-    "warehousing": {
-      "title": "Depozitare",
-
-      "description": "Servicii sigure de depozitare, gestionare a stocurilor, distribuție și îndeplinire a comenzilor, concepute pentru a eficientiza lanțul dumneavoastră de aprovizionare."
-    }
+    "donateNow": "Donează acum"
   },
 
-  "tracking": {
-    "title": "Urmărește expedierea",
+  "cookie": {
+    "title": "🍪 Notificare privind cookie-urile",
 
-    "placeholder": "Introduceți numărul de urmărire"
+    "description": "SDC Shipping Freight utilizează cookie-uri esențiale pentru a vă îmbunătăți experiența de navigare și pentru a asigura funcționarea corectă a site-ului nostru. Făcând clic pe „Acceptă”, sunteți de acord cu utilizarea cookie-urilor."
   },
 
-  "stats": {
-    "title": "Rețea logistică globală",
+  "forms": {
+    "fullName": "Nume complet",
 
-    "ports": {
-      "value": "120+",
-      "label": "Porturi conectate"
-    },
+    "emailAddress": "Adresă de e-mail",
 
-    "countries": {
-      "value": "50+",
-      "label": "Țări deservite"
-    },
+    "trackingId": "Introduceți numărul de urmărire",
 
-    "monitoring": {
-      "value": "24/7",
-      "label": "Monitorizarea expedierilor"
-    },
-
-    "reliability": {
-      "value": "99%",
-      "label": "Fiabilitatea livrărilor"
-    }
-  },
-
-  "why": {
-    "tag": "DE CE SĂ NE ALEGEȚI",
-
-    "title": "Soluții logistice globale de încredere",
-
-    "description": "SDC Shipping Freight oferă servicii internaționale de transport și logistică fiabile, susținute de experiență în industrie, tehnologie modernă de monitorizare și un angajament ferm pentru livrări sigure și la timp către companii și clienți individuali din întreaga lume.",
-
-    "network": {
-      "title": "Rețea logistică globală",
-
-      "description": "Rețeaua noastră logistică globală conectează principalele porturi, aeroporturi și centre de transport, asigurând circulația eficientă a mărfurilor pe piețele internaționale."
-    },
-
-    "delivery": {
-      "title": "Livrare fiabilă și la timp",
-
-      "description": "Fiecare expediere este coordonată cu atenție pentru a respecta termenele de livrare, asigurând în același timp operațiuni eficiente și comunicare continuă pe tot parcursul transportului."
-    },
-
-    "security": {
-      "title": "Manipulare sigură a mărfurilor",
-
-      "description": "Respectăm proceduri stricte de manipulare a mărfurilor și standarde recunoscute la nivel internațional pentru a proteja fiecare expediere de la preluare până la livrarea finală."
-    },
-
-    "partnerships": {
-      "title": "Parteneriate de încredere",
-
-      "description": "Colaborând cu parteneri logistici de încredere și companii globale de transport, oferim soluții de expediere scalabile care răspund nevoilor în continuă evoluție ale clienților noștri. De asemenea, colaborăm cu Cainiao Global pentru a îmbunătăți eficiența logistică."
-    }
+    "message": "Cum vă putem ajuta astăzi?"
   },
 
   "contact": {
-    "tag": "CONTACT",
+    "getInTouch": "Luați legătura cu noi",
 
-    "title": "Transportăm marfa dumneavoastră cu încredere",
+    "customerSupport": "Asistență clienți",
 
-    "description": "Indiferent dacă aveți nevoie de transport internațional sau de asistență logistică, echipa noastră experimentată oferă soluții fiabile adaptate cerințelor dumneavoastră.",
-
-    "info": {
-      "title": "Luați legătura cu noi",
-
-      "description": "Oferim asistență logistică profesionistă și răspuns rapid pentru toate solicitările privind transportul de mărfuri.",
-
-      "viber": "Viber",
-
-      "support": "Asistență clienți 24/7",
-
-      "worldwide": "Deservim clienți din întreaga lume"
-    }
+    "servingWorldwide": "Deservim clienți din întreaga lume"
   },
 
-  "donate": {
-    "title": "Sprijiniți rețeaua noastră logistică",
+  "footer": {
+    "company": "SDC Shipping Freight",
 
-    "description": "Sprijinul dumneavoastră contribuie la dezvoltarea infrastructurii globale de transport."
-  },
+    "description": "SDC Shipping Freight oferă soluții logistice sigure, fiabile și eficiente la nivel mondial. Suntem specializați în transport maritim, transport aerian, depozitare, vămuire, expediții și management complet al mărfurilor. Oferim companiilor și persoanelor fizice servicii de transport de încredere pe principalele rute comerciale internaționale.",
 
-  "gallery": {
-    "tag": "TRANSPORT GLOBAL",
+    "explore": "Explorează",
 
-    "title": "Transportăm mărfuri pe toate oceanele lumii",
+    "services": "Servicii",
 
-    "description": "Fiecare expediere reflectă angajamentul nostru față de fiabilitate, precizie și soluții logistice de cea mai înaltă calitate."
+    "service1": "Transport maritim",
+
+    "service2": "Transport aerian",
+
+    "service3": "Depozitare",
+
+    "service4": "Vămuire",
+
+    "service5": "Expediții",
+
+    "support": "Asistență",
+
+    "website": "Website",
+
+    "emailSupport": "Asistență prin e-mail",
+
+    "viberSupport": "Asistență Viber",
+
+    "liveChat": "Chat live",
+
+    "contact": "Contact",
+
+    "viberCustomerSupport": "💬 Asistență clienți Viber",
+
+    "liveSupport": "🟢 Asistență 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Toate drepturile rezervate."
   }
 }

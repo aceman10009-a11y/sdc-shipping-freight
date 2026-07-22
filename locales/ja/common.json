@@ -5,6 +5,22 @@
 
   "loading": "読み込み中...",
 
+  "buttons": {
+    "accept": "同意する",
+
+    "decline": "拒否する",
+
+    "trackShipment": "貨物を追跡",
+
+    "getQuote": "見積もりを依頼",
+
+    "track": "追跡",
+
+    "sendMessage": "メッセージを送信",
+
+    "donateNow": "今すぐ寄付"
+  },
+
   "actions": {
     "learnMore": "詳細を見る",
 
@@ -38,13 +54,13 @@
 
     "contact": "お問い合わせ",
 
-    "tracking": "配送追跡"
+    "tracking": "貨物追跡"
   },
 
   "messages": {
     "welcome": "SDC Shipping Freightへようこそ",
 
-    "thankYou": "お問い合わせありがとうございます。",
+    "thankYou": "お問い合わせいただきありがとうございます。",
 
     "tryAgain": "後でもう一度お試しください。"
   }

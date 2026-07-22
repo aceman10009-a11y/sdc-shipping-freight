@@ -4,44 +4,49 @@
     "description": "Secure freight solutions across sea, air and land with real-time shipment tracking."
   },
 
-  "services": {
-    "tag": "OUR EXPERTISE",
-    "title": "Integrated Global Logistics Solutions",
-    "description": "Delivering dependable freight and supply chain solutions through sea, air, road and warehousing services backed by global logistics expertise and real-time shipment visibility.",
+ "seaFreight": {
+  "title": "Sea Freight",
+  "description": "Cost-effective Full Container Load (FCL) and Less than Container Load (LCL) shipping connecting major ports worldwide with reliable scheduling and cargo visibility."
+},
 
-    "sea": {
-      "title": "Sea Freight",
-      "description": "Cost-effective Full Container Load (FCL) and Less than Container Load (LCL) shipping connecting major ports worldwide with reliable scheduling and cargo visibility."
-    },
+"airFreight": {
+  "title": "Air Freight",
+  "description": "Fast international air cargo services with priority handling, customs coordination and secure transportation for urgent shipments worldwide."
+},
 
-    "air": {
-      "title": "Air Freight",
-      "description": "Fast international air cargo services with priority handling, customs coordination and secure transportation for urgent shipments worldwide."
-    },
+"landTransport": {
+  "title": "Land Transport",
+  "description": "Reliable domestic and cross-border road transport supported by modern fleet management, real-time tracking and experienced logistics professionals."
+},
 
-    "land": {
-      "title": "Land Transport",
-      "description": "Reliable domestic and cross-border road transport supported by modern fleet management, real-time tracking and experienced logistics professionals."
-    },
-
-    "warehouse": {
-      "title": "Warehousing",
-      "description": "Secure warehousing, inventory management, distribution and fulfillment services designed to streamline your supply chain."
-    }
-  },
+"warehousing": {
+  "title": "Warehousing",
+  "description": "Secure warehousing, inventory management, distribution and fulfillment services designed to streamline your supply chain."
+},
 
   "tracking": {
     "title": "Track Shipment",
     "placeholder": "Enter Tracking ID"
   },
 
-  "statistics": {
+  "stats": {
     "title": "Global Logistics Network",
 
-    "ports": "Ports Connected",
-    "countries": "Countries Served",
-    "monitoring": "Shipment Monitoring",
-    "reliability": "Delivery Reliability"
+    "ports": {
+      "label": "Ports Connected"
+    },
+
+    "countries": {
+      "label": "Countries Served"
+    },
+
+    "monitoring": {
+      "label": "Shipment Monitoring"
+    },
+
+    "reliability": {
+      "label": "Delivery Reliability"
+    }
   },
 
   "why": {
@@ -83,9 +88,7 @@
       "description": "We are committed to providing professional logistics support and prompt assistance for all shipping enquiries.",
 
       "viber": "Viber",
-
       "support": "24/7 Customer Support",
-
       "worldwide": "Serving Clients Worldwide"
     },
 

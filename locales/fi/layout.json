@@ -32,7 +32,7 @@
   "cookie": {
     "title": "🍪 Evästeilmoitus",
 
-    "description": "SDC Shipping Freight käyttää välttämättömiä evästeitä parantaakseen selauskokemustasi ja varmistaakseen verkkosivuston oikean toiminnan. Hyväksymällä hyväksyt evästeiden käytön."
+    "description": "SDC Shipping Freight käyttää välttämättömiä evästeitä parantaakseen selauskokemustasi ja varmistaakseen verkkosivustomme asianmukaisen toiminnan. Klikkaamalla \"Hyväksy\" hyväksyt evästeiden käytön."
   },
 
   "forms": {
@@ -42,13 +42,21 @@
 
     "trackingId": "Syötä seurantanumero",
 
-    "message": "Kuinka voimme auttaa tänään?"
+    "message": "Kuinka voimme auttaa sinua tänään?"
+  },
+
+  "contact": {
+    "getInTouch": "Ota yhteyttä",
+
+    "customerSupport": "Asiakastuki",
+
+    "servingWorldwide": "Palvelemme asiakkaita maailmanlaajuisesti"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight tarjoaa turvallisia, luotettavia ja tehokkaita logistiikkaratkaisuja maailmanlaajuisesti. Erikoistumme merirahtiin, lentorahtiin, varastointiin, tulliselvityksiin, huolintaan ja kokonaisvaltaiseen rahdin hallintaan.",
+    "description": "SDC Shipping Freight tarjoaa turvallisia, luotettavia ja tehokkaita logistiikkaratkaisuja maailmanlaajuisesti. Olemme erikoistuneet merirahtiin, lentorahtiin, varastointiin, tulliselvityksiin, huolintaan ja kattavaan rahdinhallintaan. Tarjoamme yrityksille ja yksityishenkilöille luotettavia kuljetuspalveluita tärkeimmillä kansainvälisillä kauppareiteillä.",
 
     "explore": "Tutustu",
 
@@ -72,13 +80,13 @@
 
     "viberSupport": "Viber-tuki",
 
-    "liveChat": "Live-chat-tuki",
+    "liveChat": "Live-chat",
 
     "contact": "Yhteystiedot",
 
     "viberCustomerSupport": "💬 Viber-asiakastuki",
 
-    "liveSupport": "🟢 24/7 Live-tuki",
+    "liveSupport": "🟢 Ympärivuorokautinen tuki 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Kaikki oikeudet pidätetään."
   }

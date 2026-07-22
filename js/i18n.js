@@ -37,12 +37,15 @@ const supportedLanguages = [
 
 const defaultLanguage = "en";
 
-
-
 let currentLanguage =
-    localStorage.getItem("sdc-language")
-    || defaultLanguage;
+    localStorage.getItem("sdc-language");
 
+if (
+    !currentLanguage ||
+    !supportedLanguages.includes(currentLanguage)
+) {
+    currentLanguage = defaultLanguage;
+}
 
 
 /* ==========================================================
@@ -55,10 +58,12 @@ async function loadTranslationFile(section){
     try {
 
 
-        const response = await fetch(
-            `locales/${currentLanguage}/${section}.json`
-        );
-
+       const response = await fetch(
+    `locales/${currentLanguage}/${section}.json?v=${Date.now()}`,
+    {
+        cache: "no-store"
+    }
+);
 
         if(!response.ok){
 
@@ -128,15 +133,17 @@ async function loadTranslations(){
 
 
 
-    for(const file of files){
+  const results = await Promise.all(
 
+    files.map(file => loadTranslationFile(file))
 
-        translations[file] =
-            await loadTranslationFile(file);
+);
 
+files.forEach((file, index) => {
 
-    }
+    translations[file] = results[index];
 
+});
 
 
     applyTranslations();
@@ -202,15 +209,41 @@ function applyTranslations(){
             getTranslation(key);
 
 
+        if (value !== undefined) {
 
-        if(value){
+            if (
 
+                typeof value === "string" &&
 
-            element.innerHTML = value;
+                value.includes("<") &&
 
+                value.includes(">")
+
+            ) {
+
+                element.innerHTML = value;
+
+            }
+
+            else {
+
+                element.textContent = value;
+
+            }
 
         }
 
+        else {
+
+            console.warn(
+
+                "Missing translation:",
+
+                key
+
+            );
+
+        }
 
 
     });
@@ -237,13 +270,31 @@ function applyTranslations(){
 
 
 
-        if(value){
+        if (value !== undefined) {
 
 
             element.placeholder = value;
 
 
+         /* ==========================================================
+       PAGE TITLE
+    ========================================================== */
+
+    const title = document.querySelector("title[data-i18n]");
+
+    if (title) {
+
+        const value = getTranslation(title.dataset.i18n);
+
+        if (value !== undefined) {
+
+            document.title = value;
+
         }
+
+    }
+
+}
 
 
 

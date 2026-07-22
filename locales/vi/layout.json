@@ -6,7 +6,7 @@
 
     "track": "Theo dõi",
 
-    "why": "Tại sao chúng tôi",
+    "why": "Tại sao chọn chúng tôi",
 
     "contact": "Liên hệ",
 
@@ -30,9 +30,9 @@
   },
 
   "cookie": {
-    "title": "🍪 Thông báo Cookie",
+    "title": "🍪 Thông báo về Cookie",
 
-    "description": "SDC Shipping Freight sử dụng các cookie cần thiết để đảm bảo website hoạt động chính xác và cải thiện trải nghiệm người dùng của bạn. Bằng cách nhấp vào \"Chấp nhận\", bạn đồng ý với việc chúng tôi sử dụng cookie."
+    "description": "SDC Shipping Freight sử dụng các cookie cần thiết để cải thiện trải nghiệm duyệt web của bạn và đảm bảo trang web hoạt động chính xác. Bằng cách nhấp vào \"Chấp nhận\", bạn đồng ý với việc sử dụng cookie."
   },
 
   "forms": {
@@ -42,13 +42,21 @@
 
     "trackingId": "Nhập mã theo dõi",
 
-    "message": "Hôm nay chúng tôi có thể hỗ trợ bạn điều gì?"
+    "message": "Hôm nay chúng tôi có thể hỗ trợ bạn như thế nào?"
+  },
+
+  "contact": {
+    "getInTouch": "Liên hệ với chúng tôi",
+
+    "customerSupport": "Hỗ trợ khách hàng",
+
+    "servingWorldwide": "Phục vụ khách hàng trên toàn thế giới"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight cung cấp các giải pháp logistics an toàn, đáng tin cậy và hiệu quả trên toàn thế giới. Chúng tôi chuyên về vận tải đường biển, vận tải hàng không, kho bãi, thủ tục hải quan, dịch vụ giao nhận và quản lý vận chuyển toàn diện.",
+    "description": "SDC Shipping Freight cung cấp các giải pháp logistics an toàn, đáng tin cậy và hiệu quả trên toàn thế giới. Chúng tôi chuyên về vận tải đường biển, vận tải hàng không, kho bãi, thông quan hải quan, giao nhận vận tải và quản lý hàng hóa toàn diện. Chúng tôi mang đến các dịch vụ vận chuyển đáng tin cậy cho doanh nghiệp và cá nhân trên các tuyến thương mại chính của thế giới.",
 
     "explore": "Khám phá",
 
@@ -60,13 +68,13 @@
 
     "service3": "Kho bãi",
 
-    "service4": "Thủ tục hải quan",
+    "service4": "Thông quan hải quan",
 
-    "service5": "Dịch vụ giao nhận",
+    "service5": "Giao nhận vận tải",
 
     "support": "Hỗ trợ",
 
-    "website": "Website",
+    "website": "Trang web",
 
     "emailSupport": "Hỗ trợ qua email",
 
@@ -80,6 +88,6 @@
 
     "liveSupport": "🟢 Hỗ trợ trực tuyến 24/7",
 
-    "copyright": "© 2014–2026 SDC Shipping Freight. Bảo lưu mọi quyền."
+    "copyright": "© 2014–2026 SDC Shipping Freight. Đã đăng ký mọi quyền."
   }
 }

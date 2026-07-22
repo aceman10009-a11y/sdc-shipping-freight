@@ -12,25 +12,25 @@
 
     "description": "Tarjoamme luotettavia rahti- ja toimitusketjuratkaisuja meri-, lento- ja maantiekuljetusten sekä varastointipalvelujen kautta maailmanlaajuisen logistiikkaosaamisen ja reaaliaikaisen näkyvyyden tukemana.",
 
-    "sea": {
+    "seaFreight": {
       "title": "Merirahti",
 
       "description": "Kustannustehokkaat täyskontti- (FCL) ja osakonttiratkaisut (LCL), jotka yhdistävät tärkeät satamat maailmanlaajuisesti luotettavalla aikataulutuksella ja lastin näkyvyydellä."
     },
 
-    "air": {
+    "airFreight": {
       "title": "Lentorahti",
 
       "description": "Nopeat kansainväliset lentorahtipalvelut, joissa on ensisijainen käsittely, tullikoordinointi ja turvallinen kuljetus kiireellisille lähetyksille."
     },
 
-    "land": {
+    "landTransport": {
       "title": "Maantiekuljetukset",
 
       "description": "Luotettavat kotimaiset ja kansainväliset maantiekuljetukset nykyaikaisen kalustonhallinnan, reaaliaikaisen seurannan ja kokeneiden logistiikka-ammattilaisten tukemana."
     },
 
-    "warehouse": {
+    "warehousing": {
       "title": "Varastointi",
 
       "description": "Turvalliset varastointi-, varastonhallinta-, jakelu- ja toimitusratkaisut, jotka on suunniteltu tehostamaan toimitusketjua."

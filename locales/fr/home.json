@@ -12,25 +12,25 @@
 
     "description": "Nous fournissons des solutions fiables de transport et de chaîne d'approvisionnement grâce au fret maritime, aérien, terrestre et aux services d'entreposage, soutenues par une expertise logistique mondiale et une visibilité en temps réel.",
 
-    "sea": {
+    "seaFreight": {
       "title": "Fret maritime",
 
       "description": "Des services économiques de chargement complet (FCL) et de groupage (LCL) reliant les principaux ports mondiaux avec une planification fiable et une visibilité sur les marchandises."
     },
 
-    "air": {
+    "airFreight": {
       "title": "Fret aérien",
 
       "description": "Des services internationaux de fret aérien rapides avec une manutention prioritaire, une coordination douanière et un transport sécurisé pour les expéditions urgentes."
     },
 
-    "land": {
+    "landTransport": {
       "title": "Transport terrestre",
 
       "description": "Des solutions fiables de transport routier national et transfrontalier soutenues par une gestion moderne de flotte, un suivi en temps réel et des professionnels expérimentés."
     },
 
-    "warehouse": {
+    "warehousing": {
       "title": "Entreposage",
 
       "description": "Des solutions sécurisées d'entreposage, de gestion des stocks, de distribution et de préparation des commandes conçues pour optimiser votre chaîne logistique."

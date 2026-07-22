@@ -5,6 +5,22 @@
 
   "loading": "Caricamento...",
 
+  "buttons": {
+    "accept": "Accetta",
+
+    "decline": "Rifiuta",
+
+    "trackShipment": "Traccia spedizione",
+
+    "getQuote": "Richiedi preventivo",
+
+    "track": "Traccia",
+
+    "sendMessage": "Invia messaggio",
+
+    "donateNow": "Dona ora"
+  },
+
   "actions": {
     "learnMore": "Scopri di più",
 
@@ -38,13 +54,13 @@
 
     "contact": "Contatti",
 
-    "tracking": "Monitoraggio spedizione"
+    "tracking": "Traccia spedizione"
   },
 
   "messages": {
-    "welcome": "Benvenuti in SDC Shipping Freight",
+    "welcome": "Benvenuto in SDC Shipping Freight",
 
-    "thankYou": "Grazie per la vostra richiesta.",
+    "thankYou": "Grazie per la tua richiesta.",
 
     "tryAgain": "Riprova più tardi."
   }

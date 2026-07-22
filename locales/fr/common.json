@@ -1,9 +1,25 @@
 {
   "language": {
-    "select": "Sélectionner la langue"
+    "select": "Choisir la langue"
   },
 
   "loading": "Chargement...",
+
+  "buttons": {
+    "accept": "Accepter",
+
+    "decline": "Refuser",
+
+    "trackShipment": "Suivre l'expédition",
+
+    "getQuote": "Obtenir un devis",
+
+    "track": "Suivre",
+
+    "sendMessage": "Envoyer le message",
+
+    "donateNow": "Faire un don"
+  },
 
   "actions": {
     "learnMore": "En savoir plus",
@@ -12,7 +28,7 @@
 
     "close": "Fermer",
 
-    "submit": "Envoyer",
+    "submit": "Soumettre",
 
     "cancel": "Annuler"
   },
@@ -22,9 +38,9 @@
 
     "inactive": "Inactif",
 
-    "success": "Réussi",
+    "success": "Succès",
 
-    "failed": "Échoué",
+    "failed": "Échec",
 
     "pending": "En attente"
   },
@@ -38,7 +54,7 @@
 
     "contact": "Contact",
 
-    "tracking": "Suivi des expéditions"
+    "tracking": "Suivi d'expédition"
   },
 
   "messages": {

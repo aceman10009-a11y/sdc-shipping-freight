@@ -1,135 +1,93 @@
 {
-  "hero": {
-    "title": "Expédition mondiale.<br>Livrée avec précision.",
+  "navbar": {
+    "brand": "SDC Shipping Freight",
 
-    "description": "Des solutions de transport sécurisées par mer, air et terre avec un suivi des expéditions en temps réel."
+    "services": "Services",
+
+    "track": "Suivi",
+
+    "why": "Pourquoi nous",
+
+    "contact": "Contact",
+
+    "donate": "Faire un don"
   },
 
-  "services": {
-    "tag": "NOTRE EXPERTISE",
+  "buttons": {
+    "accept": "Accepter",
 
-    "title": "Solutions logistiques mondiales intégrées",
+    "decline": "Refuser",
 
-    "description": "Nous fournissons des solutions fiables de transport et de chaîne d'approvisionnement grâce au fret maritime, aérien, terrestre et aux services d'entreposage, soutenues par une expertise logistique mondiale et une visibilité en temps réel.",
+    "trackShipment": "Suivre l'expédition",
 
-    "sea": {
-      "title": "Fret maritime",
+    "getQuote": "Obtenir un devis",
 
-      "description": "Des services économiques de chargement complet (FCL) et de groupage (LCL) reliant les principaux ports mondiaux avec une planification fiable et une visibilité sur les marchandises."
-    },
+    "track": "Suivre",
 
-    "air": {
-      "title": "Fret aérien",
+    "sendMessage": "Envoyer un message",
 
-      "description": "Des services internationaux de fret aérien rapides avec une manutention prioritaire, une coordination douanière et un transport sécurisé pour les expéditions urgentes."
-    },
-
-    "land": {
-      "title": "Transport terrestre",
-
-      "description": "Des solutions fiables de transport routier national et transfrontalier soutenues par une gestion moderne de flotte, un suivi en temps réel et des professionnels expérimentés."
-    },
-
-    "warehouse": {
-      "title": "Entreposage",
-
-      "description": "Des solutions sécurisées d'entreposage, de gestion des stocks, de distribution et de préparation des commandes conçues pour optimiser votre chaîne logistique."
-    }
+    "donateNow": "Faire un don maintenant"
   },
 
-  "tracking": {
-    "title": "Suivre une expédition",
+  "cookie": {
+    "title": "🍪 Notification des cookies",
 
-    "placeholder": "Entrez votre numéro de suivi"
+    "description": "SDC Shipping Freight utilise des cookies essentiels pour améliorer votre expérience de navigation et garantir le bon fonctionnement de notre site web. En cliquant sur « Accepter », vous acceptez l'utilisation des cookies."
   },
 
-  "stats": {
-    "title": "Réseau logistique mondial",
+  "forms": {
+    "fullName": "Nom complet",
 
-    "ports": {
-      "value": "120+",
-      "label": "Ports connectés"
-    },
+    "emailAddress": "Adresse e-mail",
 
-    "countries": {
-      "value": "50+",
-      "label": "Pays desservis"
-    },
+    "trackingId": "Entrez le numéro de suivi",
 
-    "monitoring": {
-      "value": "24/7",
-      "label": "Surveillance des expéditions"
-    },
-
-    "reliability": {
-      "value": "99%",
-      "label": "Fiabilité des livraisons"
-    }
-  },
-
-  "why": {
-    "tag": "POURQUOI NOUS CHOISIR",
-
-    "title": "Des solutions logistiques mondiales de confiance",
-
-    "description": "SDC Shipping Freight fournit des services internationaux de transport et de logistique soutenus par une expertise du secteur, un suivi avancé des expéditions et un engagement envers des livraisons sécurisées et ponctuelles pour les entreprises et les particuliers du monde entier.",
-
-    "network": {
-      "title": "Réseau logistique mondial",
-
-      "description": "Notre réseau logistique mondial relie les principaux ports, aéroports et centres de transport afin de garantir un déplacement efficace des marchandises sur les marchés internationaux."
-    },
-
-    "delivery": {
-      "title": "Livraison fiable dans les délais",
-
-      "description": "Chaque expédition est soigneusement coordonnée afin de respecter les délais tout en maintenant une efficacité opérationnelle et une communication constante tout au long du transport."
-    },
-
-    "security": {
-      "title": "Gestion sécurisée des marchandises",
-
-      "description": "Nous appliquons des procédures strictes de manutention et les meilleures pratiques du secteur afin de protéger les expéditions de la collecte jusqu'à la livraison finale."
-    },
-
-    "partnerships": {
-      "title": "Partenariats industriels de confiance",
-
-      "description": "Grâce à nos collaborations avec des partenaires logistiques et transporteurs mondiaux reconnus, nous proposons des solutions évolutives répondant aux besoins changeants de nos clients. Nous travaillons également avec Cainiao Global pour améliorer l'efficacité logistique."
-    }
+    "message": "Comment pouvons-nous vous aider aujourd'hui ?"
   },
 
   "contact": {
-    "tag": "CONTACTEZ-NOUS",
+    "getInTouch": "Prenez contact avec nous",
 
-    "title": "Déplaçons votre marchandise en toute confiance",
+    "customerSupport": "Support client",
 
-    "description": "Que vous ayez besoin d'un transport international ou d'un soutien logistique, notre équipe expérimentée est prête à fournir des solutions adaptées à vos besoins.",
-
-    "info": {
-      "title": "Contactez-nous",
-
-      "description": "Nous sommes engagés à fournir un support logistique professionnel et une assistance rapide pour toutes vos demandes d'expédition.",
-
-      "viber": "Viber",
-
-      "support": "Assistance client 24/7",
-
-      "worldwide": "Clients servis dans le monde entier"
-    }
+    "servingWorldwide": "Nous servons des clients dans le monde entier"
   },
 
-  "donate": {
-    "title": "Soutenez notre réseau logistique",
+  "footer": {
+    "company": "SDC Shipping Freight",
 
-    "description": "Votre soutien contribue à améliorer l'infrastructure mondiale du transport."
-  },
+    "description": "SDC Shipping Freight fournit des solutions logistiques sécurisées, fiables et efficaces dans le monde entier. Nous sommes spécialisés dans le transport maritime, le transport aérien, l'entreposage, le dédouanement, l'expédition de fret et la gestion complète des marchandises. Nous proposons aux entreprises et aux particuliers des services de transport fiables sur les principales routes commerciales mondiales.",
 
-  "gallery": {
-    "tag": "EXPÉDITION MONDIALE",
+    "explore": "Explorer",
 
-    "title": "Transporter des marchandises à travers tous les océans",
+    "services": "Services",
 
-    "description": "Chaque expédition reflète notre engagement envers la fiabilité, la précision et des solutions logistiques de classe mondiale."
+    "service1": "Transport maritime",
+
+    "service2": "Transport aérien",
+
+    "service3": "Entreposage",
+
+    "service4": "Dédouanement",
+
+    "service5": "Expédition de fret",
+
+    "support": "Assistance",
+
+    "website": "Site web",
+
+    "emailSupport": "Assistance par e-mail",
+
+    "viberSupport": "Support Viber",
+
+    "liveChat": "Chat en direct",
+
+    "contact": "Contact",
+
+    "viberCustomerSupport": "💬 Support client Viber",
+
+    "liveSupport": "🟢 Assistance 24/7",
+
+    "copyright": "© 2014–2026 SDC Shipping Freight. Tous droits réservés."
   }
 }

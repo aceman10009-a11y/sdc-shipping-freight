@@ -4,23 +4,23 @@
 
     "services": "서비스",
 
-    "track": "배송 추적",
+    "track": "추적",
 
-    "why": "선택하는 이유",
+    "why": "왜 우리인가",
 
-    "contact": "문의하기",
+    "contact": "연락처",
 
     "donate": "기부"
   },
 
   "buttons": {
-    "accept": "동의",
+    "accept": "수락",
 
-    "decline": "거부",
+    "decline": "거절",
 
     "trackShipment": "배송 추적",
 
-    "getQuote": "견적 요청",
+    "getQuote": "견적 받기",
 
     "track": "추적",
 
@@ -32,7 +32,7 @@
   "cookie": {
     "title": "🍪 쿠키 알림",
 
-    "description": "SDC Shipping Freight는 웹사이트의 정상적인 작동과 더 나은 사용자 경험을 제공하기 위해 필수 쿠키를 사용합니다. '동의'를 클릭하면 쿠키 사용에 동의하는 것으로 간주됩니다."
+    "description": "SDC Shipping Freight는 더 나은 브라우징 경험을 제공하고 웹사이트가 정상적으로 작동하도록 필수 쿠키를 사용합니다. \"수락\"을 클릭하면 쿠키 사용에 동의하는 것입니다."
   },
 
   "forms": {
@@ -40,15 +40,23 @@
 
     "emailAddress": "이메일 주소",
 
-    "trackingId": "배송 번호 입력",
+    "trackingId": "추적 번호 입력",
 
-    "message": "어떻게 도와드릴까요?"
+    "message": "오늘 어떻게 도와드릴까요?"
+  },
+
+  "contact": {
+    "getInTouch": "문의하기",
+
+    "customerSupport": "고객 지원",
+
+    "servingWorldwide": "전 세계 고객 지원"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight는 전 세계 고객에게 안전하고 신뢰할 수 있으며 효율적인 물류 솔루션을 제공합니다. 해상 운송, 항공 운송, 창고 관리, 통관, 화물 운송 및 종합적인 화물 관리 서비스를 전문으로 합니다.",
+    "description": "SDC Shipping Freight는 전 세계에 안전하고 신뢰할 수 있으며 효율적인 물류 솔루션을 제공합니다. 해상 운송, 항공 운송, 창고 보관, 통관, 화물 운송 및 종합 화물 관리를 전문으로 합니다. 기업과 개인 고객에게 주요 글로벌 무역 경로를 통한 신뢰할 수 있는 운송 서비스를 제공합니다.",
 
     "explore": "둘러보기",
 
@@ -58,7 +66,7 @@
 
     "service2": "항공 운송",
 
-    "service3": "창고 관리",
+    "service3": "창고 보관",
 
     "service4": "통관",
 
@@ -72,13 +80,13 @@
 
     "viberSupport": "Viber 지원",
 
-    "liveChat": "실시간 채팅 지원",
+    "liveChat": "실시간 채팅",
 
-    "contact": "문의",
+    "contact": "연락처",
 
     "viberCustomerSupport": "💬 Viber 고객 지원",
 
-    "liveSupport": "🟢 24/7 실시간 지원",
+    "liveSupport": "🟢 24/7 연중무휴 지원",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. 모든 권리 보유."
   }

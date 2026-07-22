@@ -5,8 +5,24 @@
 
   "loading": "Cargando...",
 
+  "buttons": {
+    "accept": "Aceptar",
+
+    "decline": "Rechazar",
+
+    "trackShipment": "Rastrear envío",
+
+    "getQuote": "Solicitar cotización",
+
+    "track": "Rastrear",
+
+    "sendMessage": "Enviar mensaje",
+
+    "donateNow": "Donar ahora"
+  },
+
   "actions": {
-    "learnMore": "Saber más",
+    "learnMore": "Más información",
 
     "viewDetails": "Ver detalles",
 
@@ -22,9 +38,9 @@
 
     "inactive": "Inactivo",
 
-    "success": "Exitoso",
+    "success": "Éxito",
 
-    "failed": "Fallido",
+    "failed": "Error",
 
     "pending": "Pendiente"
   },
@@ -38,7 +54,7 @@
 
     "contact": "Contacto",
 
-    "tracking": "Seguimiento de envío"
+    "tracking": "Rastrear envío"
   },
 
   "messages": {

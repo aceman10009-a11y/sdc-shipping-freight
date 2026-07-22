@@ -1,38 +1,55 @@
 {
   "navbar": {
     "brand": "SDC Shipping Freight",
+
     "services": "Services",
+
     "track": "Track",
+
     "why": "Why Us",
+
     "contact": "Contact",
+
     "donate": "Donate"
   },
 
   "buttons": {
     "accept": "Accept",
+
     "decline": "Decline",
+
     "trackShipment": "Track Shipment",
+
     "getQuote": "Get Quote",
+
     "track": "Track",
+
     "sendMessage": "Send Message",
+
     "donateNow": "Donate Now"
   },
 
   "cookie": {
     "title": "🍪 Cookie Notice",
+
     "description": "SDC Shipping Freight uses essential cookies to improve your browsing experience and ensure our website functions properly. By clicking Accept, you agree to our use of cookies."
   },
 
   "forms": {
     "fullName": "Full Name",
+
     "emailAddress": "Email Address",
+
     "trackingId": "Enter Tracking ID",
+
     "message": "How can we assist you today?"
   },
 
   "contact": {
     "getInTouch": "Get In Touch",
+
     "customerSupport": "24/7 Customer Support",
+
     "servingWorldwide": "Serving Clients Worldwide"
   },
 
@@ -46,16 +63,23 @@
     "services": "Services",
 
     "service1": "Ocean Freight",
+
     "service2": "Air Freight",
+
     "service3": "Warehousing",
+
     "service4": "Customs Clearance",
+
     "service5": "Freight Forwarding",
 
     "support": "Support",
 
     "website": "Website",
+
     "emailSupport": "Email Support",
+
     "viberSupport": "Viber Support",
+
     "liveChat": "Live Chat Support",
 
     "contact": "Contact",

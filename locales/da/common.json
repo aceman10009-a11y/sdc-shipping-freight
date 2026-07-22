@@ -5,6 +5,22 @@
 
   "loading": "Indlæser...",
 
+  "buttons": {
+    "accept": "Accepter",
+
+    "decline": "Afvis",
+
+    "trackShipment": "Spor forsendelse",
+
+    "getQuote": "Få et tilbud",
+
+    "track": "Spor",
+
+    "sendMessage": "Send besked",
+
+    "donateNow": "Donér nu"
+  },
+
   "actions": {
     "learnMore": "Læs mere",
 
@@ -24,7 +40,7 @@
 
     "success": "Gennemført",
 
-    "failed": "Mislykkedes",
+    "failed": "Mislykket",
 
     "pending": "Afventer"
   },
@@ -38,7 +54,7 @@
 
     "contact": "Kontakt",
 
-    "tracking": "Sporing"
+    "tracking": "Spor forsendelse"
   },
 
   "messages": {

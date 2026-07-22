@@ -1,67 +1,47 @@
 {
-  "language": {
-    "select": "Chọn ngôn ngữ"
+  "title": "Liên hệ với chúng tôi",
+
+  "hero": {
+    "tag": "LIÊN HỆ",
+    "title": "Hãy vận chuyển hàng hóa của bạn với sự tin cậy",
+    "description": "Dù bạn cần vận chuyển quốc tế hay hỗ trợ về logistics, đội ngũ giàu kinh nghiệm của chúng tôi luôn sẵn sàng cung cấp những giải pháp đáng tin cậy, phù hợp với nhu cầu của bạn."
   },
 
-  "loading": "Đang tải...",
+  "information": {
+    "title": "Liên hệ với chúng tôi",
 
-  "buttons": {
-    "accept": "Chấp nhận",
+    "description": "Chúng tôi cam kết cung cấp dịch vụ hỗ trợ logistics chuyên nghiệp và phản hồi nhanh chóng cho mọi yêu cầu về vận chuyển.",
 
-    "decline": "Từ chối",
+    "email": "contact@sdcshippingfreight.com",
 
-    "trackShipment": "Theo dõi lô hàng",
+    "phone": "+1 732 916 8175",
 
-    "getQuote": "Nhận báo giá",
+    "viber": "Viber",
 
-    "track": "Theo dõi",
+    "support": "Hỗ trợ khách hàng 24/7",
 
-    "sendMessage": "Gửi tin nhắn",
-
-    "donateNow": "Quyên góp ngay"
+    "worldwide": "Phục vụ khách hàng trên toàn thế giới"
   },
 
-  "actions": {
-    "learnMore": "Tìm hiểu thêm",
+  "form": {
+    "name": "Họ và tên",
 
-    "viewDetails": "Xem chi tiết",
+    "email": "Địa chỉ email",
 
-    "close": "Đóng",
+    "message": "Hôm nay chúng tôi có thể hỗ trợ bạn như thế nào?",
 
-    "submit": "Gửi",
-
-    "cancel": "Hủy"
+    "button": "Gửi tin nhắn"
   },
 
-  "status": {
-    "active": "Đang hoạt động",
-
-    "inactive": "Không hoạt động",
-
-    "success": "Thành công",
-
-    "failed": "Thất bại",
-
-    "pending": "Đang chờ"
+  "success": {
+    "message": "Tin nhắn của bạn đã được gửi thành công. Đội ngũ của chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất."
   },
 
-  "navigation": {
-    "home": "Trang chủ",
+  "errors": {
+    "required": "Vui lòng điền đầy đủ tất cả các trường bắt buộc.",
 
-    "about": "Về chúng tôi",
+    "email": "Vui lòng nhập địa chỉ email hợp lệ.",
 
-    "services": "Dịch vụ",
-
-    "contact": "Liên hệ",
-
-    "tracking": "Theo dõi lô hàng"
-  },
-
-  "messages": {
-    "welcome": "Chào mừng đến với SDC Shipping Freight",
-
-    "thankYou": "Cảm ơn bạn đã liên hệ với chúng tôi.",
-
-    "tryAgain": "Vui lòng thử lại sau."
+    "failed": "Không thể gửi tin nhắn của bạn. Vui lòng thử lại sau."
   }
 }

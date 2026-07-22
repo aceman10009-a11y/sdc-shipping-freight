@@ -1,63 +1,67 @@
 {
-  "title": "Sobre a SDC Shipping Freight",
-
-  "hero": {
-    "tag": "SOBRE NÓS",
-
-    "title": "Conectando o comércio global com logística confiável",
-
-    "description": "A SDC Shipping Freight oferece soluções logísticas internacionais confiáveis através de transporte marítimo, aéreo, terrestre, armazenamento e gestão profissional de cargas."
+  "language": {
+    "select": "Selecionar idioma"
   },
 
-  "company": {
-    "title": "Sobre a empresa",
+  "loading": "A carregar...",
 
-    "description": "A SDC Shipping Freight é uma empresa global de logística que fornece soluções de transporte seguras, eficientes e transparentes para empresas e clientes individuais em todo o mundo."
+  "buttons": {
+    "accept": "Aceitar",
+
+    "decline": "Recusar",
+
+    "trackShipment": "Rastrear envio",
+
+    "getQuote": "Obter orçamento",
+
+    "track": "Rastrear",
+
+    "sendMessage": "Enviar mensagem",
+
+    "donateNow": "Doar agora"
   },
 
-  "mission": {
-    "title": "Nossa missão",
+  "actions": {
+    "learnMore": "Saiba mais",
 
-    "description": "Nossa missão é simplificar o transporte global combinando tecnologia logística moderna, parcerias confiáveis e um excelente atendimento ao cliente."
+    "viewDetails": "Ver detalhes",
+
+    "close": "Fechar",
+
+    "submit": "Enviar",
+
+    "cancel": "Cancelar"
   },
 
-  "vision": {
-    "title": "Nossa visão",
+  "status": {
+    "active": "Ativo",
 
-    "description": "Nosso objetivo é ser um parceiro logístico global de confiança, reconhecido pela confiabilidade, inovação e excelência nas cadeias internacionais de fornecimento."
+    "inactive": "Inativo",
+
+    "success": "Sucesso",
+
+    "failed": "Falhou",
+
+    "pending": "Pendente"
   },
 
-  "values": {
-    "title": "Nossos valores fundamentais",
+  "navigation": {
+    "home": "Início",
 
-    "reliability": {
-      "title": "Confiabilidade",
+    "about": "Sobre nós",
 
-      "description": "Oferecemos serviços consistentes, entregas pontuais e processos logísticos confiáveis para atender às expectativas dos nossos clientes."
-    },
+    "services": "Serviços",
 
-    "security": {
-      "title": "Segurança",
+    "contact": "Contacto",
 
-      "description": "Protegemos cada envio através de um manuseio cuidadoso das cargas, monitoramento contínuo e cumprimento dos padrões da indústria."
-    },
-
-    "innovation": {
-      "title": "Inovação",
-
-      "description": "Utilizamos tecnologia moderna e soluções de visibilidade em tempo real para melhorar a eficiência da logística global."
-    },
-
-    "partnership": {
-      "title": "Parcerias",
-
-      "description": "Construímos relações fortes e duradouras com clientes, transportadoras e parceiros logísticos em todo o mundo."
-    }
+    "tracking": "Rastrear envio"
   },
 
-  "global": {
-    "title": "Rede logística global",
+  "messages": {
+    "welcome": "Bem-vindo à SDC Shipping Freight",
 
-    "description": "Através de parcerias estratégicas e redes internacionais de transporte, ajudamos empresas a conectar-se aos mercados globais e a construir cadeias de fornecimento eficientes."
+    "thankYou": "Obrigado pelo seu pedido.",
+
+    "tryAgain": "Por favor, tente novamente mais tarde."
   }
 }

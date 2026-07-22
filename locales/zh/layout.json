@@ -4,7 +4,7 @@
 
     "services": "服务",
 
-    "track": "追踪",
+    "track": "货物追踪",
 
     "why": "为什么选择我们",
 
@@ -18,7 +18,7 @@
 
     "decline": "拒绝",
 
-    "trackShipment": "追踪货件",
+    "trackShipment": "追踪货物",
 
     "getQuote": "获取报价",
 
@@ -30,9 +30,9 @@
   },
 
   "cookie": {
-    "title": "🍪 Cookie 使用通知",
+    "title": "🍪 Cookie 通知",
 
-    "description": "SDC Shipping Freight 使用必要的 Cookie，以确保网站正常运行并改善您的使用体验。点击“接受”即表示您同意我们使用 Cookie。"
+    "description": "SDC Shipping Freight 使用必要的 Cookie 来提升您的浏览体验并确保网站正常运行。点击“接受”即表示您同意使用 Cookie。"
   },
 
   "forms": {
@@ -40,29 +40,37 @@
 
     "emailAddress": "电子邮箱地址",
 
-    "trackingId": "输入追踪号码",
+    "trackingId": "输入追踪编号",
 
     "message": "今天我们可以如何帮助您？"
+  },
+
+  "contact": {
+    "getInTouch": "联系我们",
+
+    "customerSupport": "客户支持",
+
+    "servingWorldwide": "服务全球客户"
   },
 
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight 为全球客户提供安全、可靠、高效的物流解决方案。我们专注于海洋运输、航空运输、仓储服务、海关处理、货运代理以及综合运输管理。",
+    "description": "SDC Shipping Freight 为全球客户提供安全、可靠、高效的物流解决方案。我们专注于海运、空运、仓储、报关、货运代理以及全面的货物管理服务，为企业和个人在全球主要贸易航线上提供值得信赖的运输服务。",
 
     "explore": "探索",
 
     "services": "服务",
 
-    "service1": "海洋运输",
+    "service1": "海运",
 
-    "service2": "航空运输",
+    "service2": "空运",
 
-    "service3": "仓储服务",
+    "service3": "仓储",
 
-    "service4": "海关处理",
+    "service4": "报关",
 
-    "service5": "货运代理服务",
+    "service5": "货运代理",
 
     "support": "支持",
 
@@ -78,8 +86,8 @@
 
     "viberCustomerSupport": "💬 Viber 客户支持",
 
-    "liveSupport": "🟢 全天候在线支持",
+    "liveSupport": "🟢 全天候 24/7 在线支持",
 
-    "copyright": "© 2014–2026 SDC Shipping Freight。版权所有。"
+    "copyright": "© 2014–2026 SDC Shipping Freight。保留所有权利。"
   }
 }

@@ -4,7 +4,7 @@
 
     "services": "Tjenester",
 
-    "track": "Spor",
+    "track": "Sporing",
 
     "why": "Hvorfor oss",
 
@@ -20,7 +20,7 @@
 
     "trackShipment": "Spor forsendelse",
 
-    "getQuote": "Be om tilbud",
+    "getQuote": "Få tilbud",
 
     "track": "Spor",
 
@@ -30,9 +30,9 @@
   },
 
   "cookie": {
-    "title": "🍪 Informasjonskapselvarsel",
+    "title": "🍪 Informasjon om informasjonskapsler",
 
-    "description": "SDC Shipping Freight bruker nødvendige informasjonskapsler for å sikre at nettstedet fungerer riktig og forbedre brukeropplevelsen din. Ved å klikke på 'Godta' samtykker du til vår bruk av informasjonskapsler."
+    "description": "SDC Shipping Freight bruker nødvendige informasjonskapsler for å forbedre nettleseropplevelsen din og sikre at nettstedet vårt fungerer som det skal. Ved å klikke på \"Godta\" samtykker du til bruk av informasjonskapsler."
   },
 
   "forms": {
@@ -45,10 +45,18 @@
     "message": "Hvordan kan vi hjelpe deg i dag?"
   },
 
+  "contact": {
+    "getInTouch": "Ta kontakt",
+
+    "customerSupport": "Kundestøtte",
+
+    "servingWorldwide": "Vi betjener kunder over hele verden"
+  },
+
   "footer": {
     "company": "SDC Shipping Freight",
 
-    "description": "SDC Shipping Freight tilbyr sikre, pålitelige og effektive logistikkløsninger over hele verden. Vi spesialiserer oss på sjøfrakt, luftfrakt, lagerhåndtering, tollklarering, spedisjon og omfattende lasthåndtering.",
+    "description": "SDC Shipping Freight tilbyr sikre, pålitelige og effektive logistikkløsninger over hele verden. Vi spesialiserer oss på sjøfrakt, luftfrakt, lagerhold, fortolling, spedisjon og omfattende godshåndtering. Vi tilbyr bedrifter og privatpersoner pålitelige transporttjenester langs viktige globale handelsruter.",
 
     "explore": "Utforsk",
 
@@ -58,9 +66,9 @@
 
     "service2": "Luftfrakt",
 
-    "service3": "Lagerhåndtering",
+    "service3": "Lagerhold",
 
-    "service4": "Tollklarering",
+    "service4": "Fortolling",
 
     "service5": "Spedisjon",
 
@@ -72,13 +80,13 @@
 
     "viberSupport": "Viber-støtte",
 
-    "liveChat": "Direkte chat-støtte",
+    "liveChat": "Direkte chat",
 
     "contact": "Kontakt",
 
     "viberCustomerSupport": "💬 Viber kundestøtte",
 
-    "liveSupport": "🟢 24/7 direktestøtte",
+    "liveSupport": "🟢 Døgnåpen støtte 24/7",
 
     "copyright": "© 2014–2026 SDC Shipping Freight. Alle rettigheter forbeholdt."
   }
