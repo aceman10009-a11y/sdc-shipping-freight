@@ -4,24 +4,30 @@
     "description": "Secure freight solutions across sea, air and land with real-time shipment tracking."
   },
 
- "seaFreight": {
-  "title": "Sea Freight",
-  "description": "Cost-effective Full Container Load (FCL) and Less than Container Load (LCL) shipping connecting major ports worldwide with reliable scheduling and cargo visibility."
-},
+ "services": {
+  "tag": "OUR EXPERTISE",
+  "title": "Integrated Global Logistics Solutions",
+  "description": "Delivering dependable freight and supply chain solutions through sea, air, road, and warehousing services backed by global logistics expertise and real-time shipment visibility.",
 
-"airFreight": {
-  "title": "Air Freight",
-  "description": "Fast international air cargo services with priority handling, customs coordination and secure transportation for urgent shipments worldwide."
-},
+  "seaFreight": {
+    "title": "Sea Freight",
+    "description": "Cost-effective Full Container Load (FCL) and Less than Container Load (LCL) shipping connecting major ports worldwide with reliable scheduling and cargo visibility."
+  },
 
-"landTransport": {
-  "title": "Land Transport",
-  "description": "Reliable domestic and cross-border road transport supported by modern fleet management, real-time tracking and experienced logistics professionals."
-},
+  "airFreight": {
+    "title": "Air Freight",
+    "description": "Fast international air cargo services with priority handling, customs coordination, and secure transportation for urgent shipments worldwide."
+  },
 
-"warehousing": {
-  "title": "Warehousing",
-  "description": "Secure warehousing, inventory management, distribution and fulfillment services designed to streamline your supply chain."
+  "landTransport": {
+    "title": "Land Transport",
+    "description": "Reliable domestic and cross-border road transport supported by modern fleet management, real-time tracking, and experienced logistics professionals."
+  },
+
+  "warehousing": {
+    "title": "Warehousing",
+    "description": "Secure warehousing, inventory management, distribution, and fulfillment services designed to streamline your supply chain."
+  }
 },
 
   "tracking": {
